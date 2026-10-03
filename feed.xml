@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 19:00:04 GMT</lastBuildDate>
-<pubDate>Sat, 03 Oct 2026 19:00:03 GMT</pubDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:32:19 GMT</lastBuildDate>
+<pubDate>Sat, 03 Oct 2026 21:32:03 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,38 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #299 — Richard Socher / Recursive: $670M RSI Bet, P(Doom)=0, Sonnet 70%, Project Meridian (Conversational)</title>
+<itunes:title>Moonshots #299 — Richard Socher / Recursive: $670M RSI Bet, P(Doom)=0, Sonnet 70%, Project Meridian (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-299</guid>
+<pubDate>Sat, 03 Oct 2026 21:32:03 GMT</pubDate>
+<description>Moonshots #299 with Richard Socher (Recursive / you.com): $670M raise + $410M AWS compute behind strong recursive self-improvement; P(Doom)=0 vs Rep. Ro Khanna’s Human Control Over AI Act; Eureka Machine full-stack science (Parallel Bio organoids, virtual cells); Tavus Griffin video Turing test at 48%; Sonnet 5.5 Terminal Bench 10%→70% (AWG still prefers Opus on cost); TypeSafe Jev decision models (Jevons Paradox — not personal Jev); Project Meridian (Elon + Palmer Luckey) + AutoWarCom. Conversational Andrew &amp; Ava brief (tone v2) — not a full episode read-aloud. Instinct / Grok Bot / Town not named this episode.
+
+Listen verdict: LISTEN FULLY (~2h26m source / ~35m Atlas) if Recursive RSI raise / doom politics / Sonnet-vs-Opus cost charts matter — else SKIM Eureka+Parallel Bio (00:04–00:23) · Tavus Griffin 48% (00:47–00:55) · Recursive $670M/RSI/ASI (01:00–01:17) · Khanna ban+P(Doom)=0 (01:17–01:34) · Sonnet 70%+compute (01:36–01:50) · TypeSafe Jev (01:52–02:01) · Meridian/AutoWarCom (02:01–02:09); soft-skip ads · placenta · mosquito real-estate
+
+Sticky insights:
+- Recursive $670M + $410M AWS — strong RSI, humans only set rewards
+- P(Doom)=0 vs Ro Khanna Human Control Over AI Act / thought-police ban
+- Sonnet 5.5 Terminal Bench 10%→70%; AWG still prefers Opus on cost
+- Tavus Griffin video Turing 48%; Eureka full-stack science
+- TypeSafe Jev (Jevons) + Project Meridian (Elon+Palmer) / AutoWarCom</description>
+<itunes:summary>Moonshots #299 with Richard Socher (Recursive / you.com): $670M raise + $410M AWS compute behind strong recursive self-improvement; P(Doom)=0 vs Rep. Ro Khanna’s Human Control Over AI Act; Eureka Machine full-stack science (Parallel Bio organoids, virtual cells); Tavus Griffin video Turing test at 48%; Sonnet 5.5 Terminal Bench 10%→70% (AWG still prefers Opus on cost); TypeSafe Jev decision models (Jevons Paradox — not personal Jev); Project Meridian (Elon + Palmer Luckey) + AutoWarCom. Conversational Andrew &amp; Ava brief (tone v2) — not a full episode read-aloud. Instinct / Grok Bot / Town not named this episode.
+
+Listen verdict: LISTEN FULLY (~2h26m source / ~35m Atlas) if Recursive RSI raise / doom politics / Sonnet-vs-Opus cost charts matter — else SKIM Eureka+Parallel Bio (00:04–00:23) · Tavus Griffin 48% (00:47–00:55) · Recursive $670M/RSI/ASI (01:00–01:17) · Khanna ban+P(Doom)=0 (01:17–01:34) · Sonnet 70%+compute (01:36–01:50) · TypeSafe Jev (01:52–02:01) · Meridian/AutoWarCom (02:01–02:09); soft-skip ads · placenta · mosquito real-estate
+
+Sticky insights:
+- Recursive $670M + $410M AWS — strong RSI, humans only set rewards
+- P(Doom)=0 vs Ro Khanna Human Control Over AI Act / thought-police ban
+- Sonnet 5.5 Terminal Bench 10%→70%; AWG still prefers Opus on cost
+- Tavus Griffin video Turing 48%; Eureka full-stack science
+- TypeSafe Jev (Jevons) + Project Meridian (Elon+Palmer) / AutoWarCom</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-299.mp3" length="33461420" type="audio/mpeg"/>
+<itunes:duration>34:51</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</title>
 <itunes:title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</itunes:title>
