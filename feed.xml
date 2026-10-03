@@ -7,14 +7,14 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 04:51:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:35:19 GMT</lastBuildDate>
 <pubDate>Sat, 03 Oct 2026 00:14:56 GMT</pubDate>
-<image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
+<image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:summary>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</itunes:summary>
 <itunes:owner><itunes:name>Atlas Gowda</itunes:name></itunes:owner>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:category text="Technology"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
@@ -54,7 +54,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-dots-muse-ipo.mp3" length="14391596" type="audio/mpeg"/>
 <itunes:duration>14:59</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -100,7 +100,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-298.mp3" length="36062252" type="audio/mpeg"/>
 <itunes:duration>37:34</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -134,7 +134,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-76.mp3" length="20653868" type="audio/mpeg"/>
 <itunes:duration>21:31</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -170,7 +170,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-sap-klein.mp3" length="16120748" type="audio/mpeg"/>
 <itunes:duration>16:48</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -202,7 +202,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-devday.mp3" length="6341804" type="audio/mpeg"/>
 <itunes:duration>6:36</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -246,7 +246,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-297.mp3" length="12826796" type="audio/mpeg"/>
 <itunes:duration>13:22</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -280,7 +280,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-jev-lindquist.mp3" length="11423660" type="audio/mpeg"/>
 <itunes:duration>11:54</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -320,7 +320,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-296.mp3" length="17902508" type="audio/mpeg"/>
 <itunes:duration>18:39</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -356,7 +356,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-mashrabov.mp3" length="16662956" type="audio/mpeg"/>
 <itunes:duration>17:21</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -404,7 +404,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-295.mp3" length="11628332" type="audio/mpeg"/>
 <itunes:duration>12:07</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -436,7 +436,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-jev.mp3" length="6969644" type="audio/mpeg"/>
 <itunes:duration>7:16</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -484,7 +484,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-294.mp3" length="13967660" type="audio/mpeg"/>
 <itunes:duration>14:33</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -524,7 +524,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-molly-graham.mp3" length="22440236" type="audio/mpeg"/>
 <itunes:duration>23:22</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -560,7 +560,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-parag-agrawal.mp3" length="14333612" type="audio/mpeg"/>
 <itunes:duration>14:56</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -596,7 +596,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-muse-revival.mp3" length="15242156" type="audio/mpeg"/>
 <itunes:duration>15:53</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -628,7 +628,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-75.mp3" length="23125676" type="audio/mpeg"/>
 <itunes:duration>24:05</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -664,7 +664,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-neal-mohan.mp3" length="15606572" type="audio/mpeg"/>
 <itunes:duration>16:15</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -696,7 +696,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-blind-taste.mp3" length="10384940" type="audio/mpeg"/>
 <itunes:duration>10:49</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -740,7 +740,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-293.mp3" length="21566252" type="audio/mpeg"/>
 <itunes:duration>22:28</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -780,7 +780,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-opus55.mp3" length="6652076" type="audio/mpeg"/>
 <itunes:duration>6:56</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -812,7 +812,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-dines.mp3" length="18173996" type="audio/mpeg"/>
 <itunes:duration>18:56</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -860,7 +860,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-warp.mp3" length="11244716" type="audio/mpeg"/>
 <itunes:duration>11:43</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -900,7 +900,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-sellis.mp3" length="22626860" type="audio/mpeg"/>
 <itunes:duration>23:34</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -944,7 +944,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-292.mp3" length="32278700" type="audio/mpeg"/>
 <itunes:duration>33:37</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -980,7 +980,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-doom-backlash.mp3" length="17386028" type="audio/mpeg"/>
 <itunes:duration>18:07</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1012,7 +1012,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-positron-sohmers.mp3" length="18308012" type="audio/mpeg"/>
 <itunes:duration>19:04</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1056,7 +1056,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-291.mp3" length="35443628" type="audio/mpeg"/>
 <itunes:duration>36:55</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1088,7 +1088,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-frontier-instinct.mp3" length="19522604" type="audio/mpeg"/>
 <itunes:duration>20:20</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1128,7 +1128,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-nate-soares.mp3" length="13463852" type="audio/mpeg"/>
 <itunes:duration>14:01</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1176,7 +1176,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-muse.mp3" length="10183340" type="audio/mpeg"/>
 <itunes:duration>10:36</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1224,7 +1224,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-martine.mp3" length="15189548" type="audio/mpeg"/>
 <itunes:duration>15:49</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1264,7 +1264,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-morehead.mp3" length="15396908" type="audio/mpeg"/>
 <itunes:duration>16:02</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1312,7 +1312,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-designers.mp3" length="10083500" type="audio/mpeg"/>
 <itunes:duration>10:30</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1360,7 +1360,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-289.mp3" length="22224044" type="audio/mpeg"/>
 <itunes:duration>23:09</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1390,7 +1390,7 @@ Listen verdict: Listen fully for AI-ops at Eight Sleep; skim via hire/growth/zer
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-matteo.mp3" length="16807340" type="audio/mpeg"/>
 <itunes:duration>17:30</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1432,7 +1432,7 @@ Sticky insights:
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-288.mp3" length="36162476" type="audio/mpeg"/>
 <itunes:duration>37:40</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1458,7 +1458,7 @@ Listen verdict: LISTEN FULLY if IPO/incentive maps are your beat; else SKIM — 
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ai-risk.mp3" length="14423468" type="audio/mpeg"/>
 <itunes:duration>15:01</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1484,7 +1484,7 @@ Listen verdict: Skim: Instinct/GrokBot + Index/Town + Descartes + Wonderful/Thin
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-jensen-agi.mp3" length="14366252" type="audio/mpeg"/>
 <itunes:duration>14:58</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1514,7 +1514,7 @@ Show: Atlas Podme Briefings | Source: Moonshots with Peter Diamandis</itunes:sum
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-287.mp3" length="25339820" type="audio/mpeg"/>
 <itunes:duration>26:24</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1540,7 +1540,7 @@ Andrew ↔ Ava true two-host dialogue (trial 3/3). Show: Atlas Podme Briefings |
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-apple-roadmap.mp3" length="13344812" type="audio/mpeg"/>
 <itunes:duration>13:54</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1570,7 +1570,7 @@ Show: Atlas Podme Briefings | Source: Lenny’s Podcast</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-grokbot.mp3" length="8806700" type="audio/mpeg"/>
 <itunes:duration>9:10</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1600,7 +1600,7 @@ Show: Atlas Podme Briefings | Source: How I AI with Claire Vo | Guest: Sharadh K
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-stripe.mp3" length="8686124" type="audio/mpeg"/>
 <itunes:duration>9:03</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1626,7 +1626,7 @@ Listen verdict: LISTEN FULLY (skim ~35–45 min is time-box fallback)</itunes:su
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-latest.mp3" length="9602732" type="audio/mpeg"/>
 <itunes:duration>10:00</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1644,7 +1644,7 @@ Listen verdict: LISTEN FULLY (or SKIM with strong priority blocks)</itunes:summa
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-town.mp3" length="10065452" type="audio/mpeg"/>
 <itunes:duration>10:29</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -1666,7 +1666,7 @@ Voices: Andrew + Ava alternating. Show: Atlas Podme Briefings | Source: 20VC</it
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-factory.mp3" length="10064684" type="audio/mpeg"/>
 <itunes:duration>10:29</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg"/>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
