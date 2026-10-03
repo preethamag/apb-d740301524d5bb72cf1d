@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 05:35:19 GMT</lastBuildDate>
-<pubDate>Sat, 03 Oct 2026 00:14:56 GMT</pubDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:38:45 GMT</lastBuildDate>
+<pubDate>Sat, 03 Oct 2026 05:37:52 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -25,9 +25,11 @@
 <item>
 <title>Big Technology — Anthropic IPO Leak, OpenAI Dots vs Meta Muse, Visual Turing Test (Conversational)</title>
 <itunes:title>Big Technology — Anthropic IPO Leak, OpenAI Dots vs Meta Muse, Visual Turing Test (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-dots-muse-ipo</guid>
-<pubDate>Sat, 03 Oct 2026 00:14:56 GMT</pubDate>
-<description>Big Technology Friday with Alex Kantrowitz × Ranjan Roy (Margins): Anthropic S-1 leak — $400M→$4.6B revenue, ~$8B ops loss under $42B headline, $518B decade infra ~80% binding; leap of faith as S&amp;P breadth hits worst since dot-com (Goldman; Nvidia &gt;$1T; AI EPS share); would Big Tech abandon Anthropic?; OpenAI Dots (~$100 Pro) vs Meta Muse vs Instinct — Alex hands-on review (almost delete Muse), Grokbot NYT callout, trust/card keys, Muse thirsty vs Instinct laid-back, frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk; Tavus Griffin visual Turing (~half) + Shrimp Jesus. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
+<guid isPermaLink="false">big-technology-dots-muse-ipo-v2</guid>
+<pubDate>Sat, 03 Oct 2026 05:37:52 GMT</pubDate>
+<description>Re-recorded with a more natural conversation style.
+
+Big Technology Friday with Alex Kantrowitz × Ranjan Roy (Margins): Anthropic S-1 leak — $400M→$4.6B revenue, ~$8B ops loss under $42B headline, $518B decade infra ~80% binding; leap of faith as S&amp;P breadth hits worst since dot-com (Goldman; Nvidia &gt;$1T; AI EPS share); would Big Tech abandon Anthropic?; OpenAI Dots (~$100 Pro) vs Meta Muse vs Instinct — Alex hands-on review (almost delete Muse), Grokbot NYT callout, trust/card keys, Muse thirsty vs Instinct laid-back, frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk; Tavus Griffin visual Turing (~half) + Shrimp Jesus. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
 
 Listen verdict: LISTEN FULLY (~59–61 min) if Anthropic IPO / market-breadth AI hinge / personal-agent race (Dots vs Muse vs Instinct, Grokbot callout) matter — else SKIM IPO+breadth (01:24–15:00) · abandon/Zuck enterprise (15:00–30:00) · Dots review+trust+frontier (35:00–54:00) · Tavus Griffin+Shrimp Jesus (54:00–60:00); soft-skip Genesis open · Notion/AvePoint/Ironwall midroll ~31:49–34:46
 
@@ -39,7 +41,9 @@ Sticky insights:
 - Trust/card keys + Muse thirsty vs Instinct laid-back (Noah Shin)
 - Frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk rhyme
 - Tavus Griffin visual Turing (~half) + Shrimp Jesus closer</description>
-<itunes:summary>Big Technology Friday with Alex Kantrowitz × Ranjan Roy (Margins): Anthropic S-1 leak — $400M→$4.6B revenue, ~$8B ops loss under $42B headline, $518B decade infra ~80% binding; leap of faith as S&amp;P breadth hits worst since dot-com (Goldman; Nvidia &gt;$1T; AI EPS share); would Big Tech abandon Anthropic?; OpenAI Dots (~$100 Pro) vs Meta Muse vs Instinct — Alex hands-on review (almost delete Muse), Grokbot NYT callout, trust/card keys, Muse thirsty vs Instinct laid-back, frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk; Tavus Griffin visual Turing (~half) + Shrimp Jesus. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
+<itunes:summary>Re-recorded with a more natural conversation style.
+
+Big Technology Friday with Alex Kantrowitz × Ranjan Roy (Margins): Anthropic S-1 leak — $400M→$4.6B revenue, ~$8B ops loss under $42B headline, $518B decade infra ~80% binding; leap of faith as S&amp;P breadth hits worst since dot-com (Goldman; Nvidia &gt;$1T; AI EPS share); would Big Tech abandon Anthropic?; OpenAI Dots (~$100 Pro) vs Meta Muse vs Instinct — Alex hands-on review (almost delete Muse), Grokbot NYT callout, trust/card keys, Muse thirsty vs Instinct laid-back, frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk; Tavus Griffin visual Turing (~half) + Shrimp Jesus. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
 
 Listen verdict: LISTEN FULLY (~59–61 min) if Anthropic IPO / market-breadth AI hinge / personal-agent race (Dots vs Muse vs Instinct, Grokbot callout) matter — else SKIM IPO+breadth (01:24–15:00) · abandon/Zuck enterprise (15:00–30:00) · Dots review+trust+frontier (35:00–54:00) · Tavus Griffin+Shrimp Jesus (54:00–60:00); soft-skip Genesis open · Notion/AvePoint/Ironwall midroll ~31:49–34:46
 
@@ -51,8 +55,8 @@ Sticky insights:
 - Trust/card keys + Muse thirsty vs Instinct laid-back (Noah Shin)
 - Frontier vs good-enough / Ramp / open-weight 3–6mo → IPO risk rhyme
 - Tavus Griffin visual Turing (~half) + Shrimp Jesus closer</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-dots-muse-ipo.mp3" length="14391596" type="audio/mpeg"/>
-<itunes:duration>14:59</itunes:duration>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-dots-muse-ipo-v2.mp3" length="15949484" type="audio/mpeg"/>
+<itunes:duration>16:37</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
