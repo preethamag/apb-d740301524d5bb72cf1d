@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>Atlas Podme Briefings</title>
 <link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link>
@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 04:44:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 04:51:59 GMT</lastBuildDate>
 <pubDate>Sat, 03 Oct 2026 00:14:56 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -20,6 +20,8 @@
 <itunes:type>episodic</itunes:type>
 <itunes:block>Yes</itunes:block>
 <googleplay:block>yes</googleplay:block>
+<podcast:locked>yes</podcast:locked>
+<podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
 <item>
 <title>Big Technology — Anthropic IPO Leak, OpenAI Dots vs Meta Muse, Visual Turing Test (Conversational)</title>
 <itunes:title>Big Technology — Anthropic IPO Leak, OpenAI Dots vs Meta Muse, Visual Turing Test (Conversational)</itunes:title>
