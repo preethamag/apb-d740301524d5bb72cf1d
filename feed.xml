@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 15:20:10 GMT</lastBuildDate>
-<pubDate>Sat, 03 Oct 2026 15:20:05 GMT</pubDate>
+<lastBuildDate>Sat, 03 Oct 2026 19:00:04 GMT</lastBuildDate>
+<pubDate>Sat, 03 Oct 2026 19:00:03 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,28 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</title>
+<itunes:title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-298-v2</guid>
+<pubDate>Sat, 03 Oct 2026 19:00:03 GMT</pubDate>
+<description>Re-recorded with a more natural conversation style. Moonshots #298 with Peter Diamandis, Salim Ismail, Alex Wissner-Gross and guest Emad Mostaque (Dave joins at the very end). Atlas conversational brief (~42 min of a ~2h25m source), Andrew ↔ Ava.
+
+The White House superintelligence accord and its four layers of oversight, Dario's "win safely," Elon's abundance / universal high income and the 530A "Trump account" equity idea, Anthropic's S-1 numbers and IPO target, OpenAI Dev Day (DOTS, Sol) and the personal-agent race with Instinct, Grok Bot, Muse and OpenClaw, AMD buying World Labs, Starship, religious scholars on Claude's moral status, and FTC chair Andrew Ferguson on who's liable when an agent acts.
+
+Dialogue tone v2 · dual audit: conversational 9.5 / content 10 · deterministic tone lint: 0 hits.</description>
+<itunes:summary>Re-recorded with a more natural conversation style. Moonshots #298 with Peter Diamandis, Salim Ismail, Alex Wissner-Gross and guest Emad Mostaque (Dave joins at the very end). Atlas conversational brief (~42 min of a ~2h25m source), Andrew ↔ Ava.
+
+The White House superintelligence accord and its four layers of oversight, Dario's "win safely," Elon's abundance / universal high income and the 530A "Trump account" equity idea, Anthropic's S-1 numbers and IPO target, OpenAI Dev Day (DOTS, Sol) and the personal-agent race with Instinct, Grok Bot, Muse and OpenClaw, AMD buying World Labs, Starship, religious scholars on Claude's moral status, and FTC chair Andrew Ferguson on who's liable when an agent acts.
+
+Dialogue tone v2 · dual audit: conversational 9.5 / content 10 · deterministic tone lint: 0 hits.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-298-v2.mp3" length="40260140" type="audio/mpeg"/>
+<itunes:duration>41:56</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Crusoe / Chase Lochmiller: Datacentres, GPU Depreciation, Energy Myths &amp; AI Moats (Conversational)</title>
 <itunes:title>20VC — Crusoe / Chase Lochmiller: Datacentres, GPU Depreciation, Energy Myths &amp; AI Moats (Conversational)</itunes:title>
@@ -93,52 +115,6 @@ Sticky insights:
 - Tavus Griffin visual Turing (~half) + Shrimp Jesus closer</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-dots-muse-ipo-v2.mp3" length="15949484" type="audio/mpeg"/>
 <itunes:duration>16:37</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</title>
-<itunes:title>Moonshots #298 — Emad Mostaque: White House AI Accord, Anthropic $2T IPO, Instinct/Grokbot Race (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-298</guid>
-<pubDate>Fri, 02 Oct 2026 21:44:00 GMT</pubDate>
-<description>Moonshots #298 with Emad Mostaque (Intelligent Internet). Atlas conversational brief (~36 min of a ~2h25m source).
-
-White House Super Intelligence Accord and Dario’s “win safely,” Elon abundance / universal high income / 530A equity path, Anthropic’s reported $2T IPO and $500B infra commitments, OpenAI Dev Day DOTS vs Instinct / Grokbot / Muse, AMD×World Labs, Starship Flight 14, religious scholars on Claude’s moral status, and Bessent on lab liability.
-
-Andrew ↔ Ava. Dual-audit conversational ≥9.5 / content ≥9.5.
-
-Listen verdict: LISTEN FULLY if AI governance / Anthropic IPO / personal-agent race matter — else SKIM Accord+win safely (00:05–00:31) · UHI/530A (00:31–00:47) · $2T S-1 (00:47–01:01) · DOTS/Instinct/Grokbot (01:02–01:15) · AMD+Starship (01:27–01:44) · moral status+Bessent (01:44–02:20); soft-skip ads · Live 2027 pitch · song
-
-Listen verdict: LISTEN FULLY (~2h25m source / ~37m Atlas) if White House AI governance / Anthropic IPO / Instinct–Grokbot–Muse–DOTS personal-agent race matter — else SKIM Accord+win safely (00:05–00:31) · UHI/530A (00:31–00:47) · $2T S-1 (00:47–01:01) · DOTS/Instinct/Grokbot (01:02–01:15) · AMD+Starship (01:27–01:44) · moral status+Bessent (01:44–02:20); soft-skip ads · Live 2027 pitch · song
-
-Sticky insights:
-- White House Super Intelligence Accord — 4 layers, morally binding, Zuck-drafted; Dario win safely
-- Emad: opt frontier CBRN out of public pretrain; eval talent &lt;100 people
-- UHI → universal high services + 530A equity path
-- Anthropic $2T S-1 / $500B commitments / smash-in-2y via open-weight
-- Dev Day DOTS — Instinct $10B / Grokbot / Muse credit-card-agent race
-- AMD×World Labs $8.2B; Starship F14; moral status + Bessent liability</description>
-<itunes:summary>Moonshots #298 with Emad Mostaque (Intelligent Internet). Atlas conversational brief (~36 min of a ~2h25m source).
-
-White House Super Intelligence Accord and Dario’s “win safely,” Elon abundance / universal high income / 530A equity path, Anthropic’s reported $2T IPO and $500B infra commitments, OpenAI Dev Day DOTS vs Instinct / Grokbot / Muse, AMD×World Labs, Starship Flight 14, religious scholars on Claude’s moral status, and Bessent on lab liability.
-
-Andrew ↔ Ava. Dual-audit conversational ≥9.5 / content ≥9.5.
-
-Listen verdict: LISTEN FULLY if AI governance / Anthropic IPO / personal-agent race matter — else SKIM Accord+win safely (00:05–00:31) · UHI/530A (00:31–00:47) · $2T S-1 (00:47–01:01) · DOTS/Instinct/Grokbot (01:02–01:15) · AMD+Starship (01:27–01:44) · moral status+Bessent (01:44–02:20); soft-skip ads · Live 2027 pitch · song
-
-Listen verdict: LISTEN FULLY (~2h25m source / ~37m Atlas) if White House AI governance / Anthropic IPO / Instinct–Grokbot–Muse–DOTS personal-agent race matter — else SKIM Accord+win safely (00:05–00:31) · UHI/530A (00:31–00:47) · $2T S-1 (00:47–01:01) · DOTS/Instinct/Grokbot (01:02–01:15) · AMD+Starship (01:27–01:44) · moral status+Bessent (01:44–02:20); soft-skip ads · Live 2027 pitch · song
-
-Sticky insights:
-- White House Super Intelligence Accord — 4 layers, morally binding, Zuck-drafted; Dario win safely
-- Emad: opt frontier CBRN out of public pretrain; eval talent &lt;100 people
-- UHI → universal high services + 530A equity path
-- Anthropic $2T S-1 / $500B commitments / smash-in-2y via open-weight
-- Dev Day DOTS — Instinct $10B / Grokbot / Muse credit-card-agent race
-- AMD×World Labs $8.2B; Starship F14; moral status + Bessent liability</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-298.mp3" length="36062252" type="audio/mpeg"/>
-<itunes:duration>37:34</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
