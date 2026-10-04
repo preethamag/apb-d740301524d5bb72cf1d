@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 03 Oct 2026 21:32:19 GMT</lastBuildDate>
-<pubDate>Sat, 03 Oct 2026 21:32:03 GMT</pubDate>
+<lastBuildDate>Sun, 04 Oct 2026 15:08:19 GMT</lastBuildDate>
+<pubDate>Sun, 04 Oct 2026 15:08:18 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,50 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Lenny's — Tibo Sottiaux / OpenAI: Dots, Agent-Majority Internet, Outage Ping, Safety (Conversational)</title>
+<itunes:title>Lenny's — Tibo Sottiaux / OpenAI: Dots, Agent-Majority Internet, Outage Ping, Safety (Conversational)</itunes:title>
+<guid isPermaLink="false">lenny-tibo-sottiaux</guid>
+<pubDate>Sun, 04 Oct 2026 15:08:18 GMT</pubDate>
+<description>Atlas Podme Briefing — Lenny's Podcast with Tibo Sottiaux (OpenAI Head of ChatGPT + Codex).
+
+Dots as permanent personal agents vs hand-tuned loops; agents taking most internet actions; ecosystem plugins ranked by retention; the Dot that warned Tibo of a ChatGPT production outage five minutes before the DevDay live demo; skills trending (taste up, typing-fast down); loneliness/rest; OpenAI safety via secondary monitoring.
+
+~10:44 conversational Andrew↔Ava (tone v2). Soft-skip WorkOS/DX.
+
+Source: https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering
+
+Listen verdict: LISTEN FULLY (~37m source / ~10:44 Atlas) if personal agents / OpenAI distribution / plugin economics matter — else SKIM Dots-vs-loops · agent-majority+Notion · outage ping · skills/Ahmed · secondary-monitoring safety; breeze past WorkOS/DX
+
+Sticky insights:
+- Dots &gt; loops/graphs — 24/7 personal agent, multi-Dot teams soon, lift into ChatGPT
+- Agent-majority internet + Notion MCP traffic/economics strain
+- Dot warned Tibo of ChatGPT production outage ~5 min before DevDay demo
+- Ecosystem sleeper: ~16 partners, retention-ranked plugins, revenue share
+- Safety = secondary monitoring + withhold past Astra; 1.2B-user responsibility</description>
+<itunes:summary>Atlas Podme Briefing — Lenny's Podcast with Tibo Sottiaux (OpenAI Head of ChatGPT + Codex).
+
+Dots as permanent personal agents vs hand-tuned loops; agents taking most internet actions; ecosystem plugins ranked by retention; the Dot that warned Tibo of a ChatGPT production outage five minutes before the DevDay live demo; skills trending (taste up, typing-fast down); loneliness/rest; OpenAI safety via secondary monitoring.
+
+~10:44 conversational Andrew↔Ava (tone v2). Soft-skip WorkOS/DX.
+
+Source: https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering
+
+Listen verdict: LISTEN FULLY (~37m source / ~10:44 Atlas) if personal agents / OpenAI distribution / plugin economics matter — else SKIM Dots-vs-loops · agent-majority+Notion · outage ping · skills/Ahmed · secondary-monitoring safety; breeze past WorkOS/DX
+
+Sticky insights:
+- Dots &gt; loops/graphs — 24/7 personal agent, multi-Dot teams soon, lift into ChatGPT
+- Agent-majority internet + Notion MCP traffic/economics strain
+- Dot warned Tibo of ChatGPT production outage ~5 min before DevDay demo
+- Ecosystem sleeper: ~16 partners, retention-ranked plugins, revenue share
+- Safety = secondary monitoring + withhold past Astra; 1.2B-user responsibility</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-tibo-sottiaux.mp3" length="10301228" type="audio/mpeg"/>
+<itunes:duration>10:44</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #299 — Richard Socher / Recursive: $670M RSI Bet, P(Doom)=0, Sonnet 70%, Project Meridian (Conversational)</title>
 <itunes:title>Moonshots #299 — Richard Socher / Recursive: $670M RSI Bet, P(Doom)=0, Sonnet 70%, Project Meridian (Conversational)</itunes:title>
