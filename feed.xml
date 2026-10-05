@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 05 Oct 2026 17:57:58 GMT</lastBuildDate>
-<pubDate>Mon, 05 Oct 2026 17:57:57 GMT</pubDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:29:20 GMT</lastBuildDate>
+<pubDate>Mon, 05 Oct 2026 18:29:19 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Venky Ganesan / Menlo: Seed Without a $1B Fund, Fuzzy AI Revenue, Ownership, Instinct &amp; Town (Conversational)</title>
+<itunes:title>20VC — Venky Ganesan / Menlo: Seed Without a $1B Fund, Fuzzy AI Revenue, Ownership, Instinct &amp; Town (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-venky-ganesan</guid>
+<pubDate>Mon, 05 Oct 2026 18:29:19 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC with Venky Ganesan (Menlo Ventures), recorded in person with Harry Stebbings.
+
+Can you still do seed without a $1B fund ("a dot is not a line"); seed checks as options and sizing up only on evidence; why AI revenue numbers look murky (contracted ARR, run rates, the "bezzle"); kingmaking as reflexivity and why debt breaks cycles; tranche rounds and ego; the Plaxo pass; ownership vs trillion-dollar outcomes; Instinct's $10B round and Menlo's Town position; why "big tech will buy us" is dangerous; dilution and IRR vs the Mag 7; selling a 40x winner; small funds vs giants; and the LP advice to look through the windshield, not the rearview mirror.
+
+Conversational Andrew and Ava (tone v2). Skip the Blitzy, Flex and Vanta ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures
+
+Listen verdict: LISTEN FULLY (~61m ex-ads) if early AI deal pricing, Instinct/Town, or fund strategy matter; else start at 25:00 (ownership, Anthropic 20%, Instinct/Town) and 45:00 (selling a 40x winner)</description>
+<itunes:summary>Atlas Podme Briefing — 20VC with Venky Ganesan (Menlo Ventures), recorded in person with Harry Stebbings.
+
+Can you still do seed without a $1B fund ("a dot is not a line"); seed checks as options and sizing up only on evidence; why AI revenue numbers look murky (contracted ARR, run rates, the "bezzle"); kingmaking as reflexivity and why debt breaks cycles; tranche rounds and ego; the Plaxo pass; ownership vs trillion-dollar outcomes; Instinct's $10B round and Menlo's Town position; why "big tech will buy us" is dangerous; dilution and IRR vs the Mag 7; selling a 40x winner; small funds vs giants; and the LP advice to look through the windshield, not the rearview mirror.
+
+Conversational Andrew and Ava (tone v2). Skip the Blitzy, Flex and Vanta ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures
+
+Listen verdict: LISTEN FULLY (~61m ex-ads) if early AI deal pricing, Instinct/Town, or fund strategy matter; else start at 25:00 (ownership, Anthropic 20%, Instinct/Town) and 45:00 (selling a 40x winner)</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-venky-ganesan.mp3" length="18269612" type="audio/mpeg"/>
+<itunes:duration>19:02</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — Kath Korevec / OpenAI: ChatGPT Sites, Bring Your Own Connector, Dungeon Skill, "That's My Voice" (Conversational)</title>
 <itunes:title>How I AI — Kath Korevec / OpenAI: ChatGPT Sites, Bring Your Own Connector, Dungeon Skill, "That's My Voice" (Conversational)</itunes:title>
