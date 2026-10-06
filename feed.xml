@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 06 Oct 2026 00:03:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:04:18 GMT</lastBuildDate>
 <pubDate>Tue, 06 Oct 2026 00:03:38 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -47,6 +47,36 @@ Source: Moonshots with Peter Diamandis, EP #300 (published Oct 5, 2026).
 Listen verdict: LISTEN FULLY (~39 min, no ads). If short on time: $1B bet 00:13–00:17; cost 3x cheaper + culture limit 00:20–00:25; AI as electricity + AI bill vs salary 00:25–00:29; physics mystery + false negatives 00:30–00:35</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-300.mp3" length="11333036" type="audio/mpeg"/>
 <itunes:duration>11:48</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Big Technology — Who Wins the AI Assistant Wars? Muse vs Dots vs Instinct, Why Google Didn't Build Muse (M.G. Siegler) (Conversational)</title>
+<itunes:title>Big Technology — Who Wins the AI Assistant Wars? Muse vs Dots vs Instinct, Why Google Didn't Build Muse (M.G. Siegler) (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-assistant-wars</guid>
+<pubDate>Tue, 06 Oct 2026 00:03:38 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz and M.G. Siegler (Spyglass) on who wins the AI assistant wars, and why Google didn't build Muse.
+
+Instinct's messaging-first, proactive design and the "blank page" problem; why saving money is the hook; how agents threaten banks and subscription businesses; Amazon blocking Muse and Google as kingmaker; why M.G. likes Meta's Muse best so far; cloud VM vs desktop control; distribution and trust (Dots at $100/month); Anthropic's absence; predictions (Dots, Apple as dark horse, Meta without a frontier model); Google's too-many-cooks problem; and expected acquisitions of Instinct and maybe Town.
+
+Conversational Andrew and Ava (tone v2). Instinct is discussed at length, Town is mentioned twice in passing, Grok Bot is named three times, and Jev is not named.
+
+Source: Big Technology Podcast (published Oct 5, 2026).
+
+Listen verdict: LISTEN FULLY (~61 min ex-ads) if the assistant race is core; else SKIM 03:20–09:20, 16:55–25:15, 25:15–33:00, 46:00–51:55, 56:10–65:20</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz and M.G. Siegler (Spyglass) on who wins the AI assistant wars, and why Google didn't build Muse.
+
+Instinct's messaging-first, proactive design and the "blank page" problem; why saving money is the hook; how agents threaten banks and subscription businesses; Amazon blocking Muse and Google as kingmaker; why M.G. likes Meta's Muse best so far; cloud VM vs desktop control; distribution and trust (Dots at $100/month); Anthropic's absence; predictions (Dots, Apple as dark horse, Meta without a frontier model); Google's too-many-cooks problem; and expected acquisitions of Instinct and maybe Town.
+
+Conversational Andrew and Ava (tone v2). Instinct is discussed at length, Town is mentioned twice in passing, Grok Bot is named three times, and Jev is not named.
+
+Source: Big Technology Podcast (published Oct 5, 2026).
+
+Listen verdict: LISTEN FULLY (~61 min ex-ads) if the assistant race is core; else SKIM 03:20–09:20, 16:55–25:15, 25:15–33:00, 46:00–51:55, 56:10–65:20</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-assistant-wars.mp3" length="17219756" type="audio/mpeg"/>
+<itunes:duration>17:56</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
