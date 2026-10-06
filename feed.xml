@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 05 Oct 2026 18:29:20 GMT</lastBuildDate>
-<pubDate>Mon, 05 Oct 2026 18:29:19 GMT</pubDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:03:43 GMT</lastBuildDate>
+<pubDate>Tue, 06 Oct 2026 00:03:38 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #300 — Astro Teller (X): The $1B Bet No CEO Will Back, Moonshots 3x Cheaper, Clean Water at a Penny a Liter (Conversational)</title>
+<itunes:title>Moonshots #300 — Astro Teller (X): The $1B Bet No CEO Will Back, Moonshots 3x Cheaper, Clean Water at a Penny a Liter (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-300</guid>
+<pubDate>Tue, 06 Oct 2026 00:03:38 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #300 with Astro Teller, co-founder and Captain of Moonshots at X (Alphabet's moonshot factory), recorded live on stage at Moonshots Live 2026 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross.
+
+Astro's three-part moonshot test and why audacity needs equal humility; killing ideas on economics; X's funnel (100–200 code-named ideas a year, ~2 graduates); Google Brain's origin inside X; clean water at a penny a liter (X keeps landing at ten cents); the "dirty little secret" that moonshots are easy if you ignore efficiency; the $1M-guaranteed vs $1B-at-1% bet no boss will back; cost per graduate down ~3x in 16 years and Alex's pushback; why culture stops scaling past a few hundred people; AI as electricity and "spinning up an agent vs actually getting benefit"; monkey before pedestal; a lab result that "would be a problem for physics"; why false negatives cost nothing; and the corporate immune system.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Moonshots with Peter Diamandis, EP #300 (published Oct 5, 2026).
+
+Listen verdict: LISTEN FULLY (~39 min, no ads). If short on time: $1B bet 00:13–00:17; cost 3x cheaper + culture limit 00:20–00:25; AI as electricity + AI bill vs salary 00:25–00:29; physics mystery + false negatives 00:30–00:35</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #300 with Astro Teller, co-founder and Captain of Moonshots at X (Alphabet's moonshot factory), recorded live on stage at Moonshots Live 2026 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross.
+
+Astro's three-part moonshot test and why audacity needs equal humility; killing ideas on economics; X's funnel (100–200 code-named ideas a year, ~2 graduates); Google Brain's origin inside X; clean water at a penny a liter (X keeps landing at ten cents); the "dirty little secret" that moonshots are easy if you ignore efficiency; the $1M-guaranteed vs $1B-at-1% bet no boss will back; cost per graduate down ~3x in 16 years and Alex's pushback; why culture stops scaling past a few hundred people; AI as electricity and "spinning up an agent vs actually getting benefit"; monkey before pedestal; a lab result that "would be a problem for physics"; why false negatives cost nothing; and the corporate immune system.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Moonshots with Peter Diamandis, EP #300 (published Oct 5, 2026).
+
+Listen verdict: LISTEN FULLY (~39 min, no ads). If short on time: $1B bet 00:13–00:17; cost 3x cheaper + culture limit 00:20–00:25; AI as electricity + AI bill vs salary 00:25–00:29; physics mystery + false negatives 00:30–00:35</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-300.mp3" length="11333036" type="audio/mpeg"/>
+<itunes:duration>11:48</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Venky Ganesan / Menlo: Seed Without a $1B Fund, Fuzzy AI Revenue, Ownership, Instinct &amp; Town (Conversational)</title>
 <itunes:title>20VC — Venky Ganesan / Menlo: Seed Without a $1B Fund, Fuzzy AI Revenue, Ownership, Instinct &amp; Town (Conversational)</itunes:title>
