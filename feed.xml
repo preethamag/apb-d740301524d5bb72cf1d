@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 06 Oct 2026 00:04:18 GMT</lastBuildDate>
-<pubDate>Tue, 06 Oct 2026 00:03:38 GMT</pubDate>
+<lastBuildDate>Wed, 07 Oct 2026 18:44:19 GMT</lastBuildDate>
+<pubDate>Wed, 07 Oct 2026 18:44:13 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Can AI Keep Growing Exponentially? SemiAnalysis's Dylan Patel &amp; Jordan Nanos on Capex, Anthropic's IPO, Nvidia Backstops, Neocloud Security (Conversational)</title>
+<itunes:title>Big Technology — Can AI Keep Growing Exponentially? SemiAnalysis's Dylan Patel &amp; Jordan Nanos on Capex, Anthropic's IPO, Nvidia Backstops, Neocloud Security (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-semianalysis-patel</guid>
+<pubDate>Wed, 07 Oct 2026 18:44:13 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Dylan Patel (founder/CEO, SemiAnalysis) and Jordan Nanos (SemiAnalysis technical staff) on whether AI can keep growing exponentially and pay for the trillions being spent on compute.
+
+Why the buildout is bigger than the viral railroad chart (about $2 trillion of US capex next year, 5–6% of GDP, much of it serving foreign inference); why growth must slow by arithmetic; the payback math vs the Bain bear case; Anthropic already profitable on compute; where the revenue comes from and what it means for knowledge work; why neocloud contracts are firmer than skeptics think; the Anthropic IPO ($2T vs $10T vs $20T) and its margins vs Salesforce; Nvidia's $588B of backstops; neocloud security (Ilya's warning, foreign agencies visible on a shared cluster); Oracle's fixed-margin deals and New Mexico force majeure vs Nebius's short contracts; Google Cloud winning compute over DeepMind; and labs keeping their best models internal (Mythos, Fable, Astra, Bell).
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Big Technology Podcast (published Oct 7, 2026).
+
+Listen verdict: LISTEN FULLY (~59 min ex-ads) if AI infrastructure economics, neocloud financing or the Anthropic IPO are core; else SKIM 01:55–14:05 (capex + payback), 25:15–34:10 (Anthropic IPO/margins), 38:06–47:15 (Nvidia backstops + neocloud security), 47:15–52:40 (Oracle), 55:29–62:52 (Google compute + unreleased models)</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Dylan Patel (founder/CEO, SemiAnalysis) and Jordan Nanos (SemiAnalysis technical staff) on whether AI can keep growing exponentially and pay for the trillions being spent on compute.
+
+Why the buildout is bigger than the viral railroad chart (about $2 trillion of US capex next year, 5–6% of GDP, much of it serving foreign inference); why growth must slow by arithmetic; the payback math vs the Bain bear case; Anthropic already profitable on compute; where the revenue comes from and what it means for knowledge work; why neocloud contracts are firmer than skeptics think; the Anthropic IPO ($2T vs $10T vs $20T) and its margins vs Salesforce; Nvidia's $588B of backstops; neocloud security (Ilya's warning, foreign agencies visible on a shared cluster); Oracle's fixed-margin deals and New Mexico force majeure vs Nebius's short contracts; Google Cloud winning compute over DeepMind; and labs keeping their best models internal (Mythos, Fable, Astra, Bell).
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Big Technology Podcast (published Oct 7, 2026).
+
+Listen verdict: LISTEN FULLY (~59 min ex-ads) if AI infrastructure economics, neocloud financing or the Anthropic IPO are core; else SKIM 01:55–14:05 (capex + payback), 25:15–34:10 (Anthropic IPO/margins), 38:06–47:15 (Nvidia backstops + neocloud security), 47:15–52:40 (Oracle), 55:29–62:52 (Google compute + unreleased models)</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-semianalysis-patel.mp3" length="16119596" type="audio/mpeg"/>
+<itunes:duration>16:47</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #300 — Astro Teller (X): The $1B Bet No CEO Will Back, Moonshots 3x Cheaper, Clean Water at a Penny a Liter (Conversational)</title>
 <itunes:title>Moonshots #300 — Astro Teller (X): The $1B Bet No CEO Will Back, Moonshots 3x Cheaper, Clean Water at a Penny a Liter (Conversational)</itunes:title>
