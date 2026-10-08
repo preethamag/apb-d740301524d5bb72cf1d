@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 07 Oct 2026 18:44:19 GMT</lastBuildDate>
-<pubDate>Wed, 07 Oct 2026 18:44:13 GMT</pubDate>
+<lastBuildDate>Thu, 08 Oct 2026 00:01:20 GMT</lastBuildDate>
+<pubDate>Wed, 07 Oct 2026 21:33:43 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,50 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #301 — Emad Mostaque: Altman's "Accept Some Bad Things," the Claude Consciousness Fight, Superintelligence Force &amp; the 1942 Moment (Conversational)</title>
+<itunes:title>Moonshots #301 — Emad Mostaque: Altman's "Accept Some Bad Things," the Claude Consciousness Fight, Superintelligence Force &amp; the 1942 Moment (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-301</guid>
+<pubDate>Wed, 07 Oct 2026 21:33:43 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #301 with Emad Mostaque (Intelligent Internet), alongside Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross. Recorded Oct 6, 2026.
+
+Sam Altman's Politico line that "the world should accept some bad things happening," and the hosts' split (Dave: a PR war for the moral high ground; Alex: "the cartel is over"; Salim: aviation rules are "written in blood"); the new White House Superintelligence Force under DNI Jay Clayton and Alex's "1942 moment"; OpenAI aiming 80–90% of research at GPT-7 and GPT-8; an internal Anthropic model breaking the quadratic barrier on 3SUM; Treasury Secretary Bessent's proposed AI hotline with China; the Kyoto vision for science; Emad's "Manhattan Project for open science" vs Alex's private-sector case, and Dave's $9M GPU-rack lease; Mustafa Suleyman's essay saying Anthropic is training Claude to believe it may be conscious, and the best debate of the episode; Epoch's agent counts and the memory bottleneck; Reflection AI's open model Beam; Tesla's 10-million-robot factory; Sholto Douglas on doubling the world economy; the optogenetics and IceCube Nobels (plus Alex's Ed Boyden story); and AMAs on AI personhood and the "grand bargain."
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Moonshots with Peter Diamandis, EP #301 (published Oct 7, 2026).
+
+Listen verdict: SKIM (~2h46m source with ads / ~34m Atlas). LISTEN FULLY only to the Claude-consciousness debate 01:12:30–01:32:50. Else skim: Altman 'accept bad things' 00:39:55–00:50:30 · Bessent China hotline + Kyoto 00:51:15–00:59:58 · Superintelligence Force + GPT-7/8 + 3SUM 00:23:20–00:39:55 · open-science/compute fight 01:00:00–01:12:30 · Nobel/Boyden story 02:16:40–02:20:40; skip teaser 00:00–00:04, UAP/Sinclair 00:12–00:20, ads, outro song 02:41–02:44
+
+Sticky insights:
+- Altman: world should accept some bad things — access vs one SF lab controlling it; Alex: 'the cartel is over'
+- Superintelligence Force under DNI Clayton; Alex's '1942 moment'
+- Suleyman: Anthropic training Claude to believe it may be conscious — control argument; Dave vs Alex
+- Bessent AI hotline with China; Dave: lock in a two-horse race
+- Compute scarcity: $9M NVL72 lease; OpenAI 80–90% on GPT-7/8; internal Anthropic model beats quadratic on 3SUM</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #301 with Emad Mostaque (Intelligent Internet), alongside Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross. Recorded Oct 6, 2026.
+
+Sam Altman's Politico line that "the world should accept some bad things happening," and the hosts' split (Dave: a PR war for the moral high ground; Alex: "the cartel is over"; Salim: aviation rules are "written in blood"); the new White House Superintelligence Force under DNI Jay Clayton and Alex's "1942 moment"; OpenAI aiming 80–90% of research at GPT-7 and GPT-8; an internal Anthropic model breaking the quadratic barrier on 3SUM; Treasury Secretary Bessent's proposed AI hotline with China; the Kyoto vision for science; Emad's "Manhattan Project for open science" vs Alex's private-sector case, and Dave's $9M GPU-rack lease; Mustafa Suleyman's essay saying Anthropic is training Claude to believe it may be conscious, and the best debate of the episode; Epoch's agent counts and the memory bottleneck; Reflection AI's open model Beam; Tesla's 10-million-robot factory; Sholto Douglas on doubling the world economy; the optogenetics and IceCube Nobels (plus Alex's Ed Boyden story); and AMAs on AI personhood and the "grand bargain."
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot and Jev are not named in this episode.
+
+Source: Moonshots with Peter Diamandis, EP #301 (published Oct 7, 2026).
+
+Listen verdict: SKIM (~2h46m source with ads / ~34m Atlas). LISTEN FULLY only to the Claude-consciousness debate 01:12:30–01:32:50. Else skim: Altman 'accept bad things' 00:39:55–00:50:30 · Bessent China hotline + Kyoto 00:51:15–00:59:58 · Superintelligence Force + GPT-7/8 + 3SUM 00:23:20–00:39:55 · open-science/compute fight 01:00:00–01:12:30 · Nobel/Boyden story 02:16:40–02:20:40; skip teaser 00:00–00:04, UAP/Sinclair 00:12–00:20, ads, outro song 02:41–02:44
+
+Sticky insights:
+- Altman: world should accept some bad things — access vs one SF lab controlling it; Alex: 'the cartel is over'
+- Superintelligence Force under DNI Clayton; Alex's '1942 moment'
+- Suleyman: Anthropic training Claude to believe it may be conscious — control argument; Dave vs Alex
+- Bessent AI hotline with China; Dave: lock in a two-horse race
+- Compute scarcity: $9M NVL72 lease; OpenAI 80–90% on GPT-7/8; internal Anthropic model beats quadratic on 3SUM</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-301.mp3" length="32898476" type="audio/mpeg"/>
+<itunes:duration>34:16</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Can AI Keep Growing Exponentially? SemiAnalysis's Dylan Patel &amp; Jordan Nanos on Capex, Anthropic's IPO, Nvidia Backstops, Neocloud Security (Conversational)</title>
 <itunes:title>Big Technology — Can AI Keep Growing Exponentially? SemiAnalysis's Dylan Patel &amp; Jordan Nanos on Capex, Anthropic's IPO, Nvidia Backstops, Neocloud Security (Conversational)</itunes:title>
