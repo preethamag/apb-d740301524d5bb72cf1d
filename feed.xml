@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Fri, 09 Oct 2026 03:08:35 GMT</lastBuildDate>
-<pubDate>Fri, 09 Oct 2026 03:08:30 GMT</pubDate>
+<lastBuildDate>Fri, 09 Oct 2026 18:24:15 GMT</lastBuildDate>
+<pubDate>Fri, 09 Oct 2026 18:22:36 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Meta &amp; Microsoft's Claude Slowdown, Grok Bot Leaks Shane Mac's Banking Info, Don't Bully Your AI — with Ranjan Roy (Conversational)</title>
+<itunes:title>Big Technology — Meta &amp; Microsoft's Claude Slowdown, Grok Bot Leaks Shane Mac's Banking Info, Don't Bully Your AI — with Ranjan Roy (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-claude-slowdown-ranjan</guid>
+<pubDate>Fri, 09 Oct 2026 18:22:36 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast Friday edition: Alex Kantrowitz with Ranjan Roy (Margins) on the week in tech.
+
+Meta and Microsoft trimming internal Claude use (Microsoft's $1B projection cut by a third; Meta's Claude Code users 60K → 30K) and what customer concentration means for Anthropic's IPO; Claude downloads cooling from a March peak; frontier models vs "good enough" standard models with a good harness; Muse booking the wrong doctor; Grok Bot posting Shane Mac's bank balances into company Slack, and who's to blame; Elon routing Grok Bot to rival models including Claude Opus 5.5; whether everyone is building the same assistant (plus Ranjan's Instinct school-day example); the OpenAI $50B vs $70B revenue misread; Anthropic banning persistent abuse of Claude; and Google's confusing "Gemini" launch.
+
+Conversational Andrew and Ava (tone v2). Grok Bot and Instinct are named in this episode; Town is not.
+
+Source: Big Technology Podcast (published Oct 9, 2026).
+
+Listen verdict: SKIM (~49 min ex-ads) unless the assistant race is core: must-hear 02:25–33:13 (Claude pullback + downloads, frontier-vs-harness + Muse wrong-doctor story, Grok Bot/Shane Mac banking leak 17:36–25:35, Elon routes Grok Bot to rivals, same-assistant debate + Ranjan's Instinct school example); optional 33:13–39:19 (OpenAI $50B vs $70B misread) and 41:25–52:00 (Claude anti-abuse policy); skip Gemini naming riff 52:05–55:30 and ads</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast Friday edition: Alex Kantrowitz with Ranjan Roy (Margins) on the week in tech.
+
+Meta and Microsoft trimming internal Claude use (Microsoft's $1B projection cut by a third; Meta's Claude Code users 60K → 30K) and what customer concentration means for Anthropic's IPO; Claude downloads cooling from a March peak; frontier models vs "good enough" standard models with a good harness; Muse booking the wrong doctor; Grok Bot posting Shane Mac's bank balances into company Slack, and who's to blame; Elon routing Grok Bot to rival models including Claude Opus 5.5; whether everyone is building the same assistant (plus Ranjan's Instinct school-day example); the OpenAI $50B vs $70B revenue misread; Anthropic banning persistent abuse of Claude; and Google's confusing "Gemini" launch.
+
+Conversational Andrew and Ava (tone v2). Grok Bot and Instinct are named in this episode; Town is not.
+
+Source: Big Technology Podcast (published Oct 9, 2026).
+
+Listen verdict: SKIM (~49 min ex-ads) unless the assistant race is core: must-hear 02:25–33:13 (Claude pullback + downloads, frontier-vs-harness + Muse wrong-doctor story, Grok Bot/Shane Mac banking leak 17:36–25:35, Elon routes Grok Bot to rivals, same-assistant debate + Ranjan's Instinct school example); optional 33:13–39:19 (OpenAI $50B vs $70B misread) and 41:25–52:00 (Claude anti-abuse policy); skip Gemini naming riff 52:05–55:30 and ads</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-claude-slowdown-ranjan.mp3" length="15053996" type="audio/mpeg"/>
+<itunes:duration>15:41</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC Trio EP.77 — OpenAI ~$70B / Factory vs Cognition / Khosla / Reflection Beam / ElevenLabs $22B / Listen Labs $2B / Vercel Agents (Conversational)</title>
 <itunes:title>20VC Trio EP.77 — OpenAI ~$70B / Factory vs Cognition / Khosla / Reflection Beam / ElevenLabs $22B / Listen Labs $2B / Vercel Agents (Conversational)</itunes:title>
