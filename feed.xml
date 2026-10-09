@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 08 Oct 2026 00:01:20 GMT</lastBuildDate>
-<pubDate>Wed, 07 Oct 2026 21:33:43 GMT</pubDate>
+<lastBuildDate>Fri, 09 Oct 2026 03:08:35 GMT</lastBuildDate>
+<pubDate>Fri, 09 Oct 2026 03:08:30 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,28 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.77 — OpenAI ~$70B / Factory vs Cognition / Khosla / Reflection Beam / ElevenLabs $22B / Listen Labs $2B / Vercel Agents (Conversational)</title>
+<itunes:title>20VC Trio EP.77 — OpenAI ~$70B / Factory vs Cognition / Khosla / Reflection Beam / ElevenLabs $22B / Listen Labs $2B / Vercel Agents (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-77</guid>
+<pubDate>Fri, 09 Oct 2026 03:08:30 GMT</pubDate>
+<description>20VC Trio EP.77 with Harry Stebbings, Jason Lemkin, Rory O'Driscoll, and guest Dev Ittycheria (returned CEO @ MongoDB): OpenAI near a $70B run rate and raising at $1.4T just as Anthropic's mid-November IPO approaches; Factory vs Cognition loyalty fight and Vinod Khosla's tweet blasting his own portfolio company; Reflection's Beam as the US open-weight bet (Jev named as the cheap-model alternative); ElevenLabs at $22B; Salesforce buys Listen Labs for $2B; Vercel at $600M ARR with agents driving half of new business (Resend, Render live demo); Groq–Nvidia $17B license-and-hire suit; Muse vs Dots (Instinct named once); Oura pulls its IPO despite 74% growth. Conversational Andrew &amp; Ava (tone v2). Skip the Base44 / AlphaSense / Intercom Fin ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b
+
+Listen verdict: LISTEN FULLY (~66 min ex-ads) if frontier-lab race, US open-weight models, or agent-driven distribution are core — Jev named 3×, Instinct once. Else SKIM: OpenAI vs Anthropic 04:07–12:03 · Factory/Cognition+Khosla 12:03–25:22 · Reflection/Jev 25:22–33:45 · ElevenLabs 33:45–36:42 · Listen Labs 36:42–46:18 · Vercel/agents 46:18–55:11 · Groq–Nvidia 55:11–01:01:11 · Muse vs Dots 01:01:11–01:04:53 · Oura 01:05:47–01:10:15</description>
+<itunes:summary>20VC Trio EP.77 with Harry Stebbings, Jason Lemkin, Rory O'Driscoll, and guest Dev Ittycheria (returned CEO @ MongoDB): OpenAI near a $70B run rate and raising at $1.4T just as Anthropic's mid-November IPO approaches; Factory vs Cognition loyalty fight and Vinod Khosla's tweet blasting his own portfolio company; Reflection's Beam as the US open-weight bet (Jev named as the cheap-model alternative); ElevenLabs at $22B; Salesforce buys Listen Labs for $2B; Vercel at $600M ARR with agents driving half of new business (Resend, Render live demo); Groq–Nvidia $17B license-and-hire suit; Muse vs Dots (Instinct named once); Oura pulls its IPO despite 74% growth. Conversational Andrew &amp; Ava (tone v2). Skip the Base44 / AlphaSense / Intercom Fin ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b
+
+Listen verdict: LISTEN FULLY (~66 min ex-ads) if frontier-lab race, US open-weight models, or agent-driven distribution are core — Jev named 3×, Instinct once. Else SKIM: OpenAI vs Anthropic 04:07–12:03 · Factory/Cognition+Khosla 12:03–25:22 · Reflection/Jev 25:22–33:45 · ElevenLabs 33:45–36:42 · Listen Labs 36:42–46:18 · Vercel/agents 46:18–55:11 · Groq–Nvidia 55:11–01:01:11 · Muse vs Dots 01:01:11–01:04:53 · Oura 01:05:47–01:10:15</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-77.mp3" length="17571500" type="audio/mpeg"/>
+<itunes:duration>18:18</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #301 — Emad Mostaque: Altman's "Accept Some Bad Things," the Claude Consciousness Fight, Superintelligence Force &amp; the 1942 Moment (Conversational)</title>
 <itunes:title>Moonshots #301 — Emad Mostaque: Altman's "Accept Some Bad Things," the Claude Consciousness Fight, Superintelligence Force &amp; the 1942 Moment (Conversational)</itunes:title>
