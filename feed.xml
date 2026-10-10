@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Fri, 09 Oct 2026 18:24:15 GMT</lastBuildDate>
-<pubDate>Fri, 09 Oct 2026 18:22:36 GMT</pubDate>
+<lastBuildDate>Sat, 10 Oct 2026 18:00:46 GMT</lastBuildDate>
+<pubDate>Sat, 10 Oct 2026 18:00:45 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — 20Sales: Inside Ramp's Sales Machine with Max Freeman, SVP Sales @ Ramp (Conversational)</title>
+<itunes:title>20VC — 20Sales: Inside Ramp's Sales Machine with Max Freeman, SVP Sales @ Ramp (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-ramp-max-freeman</guid>
+<pubDate>Sat, 10 Oct 2026 18:00:45 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC "20Sales": Harry Stebbings with Max Freeman, SVP of Sales at Ramp.
+
+Why Ramp hires investment bankers (and pays 2x for 4-6x the meetings); Moneyball recruiting of top sellers from low-NPS companies; how to interview sellers; picking a company by market, talent density and founders; OATS, Ramp's pre-AI outbound automation team, and why ~1% email-to-meeting is strong; when to verticalize; the "give to get" qualification move and avoiding discounts; no comp plan for first reps and hiring in pairs; onboarding certifications, quotas at 7-12x and ramp times; customer success, forecasting and killing forecast calls; Ramp Revenue, the internal AI that cuts pre-call research to 90 seconds; and Inspect, Ramp's internal coding agent.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct and Town are not named in this episode.
+
+Source: 20VC (published Oct 10, 2026).
+
+Listen verdict: SKIM (~60 min ex-ads) unless you run or are building a sales org: OATS outbound automation 18:52–23:02 · qualifying/give-to-get/discounts 24:28–27:32 · comp + hire-in-pairs 27:32–32:19 · onboarding/quotas/ramp 34:44–43:39 · forecasting/status quo 45:30–48:52 · Ramp Revenue internal AI 49:54–52:38; skip ads 01:10–04:24 and after 01:04:44</description>
+<itunes:summary>Atlas Podme Briefing — 20VC "20Sales": Harry Stebbings with Max Freeman, SVP of Sales at Ramp.
+
+Why Ramp hires investment bankers (and pays 2x for 4-6x the meetings); Moneyball recruiting of top sellers from low-NPS companies; how to interview sellers; picking a company by market, talent density and founders; OATS, Ramp's pre-AI outbound automation team, and why ~1% email-to-meeting is strong; when to verticalize; the "give to get" qualification move and avoiding discounts; no comp plan for first reps and hiring in pairs; onboarding certifications, quotas at 7-12x and ramp times; customer success, forecasting and killing forecast calls; Ramp Revenue, the internal AI that cuts pre-call research to 90 seconds; and Inspect, Ramp's internal coding agent.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct and Town are not named in this episode.
+
+Source: 20VC (published Oct 10, 2026).
+
+Listen verdict: SKIM (~60 min ex-ads) unless you run or are building a sales org: OATS outbound automation 18:52–23:02 · qualifying/give-to-get/discounts 24:28–27:32 · comp + hire-in-pairs 27:32–32:19 · onboarding/quotas/ramp 34:44–43:39 · forecasting/status quo 45:30–48:52 · Ramp Revenue internal AI 49:54–52:38; skip ads 01:10–04:24 and after 01:04:44</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-ramp-max-freeman.mp3" length="16450988" type="audio/mpeg"/>
+<itunes:duration>17:08</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Meta &amp; Microsoft's Claude Slowdown, Grok Bot Leaks Shane Mac's Banking Info, Don't Bully Your AI — with Ranjan Roy (Conversational)</title>
 <itunes:title>Big Technology — Meta &amp; Microsoft's Claude Slowdown, Grok Bot Leaks Shane Mac's Banking Info, Don't Bully Your AI — with Ranjan Roy (Conversational)</itunes:title>
