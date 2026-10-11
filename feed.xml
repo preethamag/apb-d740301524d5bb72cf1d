@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 10 Oct 2026 18:02:54 GMT</lastBuildDate>
-<pubDate>Sat, 10 Oct 2026 18:00:45 GMT</pubDate>
+<lastBuildDate>Sun, 11 Oct 2026 15:25:09 GMT</lastBuildDate>
+<pubDate>Sun, 11 Oct 2026 15:25:08 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Lenny's — Josh Woodward / Google Labs: Operate Like a Lab Team, Almost-Possible List, Eyes as PMF (Conversational)</title>
+<itunes:title>Lenny's — Josh Woodward / Google Labs: Operate Like a Lab Team, Almost-Possible List, Eyes as PMF (Conversational)</itunes:title>
+<guid isPermaLink="false">lenny-josh-woodward</guid>
+<pubDate>Sun, 11 Oct 2026 15:25:08 GMT</pubDate>
+<description>Atlas Podme Briefing — Lenny's Podcast with Josh Woodward (head of Google Labs, the Gemini app, and AI Studio).
+
+Why every company now needs to operate like a labs team: the "almost possible" list, why you can't microwave good ideas, people's eyes as the early product-market-fit metric, why the team knows when to kill an idea before the leader does, Google's answer on using your Gmail and Calendar data, unlearning rate and explosive endurance, why roles aren't blurring into one builder, seasons and six-month roadmaps, why big-company labs fizzle in three to four years, three tips for setting up your own lab, and the TPU Harvester rake.
+
+~18:01 conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think
+
+Listen verdict: SKIM (~62m) unless you run product or innovation teams: almost-possible list 07:54–11:52 · eyes-as-PMF + kill signals 14:37–19:34 · Gmail-data spicy Q 24:31–27:16 · skills/major-minor 31:36–38:30 · seasons/planning 38:39–43:37 · frontier team + 3 lab setup tips 43:37–50:25 · awards 58:15–01:01:10; skip WorkOS 04:34–05:42 and DX 30:46–31:36</description>
+<itunes:summary>Atlas Podme Briefing — Lenny's Podcast with Josh Woodward (head of Google Labs, the Gemini app, and AI Studio).
+
+Why every company now needs to operate like a labs team: the "almost possible" list, why you can't microwave good ideas, people's eyes as the early product-market-fit metric, why the team knows when to kill an idea before the leader does, Google's answer on using your Gmail and Calendar data, unlearning rate and explosive endurance, why roles aren't blurring into one builder, seasons and six-month roadmaps, why big-company labs fizzle in three to four years, three tips for setting up your own lab, and the TPU Harvester rake.
+
+~18:01 conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think
+
+Listen verdict: SKIM (~62m) unless you run product or innovation teams: almost-possible list 07:54–11:52 · eyes-as-PMF + kill signals 14:37–19:34 · Gmail-data spicy Q 24:31–27:16 · skills/major-minor 31:36–38:30 · seasons/planning 38:39–43:37 · frontier team + 3 lab setup tips 43:37–50:25 · awards 58:15–01:01:10; skip WorkOS 04:34–05:42 and DX 30:46–31:36</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-josh-woodward.mp3" length="17286956" type="audio/mpeg"/>
+<itunes:duration>18:00</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — 20Sales: Inside Ramp's Sales Machine with Max Freeman, SVP Sales @ Ramp (Conversational)</title>
 <itunes:title>20VC — 20Sales: Inside Ramp's Sales Machine with Max Freeman, SVP Sales @ Ramp (Conversational)</itunes:title>
