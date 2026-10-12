@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 12 Oct 2026 18:30:42 GMT</lastBuildDate>
-<pubDate>Mon, 12 Oct 2026 18:30:09 GMT</pubDate>
+<lastBuildDate>Mon, 12 Oct 2026 18:37:39 GMT</lastBuildDate>
+<pubDate>Mon, 12 Oct 2026 18:31:19 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,50 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Atlassian CEO on Why Agents Won't Replace Interfaces with Mike Cannon-Brookes (Conversational)</title>
+<itunes:title>20VC — Atlassian CEO on Why Agents Won't Replace Interfaces with Mike Cannon-Brookes (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-atlassian-cannon-brookes</guid>
+<pubDate>Mon, 12 Oct 2026 18:31:19 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC: Harry Stebbings with Mike Cannon-Brookes, co-founder and CEO of Atlassian.
+
+Why "headless is brainless" and agents won't replace good interfaces (while Atlassian goes big on MCP); the unsolved agent design problems — text boxes, provenance of agent-made work, watermarking, and overseeing the "software factory"; why Atlassian uses Nemotron and Mistral but no Chinese models in production; why most "we trained our own model" claims are fine-tunes; cost discipline, per-task model routing and cheap decision models like Jev; why inference gets far cheaper and production of technology now outpaces consumption; the Teamwork Graph as a fresh company context index; Confluence at north of $1.5B ARR; Linear vs Jira; young founders tapping out; and "wage peace on yourself."
+
+Conversational Andrew and Ava (tone v2). Instinct and Jev are mentioned in passing; Grok Bot and Town are not named.
+
+Source: 20VC (published Oct 12, 2026).
+
+Listen verdict: SKIM (~50 min ex-ads), priority playlist if you build agent products: 'headless is brainless' + open agent-design problems 03:23–14:25 · Chinese models / 'we trained our own model' 16:50–24:17 · cost discipline, Jev-style decision models, routing 24:17–30:07 · context graph vs data marketplaces 35:56–41:16; skip ads 01:12–03:04 and after 53:35. Instinct mentions are jokes/anecdotes, no product news.
+
+Sticky insights:
+- Headless is brainless: open your platform to agents via MCP/CLI but keep evolving your own UI — design matters more when building is cheap.
+- Most 'we trained our own model' claims are fine-tuned Nemotron or Chinese open models; specialized models must beat the latest foundation model on price-per-watt to justify themselves.
+- Cost discipline + per-task routing is a core strength; cheap decision models (Jev and ~15 clones) open tasks too costly even for GPT-3/4-level models.
+- Production of technology now outpaces consumption — adoption is the bottleneck.
+- The context moat is a fresh, per-company graph that infers ahead of agents, like Google's index.</description>
+<itunes:summary>Atlas Podme Briefing — 20VC: Harry Stebbings with Mike Cannon-Brookes, co-founder and CEO of Atlassian.
+
+Why "headless is brainless" and agents won't replace good interfaces (while Atlassian goes big on MCP); the unsolved agent design problems — text boxes, provenance of agent-made work, watermarking, and overseeing the "software factory"; why Atlassian uses Nemotron and Mistral but no Chinese models in production; why most "we trained our own model" claims are fine-tunes; cost discipline, per-task model routing and cheap decision models like Jev; why inference gets far cheaper and production of technology now outpaces consumption; the Teamwork Graph as a fresh company context index; Confluence at north of $1.5B ARR; Linear vs Jira; young founders tapping out; and "wage peace on yourself."
+
+Conversational Andrew and Ava (tone v2). Instinct and Jev are mentioned in passing; Grok Bot and Town are not named.
+
+Source: 20VC (published Oct 12, 2026).
+
+Listen verdict: SKIM (~50 min ex-ads), priority playlist if you build agent products: 'headless is brainless' + open agent-design problems 03:23–14:25 · Chinese models / 'we trained our own model' 16:50–24:17 · cost discipline, Jev-style decision models, routing 24:17–30:07 · context graph vs data marketplaces 35:56–41:16; skip ads 01:12–03:04 and after 53:35. Instinct mentions are jokes/anecdotes, no product news.
+
+Sticky insights:
+- Headless is brainless: open your platform to agents via MCP/CLI but keep evolving your own UI — design matters more when building is cheap.
+- Most 'we trained our own model' claims are fine-tuned Nemotron or Chinese open models; specialized models must beat the latest foundation model on price-per-watt to justify themselves.
+- Cost discipline + per-task routing is a core strength; cheap decision models (Jev and ~15 clones) open tasks too costly even for GPT-3/4-level models.
+- Production of technology now outpaces consumption — adoption is the bottleneck.
+- The context moat is a fresh, per-company graph that infers ahead of agents, like Google's index.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-atlassian-cannon-brookes.mp3" length="14201900" type="audio/mpeg"/>
+<itunes:duration>14:48</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) (Conversational)</title>
 <itunes:title>How I AI — How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) (Conversational)</itunes:title>
