@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sun, 11 Oct 2026 15:25:09 GMT</lastBuildDate>
-<pubDate>Sun, 11 Oct 2026 15:25:08 GMT</pubDate>
+<lastBuildDate>Mon, 12 Oct 2026 18:30:42 GMT</lastBuildDate>
+<pubDate>Mon, 12 Oct 2026 18:30:09 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) (Conversational)</title>
+<itunes:title>How I AI — How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-meta-muse-cornell</guid>
+<pubDate>Mon, 12 Oct 2026 18:30:09 GMT</pubDate>
+<description>Atlas Podme Briefing — How I AI: Claire Vo with Alex Cornell, design director on Muse, Meta's consumer AI agent.
+
+Why Muse was designed like messaging a person (proactive messages, bubbles, a character at the top of the screen); Alex's mom apologizing to her Muse for making him work so hard; the three-layer status display and progressive disclosure instead of chain-of-thought in the chat; speed, fast acknowledgments and background work; generative UI "on the rails", custom avatars, the ideas surface and the prompt-able feed; demos turning Instagram saves into a daily SkyMall catalog, monitoring and price alerts, golf round recaps toward a single-digit handicap, a 20-year-old blog turned into a morning podcast, and a snarky chess coach; one main chat versus side chats; designing for non-deterministic systems; and polite prompting.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct, Town and Jev are not named in this episode.
+
+Source: How I AI (published Oct 12, 2026).
+
+Listen verdict: SKIM-to-LISTEN (~34 min ex-ads); full listen if you're designing agent UX: messaging-first design + mom anecdote 03:22–07:28 · three-layer status / latency / acknowledgment 07:28–11:02 · generative UI on the rails, ideas, feed 11:02–14:18 · main vs side chat 25:28–27:47 · non-determinism for designers 31:49–34:35; demos 15:32–31:01 are visual (skim on audio); skip ad 01:41–02:56</description>
+<itunes:summary>Atlas Podme Briefing — How I AI: Claire Vo with Alex Cornell, design director on Muse, Meta's consumer AI agent.
+
+Why Muse was designed like messaging a person (proactive messages, bubbles, a character at the top of the screen); Alex's mom apologizing to her Muse for making him work so hard; the three-layer status display and progressive disclosure instead of chain-of-thought in the chat; speed, fast acknowledgments and background work; generative UI "on the rails", custom avatars, the ideas surface and the prompt-able feed; demos turning Instagram saves into a daily SkyMall catalog, monitoring and price alerts, golf round recaps toward a single-digit handicap, a 20-year-old blog turned into a morning podcast, and a snarky chess coach; one main chat versus side chats; designing for non-deterministic systems; and polite prompting.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct, Town and Jev are not named in this episode.
+
+Source: How I AI (published Oct 12, 2026).
+
+Listen verdict: SKIM-to-LISTEN (~34 min ex-ads); full listen if you're designing agent UX: messaging-first design + mom anecdote 03:22–07:28 · three-layer status / latency / acknowledgment 07:28–11:02 · generative UI on the rails, ideas, feed 11:02–14:18 · main vs side chat 25:28–27:47 · non-determinism for designers 31:49–34:35; demos 15:32–31:01 are visual (skim on audio); skip ad 01:41–02:56</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-meta-muse-cornell.mp3" length="9758252" type="audio/mpeg"/>
+<itunes:duration>10:10</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Lenny's — Josh Woodward / Google Labs: Operate Like a Lab Team, Almost-Possible List, Eyes as PMF (Conversational)</title>
 <itunes:title>Lenny's — Josh Woodward / Google Labs: Operate Like a Lab Team, Almost-Possible List, Eyes as PMF (Conversational)</itunes:title>
