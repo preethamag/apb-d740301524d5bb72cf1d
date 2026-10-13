@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 12 Oct 2026 18:37:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 03:43:26 GMT</lastBuildDate>
 <pubDate>Mon, 12 Oct 2026 18:31:19 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -2037,102 +2037,6 @@ Sticky steal: colleague-with-a-computer ceiling; cave team + hand onboarding ~30
 Show: Atlas Podme Briefings | Source: Lenny’s Podcast</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-grokbot.mp3" length="8806700" type="audio/mpeg"/>
 <itunes:duration>9:10</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>How I AI — Sharadh Krishnamurthy / Stripe Kai (Conversational)</title>
-<itunes:title>How I AI — Sharadh Krishnamurthy / Stripe Kai (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-stripe</guid>
-<pubDate>Tue, 08 Sep 2026 06:24:46 GMT</pubDate>
-<description>Podme conversational briefing: How I AI — Sharadh Krishnamurthy / Stripe Kai (company brain), as of Sep 7, 2026.
-
-LISTEN FULLY if you build or buy enterprise agents, data agents, or AI governance (~50 min source; this briefing ~9 min). Soft-skip sponsors (DX, Hyperagent) and lightning round.
-
-Sticky steal: build rails first (governance, skills, sandboxes, blessed data) — not raw frontier seats. Kai aims to 10x non-engineer knowledge work by meeting people in workflows, not terminals. Projects = governance (DRI + appropriate friction). Ask Data triage before brute-force SQL. Skills lifecycle at ~2k. Agents need identity, load shedding, kill switch. Substrate before wrapper.
-
-Andrew + Ava true two-host dialogue (trial 1/3). Dual-audited conversational + content fidelity ≥9.5.
-
-Show: Atlas Podme Briefings | Source: How I AI with Claire Vo | Guest: Sharadh Krishnamurthy (Stripe)</description>
-<itunes:summary>Podme conversational briefing: How I AI — Sharadh Krishnamurthy / Stripe Kai (company brain), as of Sep 7, 2026.
-
-LISTEN FULLY if you build or buy enterprise agents, data agents, or AI governance (~50 min source; this briefing ~9 min). Soft-skip sponsors (DX, Hyperagent) and lightning round.
-
-Sticky steal: build rails first (governance, skills, sandboxes, blessed data) — not raw frontier seats. Kai aims to 10x non-engineer knowledge work by meeting people in workflows, not terminals. Projects = governance (DRI + appropriate friction). Ask Data triage before brute-force SQL. Skills lifecycle at ~2k. Agents need identity, load shedding, kill switch. Substrate before wrapper.
-
-Andrew + Ava true two-host dialogue (trial 1/3). Dual-audited conversational + content fidelity ≥9.5.
-
-Show: Atlas Podme Briefings | Source: How I AI with Claire Vo | Guest: Sharadh Krishnamurthy (Stripe)</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-stripe.mp3" length="8686124" type="audio/mpeg"/>
-<itunes:duration>9:03</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Lenny's Podcast — Anish Acharya / Loops (Conversational)</title>
-<itunes:title>Lenny's Podcast — Anish Acharya / Loops (Conversational)</itunes:title>
-<guid isPermaLink="false">lenny-latest</guid>
-<pubDate>Tue, 08 Sep 2026 02:53:56 GMT</pubDate>
-<description>Podme conversational briefing: Anish Acharya / a16z (Loops) on Lenny's Podcast, as of Sep 7, 2026.
-
-SKIM: slow takeoff → company-as-loops, climbers vs mountaineers, model sommelier + /loop make me happier, moats discovered not designed (~35–45 min). Full ~79-min source if AI product/org redesign + consumer AI are your beat this week.
-
-Voices: Andrew + Ava alternating. Show: Atlas Podme Briefings | Source: Lenny's Podcast
-
-Listen verdict: LISTEN FULLY (skim ~35–45 min is time-box fallback)</description>
-<itunes:summary>Podme conversational briefing: Anish Acharya / a16z (Loops) on Lenny's Podcast, as of Sep 7, 2026.
-
-SKIM: slow takeoff → company-as-loops, climbers vs mountaineers, model sommelier + /loop make me happier, moats discovered not designed (~35–45 min). Full ~79-min source if AI product/org redesign + consumer AI are your beat this week.
-
-Voices: Andrew + Ava alternating. Show: Atlas Podme Briefings | Source: Lenny's Podcast
-
-Listen verdict: LISTEN FULLY (skim ~35–45 min is time-box fallback)</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-latest.mp3" length="9602732" type="audio/mpeg"/>
-<itunes:duration>10:00</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — JD Greze / Town (Conversational)</title>
-<itunes:title>20VC — JD Greze / Town (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-town</guid>
-<pubDate>Mon, 07 Sep 2026 18:41:10 GMT</pubDate>
-<description>Harry Stebbings talks with Town founder/CEO JD Grèze (ex-Plaid CTO) on the AI assistant race vs Instinct and GrokBot: why moats are a luxury until mainstream PMF, agent-to-agent network effects, face-vs-brain model routing, paid retention over token-maxing, and why Town’s eng tooling run rate is ≥$75K per engineer. ~71 min source; this is a conversational Atlas Podme Briefing — not a full read-aloud. Valuation “~$1B talks” remain rumor/unconfirmed on air.
-
-Listen verdict: LISTEN FULLY (or SKIM with strong priority blocks)</description>
-<itunes:summary>Harry Stebbings talks with Town founder/CEO JD Grèze (ex-Plaid CTO) on the AI assistant race vs Instinct and GrokBot: why moats are a luxury until mainstream PMF, agent-to-agent network effects, face-vs-brain model routing, paid retention over token-maxing, and why Town’s eng tooling run rate is ≥$75K per engineer. ~71 min source; this is a conversational Atlas Podme Briefing — not a full read-aloud. Valuation “~$1B talks” remain rumor/unconfirmed on air.
-
-Listen verdict: LISTEN FULLY (or SKIM with strong priority blocks)</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-town.mp3" length="10065452" type="audio/mpeg"/>
-<itunes:duration>10:29</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — Matan Grinberg / Factory.ai (Conversational)</title>
-<itunes:title>20VC — Matan Grinberg / Factory.ai (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-factory</guid>
-<pubDate>Mon, 07 Sep 2026 13:11:23 GMT</pubDate>
-<description>Podme conversational briefing: Matan Grinberg / Factory.ai on 20VC (Harry Stebbings), as of Sep 2026.
-
-SKIM: AI hangover (phase 3), token P&amp;L vs salary, open-vs-frontier routing, polymath hire reframe (~10–12 min). Full 81-min source only if enterprise agent coding + token economics are your beat.
-
-Voices: Andrew + Ava alternating. Show: Atlas Podme Briefings | Source: 20VC</description>
-<itunes:summary>Podme conversational briefing: Matan Grinberg / Factory.ai on 20VC (Harry Stebbings), as of Sep 2026.
-
-SKIM: AI hangover (phase 3), token P&amp;L vs salary, open-vs-frontier routing, polymath hire reframe (~10–12 min). Full 81-min source only if enterprise agent coding + token economics are your beat.
-
-Voices: Andrew + Ava alternating. Show: Atlas Podme Briefings | Source: 20VC</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-factory.mp3" length="10064684" type="audio/mpeg"/>
-<itunes:duration>10:29</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
