@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 13 Oct 2026 03:43:51 GMT</lastBuildDate>
-<pubDate>Mon, 12 Oct 2026 18:31:19 GMT</pubDate>
+<lastBuildDate>Wed, 14 Oct 2026 15:33:47 GMT</lastBuildDate>
+<pubDate>Wed, 14 Oct 2026 15:33:42 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — Meta's new 'Muse Wonder' model: good for AI agents, bad for design (Conversational)</title>
+<itunes:title>How I AI — Meta's new 'Muse Wonder' model: good for AI agents, bad for design (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-muse-wonder</guid>
+<pubDate>Wed, 14 Oct 2026 15:33:42 GMT</pubDate>
+<description>Atlas Podme Briefing — How I AI: Claire Vo's first look at Meta's new frontier model, Muse Wonder (Wonder / Wonderful).
+
+What Meta claims (personal + professional agents, domain expertise, active memory, active focus); Muse Code access friction and her headless Claude Code workaround; the ~20-task How I AI bench (LLM-as-judge + her voice notes); TL;DR — best at agentic work, solid coding, weak creative/design (~18 months behind); the billing-ticket computer-use test with planted traps; emails and voice assistant nearly matching Sonnet; ChatPRD redesign fail and model-specific SaaS slop; SVGs seventh of eight; short-form video 2/5; zippy one-shots vs slow long agents; final verdict and her plan to try it inside agents she's building.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct, Town and Jev are not named in this episode.
+
+Source: How I AI (published Oct 14, 2026).
+
+Listen verdict: SKIM (~22.5 min ex-ads) unless choosing a model for an agent: TL;DR 07:51–10:16 · billing-ticket agent test 11:53–13:03 · emails + voice / orchestrator 13:03–14:35 · fast one-shot vs slow agent + verdict 21:16–23:24; design/SVG/video 14:35–21:16 skim on audio; skip ads 00:27–01:19 and 10:16–11:04</description>
+<itunes:summary>Atlas Podme Briefing — How I AI: Claire Vo's first look at Meta's new frontier model, Muse Wonder (Wonder / Wonderful).
+
+What Meta claims (personal + professional agents, domain expertise, active memory, active focus); Muse Code access friction and her headless Claude Code workaround; the ~20-task How I AI bench (LLM-as-judge + her voice notes); TL;DR — best at agentic work, solid coding, weak creative/design (~18 months behind); the billing-ticket computer-use test with planted traps; emails and voice assistant nearly matching Sonnet; ChatPRD redesign fail and model-specific SaaS slop; SVGs seventh of eight; short-form video 2/5; zippy one-shots vs slow long agents; final verdict and her plan to try it inside agents she's building.
+
+Conversational Andrew and Ava (tone v2). Grok Bot, Instinct, Town and Jev are not named in this episode.
+
+Source: How I AI (published Oct 14, 2026).
+
+Listen verdict: SKIM (~22.5 min ex-ads) unless choosing a model for an agent: TL;DR 07:51–10:16 · billing-ticket agent test 11:53–13:03 · emails + voice / orchestrator 13:03–14:35 · fast one-shot vs slow agent + verdict 21:16–23:24; design/SVG/video 14:35–21:16 skim on audio; skip ads 00:27–01:19 and 10:16–11:04</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-muse-wonder.mp3" length="6789164" type="audio/mpeg"/>
+<itunes:duration>7:04</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Atlassian CEO on Why Agents Won't Replace Interfaces with Mike Cannon-Brookes (Conversational)</title>
 <itunes:title>20VC — Atlassian CEO on Why Agents Won't Replace Interfaces with Mike Cannon-Brookes (Conversational)</itunes:title>
