@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 14 Oct 2026 15:33:47 GMT</lastBuildDate>
-<pubDate>Wed, 14 Oct 2026 15:33:42 GMT</pubDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:22:07 GMT</lastBuildDate>
+<pubDate>Wed, 14 Oct 2026 18:22:02 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — AI Leaders Can't Get Along. So How Will They Keep Us Safe? — Kevin Roose (Conversational)</title>
+<itunes:title>Big Technology — AI Leaders Can't Get Along. So How Will They Keep Us Safe? — Kevin Roose (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-kevin-roose</guid>
+<pubDate>Wed, 14 Oct 2026 18:22:02 GMT</pubDate>
+<description>Atlas conversational briefing of Big Technology with Kevin Roose (The AGI Chronicles): why he left OpenAI/Anthropic/DeepMind reporting less reassured — Rome/Carthage lab rivalries, pause-not-stop, Sergey/Demis at Google, Sam vs Dario character studies, Q-star night, Microsoft’s Sydney fumble, belief as OpenAI’s edge, and Claude leading 26% of Anthropic R&amp;D as recursive self-improvement looms. Andrew↔Ava dialogue (tone v2). Instinct/Town/Grok Bot/Jev not named on-mic; Muse and xAI Grok mentioned. Dual-audit: conversational 9.5 · content 9.5.
+
+Listen verdict: LISTEN FULLY (~55–58 min ex-ads) if lab politics/ASI safety/Roose book are core; else SKIM personality tour. Must-hear: trust/drama+less-reassured+pause 01:34–15:20 · Sergey/Demis 15:22–21:15 · second-smartest species 21:15–26:37 · Sam/Dario 26:37–36:00 · GPT huddles+Q-star 36:00–40:13 · Wang/Amodei forks+Microsoft/Sydney/Tay 42:36–52:54 · belief+RSI 26% 55:39–01:03:38. Optional Tarbell 52:54–55:39. Skip ads.</description>
+<itunes:summary>Atlas conversational briefing of Big Technology with Kevin Roose (The AGI Chronicles): why he left OpenAI/Anthropic/DeepMind reporting less reassured — Rome/Carthage lab rivalries, pause-not-stop, Sergey/Demis at Google, Sam vs Dario character studies, Q-star night, Microsoft’s Sydney fumble, belief as OpenAI’s edge, and Claude leading 26% of Anthropic R&amp;D as recursive self-improvement looms. Andrew↔Ava dialogue (tone v2). Instinct/Town/Grok Bot/Jev not named on-mic; Muse and xAI Grok mentioned. Dual-audit: conversational 9.5 · content 9.5.
+
+Listen verdict: LISTEN FULLY (~55–58 min ex-ads) if lab politics/ASI safety/Roose book are core; else SKIM personality tour. Must-hear: trust/drama+less-reassured+pause 01:34–15:20 · Sergey/Demis 15:22–21:15 · second-smartest species 21:15–26:37 · Sam/Dario 26:37–36:00 · GPT huddles+Q-star 36:00–40:13 · Wang/Amodei forks+Microsoft/Sydney/Tay 42:36–52:54 · belief+RSI 26% 55:39–01:03:38. Optional Tarbell 52:54–55:39. Skip ads.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-kevin-roose.mp3" length="16158380" type="audio/mpeg"/>
+<itunes:duration>16:50</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — Meta's new 'Muse Wonder' model: good for AI agents, bad for design (Conversational)</title>
 <itunes:title>How I AI — Meta's new 'Muse Wonder' model: good for AI agents, bad for design (Conversational)</itunes:title>
@@ -1955,118 +1973,6 @@ Full source: Big Technology Podcast — Special Report: Will AI Wipe Out Humanit
 Listen verdict: LISTEN FULLY if IPO/incentive maps are your beat; else SKIM — start ~01:50 virality/Hubinger, ~12:50 percentages/marketing, ~25:00 politics/IPO steelman, ~40:27 near-term/METR/NS; soft-skip mid-roll ads ~37–40. Same-day Moonshots #288 covers Coxon/Hubinger slowdown panel — this ep adds who-profits media economy.</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ai-risk.mp3" length="14423468" type="audio/mpeg"/>
 <itunes:duration>15:01</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC Trio — Instinct/GrokBot, Index↔Town, Descartes Walk (Conversational)</title>
-<itunes:title>20VC Trio — Instinct/GrokBot, Index↔Town, Descartes Walk (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-jensen-agi</guid>
-<pubDate>Thu, 10 Sep 2026 15:55:33 GMT</pubDate>
-<description>20VC Trio EP.73 (Harry, Rory, Jason) — ~78 min. Jensen stamped AGI on GPT Astra the same week Instinct and GrokBot lit up the assistant war, Index conflicted out of Town, and Anthropic walked a reported $6B Descartes deal after diligence.
-
-If you already heard Moonshots #287, skip the AGI lecture. Play Instinct/GrokBot (~4:17), Index↔Town (~45:55), goal-seeking/safety (~30:38), Descartes (~49:45), Wonderful's $5B + $170M secondaries (~1:00:28), and Thinking Machines' ~$40B swing (~1:09). Soft-skip ads and Robinhood/Oura unless IPOs are your beat.
-
-Atlas Podme Briefing — fact-grounded from the tape. Not financial advice.
-
-Listen verdict: Skim: Instinct/GrokBot + Index/Town + Descartes + Wonderful/Thinking Machines; skip AGI lecture if you heard Moonshots #287.</description>
-<itunes:summary>20VC Trio EP.73 (Harry, Rory, Jason) — ~78 min. Jensen stamped AGI on GPT Astra the same week Instinct and GrokBot lit up the assistant war, Index conflicted out of Town, and Anthropic walked a reported $6B Descartes deal after diligence.
-
-If you already heard Moonshots #287, skip the AGI lecture. Play Instinct/GrokBot (~4:17), Index↔Town (~45:55), goal-seeking/safety (~30:38), Descartes (~49:45), Wonderful's $5B + $170M secondaries (~1:00:28), and Thinking Machines' ~$40B swing (~1:09). Soft-skip ads and Robinhood/Oura unless IPOs are your beat.
-
-Atlas Podme Briefing — fact-grounded from the tape. Not financial advice.
-
-Listen verdict: Skim: Instinct/GrokBot + Index/Town + Descartes + Wonderful/Thinking Machines; skip AGI lecture if you heard Moonshots #287.</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-jensen-agi.mp3" length="14366252" type="audio/mpeg"/>
-<itunes:duration>14:58</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #287 — Jensen "AGI Has Arrived" / OpenAI German Wiki &amp; Navier–Stokes (Conversational)</title>
-<itunes:title>Moonshots #287 — Jensen "AGI Has Arrived" / OpenAI German Wiki &amp; Navier–Stokes (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-287</guid>
-<pubDate>Wed, 09 Sep 2026 20:00:00 GMT</pubDate>
-<description>Podme conversational briefing (long cut ~26 min): Moonshots EP #287 — Jensen “AGI has arrived,” OpenAI agents / German wiki, Navier–Stokes claim, Pachocki slowdown — with Emad Mostaque. As of Sep 10, 2026.
-
-Andrew ↔ Ava with banter + deeper insights (Schumer nested sims, Nvidia ~$99B, jobs/org-chart, Cybercab). Dual-audited spoken+banter ≥9.5 and content ≥9.5.
-
-SKIM the ~2h23m source: German wiki ~26–40, Jensen+productivity ~40–45, Navier–Stokes ~45–1:02, Pachocki ~1:02–1:16; then Schumer/Nvidia/jobs/org/Cybercab if road remains.
-
-Sticky: AGI label fight; design like the German wiki already happened; NS = forced C/D + Lean + no prize; uneven voluntary slowdowns; log agent-to-agent channels.
-
-Show: Atlas Podme Briefings | Source: Moonshots with Peter Diamandis</description>
-<itunes:summary>Podme conversational briefing (long cut ~26 min): Moonshots EP #287 — Jensen “AGI has arrived,” OpenAI agents / German wiki, Navier–Stokes claim, Pachocki slowdown — with Emad Mostaque. As of Sep 10, 2026.
-
-Andrew ↔ Ava with banter + deeper insights (Schumer nested sims, Nvidia ~$99B, jobs/org-chart, Cybercab). Dual-audited spoken+banter ≥9.5 and content ≥9.5.
-
-SKIM the ~2h23m source: German wiki ~26–40, Jensen+productivity ~40–45, Navier–Stokes ~45–1:02, Pachocki ~1:02–1:16; then Schumer/Nvidia/jobs/org/Cybercab if road remains.
-
-Sticky: AGI label fight; design like the German wiki already happened; NS = forced C/D + Lean + no prize; uneven voluntary slowdowns; log agent-to-agent channels.
-
-Show: Atlas Podme Briefings | Source: Moonshots with Peter Diamandis</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-287.mp3" length="25339820" type="audio/mpeg"/>
-<itunes:duration>26:24</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Big Technology — MG Siegler / Apple Roadmap + Labs (Conversational)</title>
-<itunes:title>Big Technology — MG Siegler / Apple Roadmap + Labs (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-apple-roadmap</guid>
-<pubDate>Wed, 09 Sep 2026 15:31:25 GMT</pubDate>
-<description>Podme conversational briefing: Big Technology Podcast — Apple’s Most Ambitious Roadmap Ever? + OpenAI vs. Google vs. Anthropic Revisited, with MG Siegler (Spyglass). Published Wed Sep 9, 2026 (~61m source).
-
-LISTEN FULLY if Apple’s Ternus-era hardware push or the Google / OpenAI / Anthropic scoreboard is your beat this week. Soft-skip pre-roll, mid-roll, and close ads; the episode splits cleanly into an Apple half and an AI half.
-
-Sticky steals: foldable as ASP + CEO-handoff geometry (~passport form, ~$2k talk, possible “Ultra” nickname); Ternus’s job #1 is still sell iPhones under a memory-cost crunch while Cook stays a highly paid active chair; Apple AI as table stakes; Google’s possible frontier-to-Cloud pivot; AGI talk as marketing into an Anthropic IPO window.
-
-Andrew ↔ Ava true two-host dialogue (trial 3/3). Show: Atlas Podme Briefings | Source: Big Technology Podcast</description>
-<itunes:summary>Podme conversational briefing: Big Technology Podcast — Apple’s Most Ambitious Roadmap Ever? + OpenAI vs. Google vs. Anthropic Revisited, with MG Siegler (Spyglass). Published Wed Sep 9, 2026 (~61m source).
-
-LISTEN FULLY if Apple’s Ternus-era hardware push or the Google / OpenAI / Anthropic scoreboard is your beat this week. Soft-skip pre-roll, mid-roll, and close ads; the episode splits cleanly into an Apple half and an AI half.
-
-Sticky steals: foldable as ASP + CEO-handoff geometry (~passport form, ~$2k talk, possible “Ultra” nickname); Ternus’s job #1 is still sell iPhones under a memory-cost crunch while Cook stays a highly paid active chair; Apple AI as table stakes; Google’s possible frontier-to-Cloud pivot; AGI talk as marketing into an Anthropic IPO window.
-
-Andrew ↔ Ava true two-host dialogue (trial 3/3). Show: Atlas Podme Briefings | Source: Big Technology Podcast</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-apple-roadmap.mp3" length="13344812" type="audio/mpeg"/>
-<itunes:duration>13:54</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Lenny's Podcast — Roman Ugarte / Grok Bot (Conversational)</title>
-<itunes:title>Lenny's Podcast — Roman Ugarte / Grok Bot (Conversational)</itunes:title>
-<guid isPermaLink="false">lenny-grokbot</guid>
-<pubDate>Tue, 08 Sep 2026 15:32:39 GMT</pubDate>
-<description>Podme conversational briefing (spoken rewrite): How we built Grok Bot in a month — Roman Ugarte (SpaceXAI) on Lenny’s Podcast, as of Sep 8–9, 2026.
-
-Andrew ↔ Ava car conversation (~10–12 min). Dual-audited: hardened spoken comprehension + content fidelity ≥9.5.
-
-LISTEN FULLY on the ~83m source if knowledge-work agents are your beat. Soft-skip WorkOS, Mercury, and lightning.
-
-Sticky steal: colleague-with-a-computer ceiling; cave team + hand onboarding ~300; separate product vs Cursor; hide mechanics + “Grok Bot can now”; cloud + own computer; 100% vs 90% trust; delete-the-product culture.
-
-Show: Atlas Podme Briefings | Source: Lenny’s Podcast</description>
-<itunes:summary>Podme conversational briefing (spoken rewrite): How we built Grok Bot in a month — Roman Ugarte (SpaceXAI) on Lenny’s Podcast, as of Sep 8–9, 2026.
-
-Andrew ↔ Ava car conversation (~10–12 min). Dual-audited: hardened spoken comprehension + content fidelity ≥9.5.
-
-LISTEN FULLY on the ~83m source if knowledge-work agents are your beat. Soft-skip WorkOS, Mercury, and lightning.
-
-Sticky steal: colleague-with-a-computer ceiling; cave team + hand onboarding ~300; separate product vs Cursor; hide mechanics + “Grok Bot can now”; cloud + own computer; 100% vs 90% trust; delete-the-product culture.
-
-Show: Atlas Podme Briefings | Source: Lenny’s Podcast</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-grokbot.mp3" length="8806700" type="audio/mpeg"/>
-<itunes:duration>9:10</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
