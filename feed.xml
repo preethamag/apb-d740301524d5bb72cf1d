@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 14 Oct 2026 18:22:07 GMT</lastBuildDate>
-<pubDate>Wed, 14 Oct 2026 18:22:02 GMT</pubDate>
+<lastBuildDate>Thu, 15 Oct 2026 15:51:01 GMT</lastBuildDate>
+<pubDate>Thu, 15 Oct 2026 15:50:40 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,28 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.78 — Valar/Day One Pro-Rata / Muse Wonder / NVIDIA–Reflection $30B / Jev $870M at $7.5B / Haiku Deflation (Conversational)</title>
+<itunes:title>20VC Trio EP.78 — Valar/Day One Pro-Rata / Muse Wonder / NVIDIA–Reflection $30B / Jev $870M at $7.5B / Haiku Deflation (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-78</guid>
+<pubDate>Thu, 15 Oct 2026 15:50:40 GMT</pubDate>
+<description>20VC Trio EP.78 with Harry Stebbings, Jason Lemkin, and Rory O'Driscoll: Valar Atomics vs Day One Ventures over pro-rata in a Sequoia-led $6B Series B; Meta's Muse Wonder just shy of Opus 5.5 (Jason: performative eval without a general API; Instinct named as rival); NVIDIA rumored at ~$30B for Reflection after Poolside; TypeSafe/Jev raises $870M at $7.5B weeks after launch (Jason using it; Rory's $200B→$4–5B revenue math); 42 decacorns in 2026 YTD; Isomorphic Labs talks $40–50B; Anthropic Haiku ~90% cut as first real AI deflation with Jev; Bending Spoons gutting Airtable's team; Bumble private at ~$1.3B; SaaSpocalypse still deep under true scale ($500M ARR may no longer IPO-safe); Flock Safety cuts 270 amid security corners. Conversational Andrew &amp; Ava (tone v2). Skip the ZeroHash / Deel / Framer ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation
+
+Listen verdict: LISTEN FULLY (~66 min ex-ads) if Jev/TypeSafe, Muse vs Instinct, or Nvidia open stack are core — Jev is a headline segment with repeated callbacks; Muse Wonder + Instinct named. Else SKIM: Valar/Day One 04:01–16:33 · Muse Wonder 16:33–20:01 · NVIDIA–Reflection 20:01–25:28 · Jev IC+math 25:28–31:29 · Decacorns 31:29–36:11 · Isomorphic 36:11–45:50 · Haiku deflation 45:50–52:02 · Bending Spoons/Airtable 52:02–57:02 · Bumble 57:02–01:00:38 · SaaSpocalypse 01:00:38–01:06:01 · Flock 01:06:01–01:09:10. Skip ads 01:03–04:01 and after 01:10:36.</description>
+<itunes:summary>20VC Trio EP.78 with Harry Stebbings, Jason Lemkin, and Rory O'Driscoll: Valar Atomics vs Day One Ventures over pro-rata in a Sequoia-led $6B Series B; Meta's Muse Wonder just shy of Opus 5.5 (Jason: performative eval without a general API; Instinct named as rival); NVIDIA rumored at ~$30B for Reflection after Poolside; TypeSafe/Jev raises $870M at $7.5B weeks after launch (Jason using it; Rory's $200B→$4–5B revenue math); 42 decacorns in 2026 YTD; Isomorphic Labs talks $40–50B; Anthropic Haiku ~90% cut as first real AI deflation with Jev; Bending Spoons gutting Airtable's team; Bumble private at ~$1.3B; SaaSpocalypse still deep under true scale ($500M ARR may no longer IPO-safe); Flock Safety cuts 270 amid security corners. Conversational Andrew &amp; Ava (tone v2). Skip the ZeroHash / Deel / Framer ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation
+
+Listen verdict: LISTEN FULLY (~66 min ex-ads) if Jev/TypeSafe, Muse vs Instinct, or Nvidia open stack are core — Jev is a headline segment with repeated callbacks; Muse Wonder + Instinct named. Else SKIM: Valar/Day One 04:01–16:33 · Muse Wonder 16:33–20:01 · NVIDIA–Reflection 20:01–25:28 · Jev IC+math 25:28–31:29 · Decacorns 31:29–36:11 · Isomorphic 36:11–45:50 · Haiku deflation 45:50–52:02 · Bending Spoons/Airtable 52:02–57:02 · Bumble 57:02–01:00:38 · SaaSpocalypse 01:00:38–01:06:01 · Flock 01:06:01–01:09:10. Skip ads 01:03–04:01 and after 01:10:36.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-78.mp3" length="16407212" type="audio/mpeg"/>
+<itunes:duration>17:05</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — AI Leaders Can't Get Along. So How Will They Keep Us Safe? — Kevin Roose (Conversational)</title>
 <itunes:title>Big Technology — AI Leaders Can't Get Along. So How Will They Keep Us Safe? — Kevin Roose (Conversational)</itunes:title>
