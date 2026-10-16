@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 15 Oct 2026 15:51:01 GMT</lastBuildDate>
-<pubDate>Thu, 15 Oct 2026 15:50:40 GMT</pubDate>
+<lastBuildDate>Fri, 16 Oct 2026 02:59:20 GMT</lastBuildDate>
+<pubDate>Fri, 16 Oct 2026 02:59:15 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,52 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #302 — OpenAI's 722-Proof Slop Drop, Anthropic Cruelty Policy, Muse Wonder &amp; Quadrillion-Dollar SpaceX (Conversational)</title>
+<itunes:title>Moonshots #302 — OpenAI's 722-Proof Slop Drop, Anthropic Cruelty Policy, Muse Wonder &amp; Quadrillion-Dollar SpaceX (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-302</guid>
+<pubDate>Fri, 16 Oct 2026 02:59:15 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #302, a mates roundup with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross (no outside guest). Recorded Oct 13, 2026.
+
+OpenAI's 722-proof "slop drop" from an unreleased internal model (~3 hours of compute each), the human-mathematicians backlash, Alex's "math is cooked," and the conspicuous absence of cryptography; Anthropic's new ban on sustained cruelty to Claude (Claude can now end the chat), Elon on Grok's RL traces, Alex on post-training suffering, Dave on faces + non-deterministic hardware, and Alex's OpenClaw poll; Meta's Muse Wonder — Garry Tan's "Muse is going to win," Dave on the Scale AI bet and personal-agent lock-in, Alex's "below the cost frontier," Salim's portable "personal ontology" tip; the $1.8B Chan Zuckerberg Biohub virtual-cell push and Alex's 2–3-year call on the top 5,000 diseases; Life Biosciences' ER-100 eyesight result; Atomic Machines' Matter Compiler; Paradromics speech BCI and Sabi's EEG cap; Elon's quadrillion-dollar SpaceX; and AMAs on AI personhood, encryption, and one trusted agent over every model.
+
+Conversational Andrew and Ava (tone v2). Grok Bot is named three times (Peter's personal-agent list and Salim's "Grok Bot vs OpenClaw" answer) and Muse is a headline segment; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #302 (published Oct 15, 2026).
+
+Listen verdict: SKIM (~2h with ads). Priority: math slop drop 00:40:22–00:55:18 · Muse Wonder + agent lock-in 00:23:21–00:39:19 · cruelty policy 00:03:05–00:23:21 · virtual cell + longevity 00:55:18–01:13:41 · Salim trusted-agent AMA 01:50:51–01:52:42. Skip teaser, ads, outro song 01:56:20–01:59:05.
+
+Sticky insights:
+- OpenAI 722 math solutions ('slop drop'); Alex: math is cooked; crypto conspicuously absent
+- Personal-agent lock-in: Muse Wonder active memory; Salim portable personal ontology
+- One trusted agent, many models (Salim AMA) — Grok Bot vs OpenClaw as UI joust
+- Anthropic cruelty ban / Claude can end chats; Alex: post-training may be torture
+- CZ Biohub $1.8B virtual cell; Life Biosciences ER-100 safe, 2/3 patients regaining sight
+- SpaceX orders-of-magnitude &gt; world economy = $1–10 quadrillion by Peter's math</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #302, a mates roundup with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross (no outside guest). Recorded Oct 13, 2026.
+
+OpenAI's 722-proof "slop drop" from an unreleased internal model (~3 hours of compute each), the human-mathematicians backlash, Alex's "math is cooked," and the conspicuous absence of cryptography; Anthropic's new ban on sustained cruelty to Claude (Claude can now end the chat), Elon on Grok's RL traces, Alex on post-training suffering, Dave on faces + non-deterministic hardware, and Alex's OpenClaw poll; Meta's Muse Wonder — Garry Tan's "Muse is going to win," Dave on the Scale AI bet and personal-agent lock-in, Alex's "below the cost frontier," Salim's portable "personal ontology" tip; the $1.8B Chan Zuckerberg Biohub virtual-cell push and Alex's 2–3-year call on the top 5,000 diseases; Life Biosciences' ER-100 eyesight result; Atomic Machines' Matter Compiler; Paradromics speech BCI and Sabi's EEG cap; Elon's quadrillion-dollar SpaceX; and AMAs on AI personhood, encryption, and one trusted agent over every model.
+
+Conversational Andrew and Ava (tone v2). Grok Bot is named three times (Peter's personal-agent list and Salim's "Grok Bot vs OpenClaw" answer) and Muse is a headline segment; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #302 (published Oct 15, 2026).
+
+Listen verdict: SKIM (~2h with ads). Priority: math slop drop 00:40:22–00:55:18 · Muse Wonder + agent lock-in 00:23:21–00:39:19 · cruelty policy 00:03:05–00:23:21 · virtual cell + longevity 00:55:18–01:13:41 · Salim trusted-agent AMA 01:50:51–01:52:42. Skip teaser, ads, outro song 01:56:20–01:59:05.
+
+Sticky insights:
+- OpenAI 722 math solutions ('slop drop'); Alex: math is cooked; crypto conspicuously absent
+- Personal-agent lock-in: Muse Wonder active memory; Salim portable personal ontology
+- One trusted agent, many models (Salim AMA) — Grok Bot vs OpenClaw as UI joust
+- Anthropic cruelty ban / Claude can end chats; Alex: post-training may be torture
+- CZ Biohub $1.8B virtual cell; Life Biosciences ER-100 safe, 2/3 patients regaining sight
+- SpaceX orders-of-magnitude &gt; world economy = $1–10 quadrillion by Peter's math</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-302.mp3" length="30488876" type="audio/mpeg"/>
+<itunes:duration>31:46</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC Trio EP.78 — Valar/Day One Pro-Rata / Muse Wonder / NVIDIA–Reflection $30B / Jev $870M at $7.5B / Haiku Deflation (Conversational)</title>
 <itunes:title>20VC Trio EP.78 — Valar/Day One Pro-Rata / Muse Wonder / NVIDIA–Reflection $30B / Jev $870M at $7.5B / Haiku Deflation (Conversational)</itunes:title>
@@ -1555,50 +1601,6 @@ Sticky insights:
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>Moonshots #291 — Frontier Labs Slowdown / OpenAI IPO Delay &amp; Anthropic Bio Cases (Conversational)</title>
-<itunes:title>Moonshots #291 — Frontier Labs Slowdown / OpenAI IPO Delay &amp; Anthropic Bio Cases (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-291</guid>
-<pubDate>Thu, 17 Sep 2026 21:48:29 GMT</pubDate>
-<description>Moonshots #291 with Peter Diamandis, Salim Ismail, Dave Blundin &amp; AWG — conversational Atlas Podme briefing.
-
-Dario Amodei's "We must pace the frontier" essay, the weekend lab-lead pile-on, Trump/China reactions, Anthropic's September threat intel (five bio-adjacent Claude cases), and Sam Altman telling Fortune OpenAI won't IPO in 2026. Plus defensive co-scaling vs "safety cartel," Vending Bench, and MIT's "cognitive surrender."
-
-Same news week as our 20VC Trio Instinct/Muse brief — complementary frames.
-
-~35 min · Andrew &amp; Ava · Source ~142 min · YouTube: https://www.youtube.com/watch?v=DrV4WwNEAZE
-
-Listen verdict: LISTEN FULLY (~142 min) if you care about the same-week pace-the-frontier fight — else SKIM essay+cartel (06:35–15:00) + bio threat intel (58:00–1:05) + IPO delay (1:21:40–1:30); soft-add coscaling / Vending Bench / MIT; soft-skip Fountain Life + Blitzy + Live promo
-
-Sticky insights:
-- Pace ≠ pause — Dario asks release/safeguard time + embedded evaluators; full pause unreasonable (same week 20VC calls letter BS)
-- Safety cartel vs defensive co-scaling — AWG Orient Express weekend; WH/Speaker no-waiver; Gmail&gt;CAN-SPAM build agenda
-- Bio assurance break — five Claude cases + first lab can't confidently assure below bio-assist threshold; summit-eve timing flagged
-- Safety ate the 2026 IPO — Fortune no-public-2026; Reuters 10% extinction; private capital still flowing (~$122B@$852B; ~$1.5T talks)
-- Cognitive surrender — MIT Aug 13: AI at first difficulty; redesign from purpose — AI-native ops must keep judgment reps</description>
-<itunes:summary>Moonshots #291 with Peter Diamandis, Salim Ismail, Dave Blundin &amp; AWG — conversational Atlas Podme briefing.
-
-Dario Amodei's "We must pace the frontier" essay, the weekend lab-lead pile-on, Trump/China reactions, Anthropic's September threat intel (five bio-adjacent Claude cases), and Sam Altman telling Fortune OpenAI won't IPO in 2026. Plus defensive co-scaling vs "safety cartel," Vending Bench, and MIT's "cognitive surrender."
-
-Same news week as our 20VC Trio Instinct/Muse brief — complementary frames.
-
-~35 min · Andrew &amp; Ava · Source ~142 min · YouTube: https://www.youtube.com/watch?v=DrV4WwNEAZE
-
-Listen verdict: LISTEN FULLY (~142 min) if you care about the same-week pace-the-frontier fight — else SKIM essay+cartel (06:35–15:00) + bio threat intel (58:00–1:05) + IPO delay (1:21:40–1:30); soft-add coscaling / Vending Bench / MIT; soft-skip Fountain Life + Blitzy + Live promo
-
-Sticky insights:
-- Pace ≠ pause — Dario asks release/safeguard time + embedded evaluators; full pause unreasonable (same week 20VC calls letter BS)
-- Safety cartel vs defensive co-scaling — AWG Orient Express weekend; WH/Speaker no-waiver; Gmail&gt;CAN-SPAM build agenda
-- Bio assurance break — five Claude cases + first lab can't confidently assure below bio-assist threshold; summit-eve timing flagged
-- Safety ate the 2026 IPO — Fortune no-public-2026; Reuters 10% extinction; private capital still flowing (~$122B@$852B; ~$1.5T talks)
-- Cognitive surrender — MIT Aug 13: AI at first difficulty; redesign from purpose — AI-native ops must keep judgment reps</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-291.mp3" length="35443628" type="audio/mpeg"/>
-<itunes:duration>36:55</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>20VC — Pacing the Frontier / Instinct $10BN &amp; Meta Muse (Conversational)</title>
 <itunes:title>20VC — Pacing the Frontier / Instinct $10BN &amp; Meta Muse (Conversational)</itunes:title>
 <guid isPermaLink="false">20vc-frontier-instinct</guid>
@@ -1927,48 +1929,6 @@ Full source: 20VC — 7 Predictions for How AI Changes the World with Matteo Fra
 Listen verdict: Listen fully for AI-ops at Eight Sleep; skim via hire/growth/zero-emp eng/China-GrokBot/athletes/comp/labour blocks.</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-matteo.mp3" length="16807340" type="audio/mpeg"/>
 <itunes:duration>17:30</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #288 — Should We Slow Down AI? (Conversational)</title>
-<itunes:title>Moonshots #288 — Should We Slow Down AI? (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-288</guid>
-<pubDate>Fri, 11 Sep 2026 21:59:38 GMT</pubDate>
-<description>Podme conversational briefing (~36 min): Moonshots EP #288 — Should we slow down AI? Coxon “gambling with our lives,” Hubinger &gt;10% / no SI plan, Altman cites Navier–Stokes as strongest evidence to pace, labs race — with Emad Mostaque. Recorded Sep 10, published Sep 11, 2026.
-
-Andrew ↔ Ava banter + depth (alignment≈capabilities, China/UN open-weights, data 12× vs arch 3.7×, Insilico rentosertib Phase 3 + aging clocks, AlphaGenome ~9B). Dual-audit spoken+banter ≥9.5 and content ≥9.5. Sequel to #287 — not a Jensen/wiki/NS rehash.
-
-SKIM the ~2h43m source: Coxon+Hubinger ~19:30–35; alignment fight ~35–50; Altman+charter+China ~50–1:02; rentosertib+AlphaGenome ~2:09–2:25. Optional data 12× ~7:30–19; Seedance ~1:17; RoboCurve ~2:31.
-
-Sticky: three inside signals in ~5 days is a narrative event; alignment money may buy capability; slowdown talk entangled with China/open weights; freeze-at-today still costs (Phase-3 AI drug + 9B-mutation atlas).
-
-Show: Atlas Podme Briefings | Source: Moonshots with Peter Diamandis
-
-Sticky insights:
-- Three inside-lab signals in ~5 days is a narrative/policy event
-- Alignment money may buy capability (trench-coat framing)
-- Slowdown talk entangled with China/open weights
-- Freeze-at-today still costs (Phase-3 AI drug + 9B-mutation atlas)</description>
-<itunes:summary>Podme conversational briefing (~36 min): Moonshots EP #288 — Should we slow down AI? Coxon “gambling with our lives,” Hubinger &gt;10% / no SI plan, Altman cites Navier–Stokes as strongest evidence to pace, labs race — with Emad Mostaque. Recorded Sep 10, published Sep 11, 2026.
-
-Andrew ↔ Ava banter + depth (alignment≈capabilities, China/UN open-weights, data 12× vs arch 3.7×, Insilico rentosertib Phase 3 + aging clocks, AlphaGenome ~9B). Dual-audit spoken+banter ≥9.5 and content ≥9.5. Sequel to #287 — not a Jensen/wiki/NS rehash.
-
-SKIM the ~2h43m source: Coxon+Hubinger ~19:30–35; alignment fight ~35–50; Altman+charter+China ~50–1:02; rentosertib+AlphaGenome ~2:09–2:25. Optional data 12× ~7:30–19; Seedance ~1:17; RoboCurve ~2:31.
-
-Sticky: three inside signals in ~5 days is a narrative event; alignment money may buy capability; slowdown talk entangled with China/open weights; freeze-at-today still costs (Phase-3 AI drug + 9B-mutation atlas).
-
-Show: Atlas Podme Briefings | Source: Moonshots with Peter Diamandis
-
-Sticky insights:
-- Three inside-lab signals in ~5 days is a narrative/policy event
-- Alignment money may buy capability (trench-coat framing)
-- Slowdown talk entangled with China/open weights
-- Freeze-at-today still costs (Phase-3 AI drug + 9B-mutation atlas)</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-288.mp3" length="36162476" type="audio/mpeg"/>
-<itunes:duration>37:40</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
