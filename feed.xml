@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 17 Oct 2026 00:28:35 GMT</lastBuildDate>
-<pubDate>Sat, 17 Oct 2026 00:28:25 GMT</pubDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:49:16 GMT</lastBuildDate>
+<pubDate>Sat, 17 Oct 2026 15:48:58 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,28 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Harrison Chase (LangChain): Horizontal vs Vertical Agents / Model Routing / Memory (Instinct &amp; Muse) / 30% of Eng Salary on Coding Tools / Tier-1 Discounts (Conversational)</title>
+<itunes:title>20VC — Harrison Chase (LangChain): Horizontal vs Vertical Agents / Model Routing / Memory (Instinct &amp; Muse) / 30% of Eng Salary on Coding Tools / Tier-1 Discounts (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-harrison-chase-langchain</guid>
+<pubDate>Sat, 17 Oct 2026 15:48:58 GMT</pubDate>
+<description>20VC with Harry Stebbings and Harrison Chase, co-founder and CEO of LangChain: why agents are still really hard (non-deterministic black boxes, cascading errors); why better models force you to delete your own product; neutral harnesses and memory portability vs the model labs; why value goes to domain experts and vertical agents; the post-training ladder (Cannon-Brookes "respectfully BS"); model routing belongs in the harness, isn't a commodity, and is done far less than people think; memory as the big unsolved layer (Instinct and Muse named as his personalization examples; LangChain killed its commercial memory product); horizontal agents talking to vertical agents (Resy blocked an Instinct user); AI bills exploding as tokens get cheaper — LangChain spends ~30% of engineering salary on coding tools, a $40K/week loop, Harry's Anthropic thesis; Chinese and US open models; "everything just works" inference and the gateway he regrets not building; Harry's no-go list vs Harrison's buys, the Jev bull case; and why founders should absolutely take a discount for Sequoia and Benchmark. Quick-fire: OpenAI at $1.5T over Anthropic at $2T. Conversational Andrew &amp; Ava (tone v2). Skip the Fireworks / Larridin / Superhuman ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain
+
+Listen verdict: LISTEN FULLY (~54 min ex-ads) if you build agents (Grok Bot / Podme Alice) — routing-in-the-harness, memory, and cost-control segments are directly usable; Instinct + Muse are his memory/personalization examples. Else SKIM: hard agents + delete-the-product 04:11–08:48 · neutral harness 08:50–13:13 · own-model ladder 13:13–16:20 · model routing 16:25–21:43 · evals/traces/continual learning 21:43–25:44 · memory (Instinct/Muse) 25:45–32:20 · horizontal vs vertical + Resy/Instinct 32:20–35:44 · AI bills / 30% of eng salary / $40K loop 35:45–43:25 · Chinese/open models 43:25–46:13 · inference 46:13–47:27 · invest/not + Jev bull case 47:27–53:05 · Benchmark/Sequoia discount 53:05–56:22 · quick-fire 56:23–58:37. Skip ads 01:00–04:08 and after 58:40.</description>
+<itunes:summary>20VC with Harry Stebbings and Harrison Chase, co-founder and CEO of LangChain: why agents are still really hard (non-deterministic black boxes, cascading errors); why better models force you to delete your own product; neutral harnesses and memory portability vs the model labs; why value goes to domain experts and vertical agents; the post-training ladder (Cannon-Brookes "respectfully BS"); model routing belongs in the harness, isn't a commodity, and is done far less than people think; memory as the big unsolved layer (Instinct and Muse named as his personalization examples; LangChain killed its commercial memory product); horizontal agents talking to vertical agents (Resy blocked an Instinct user); AI bills exploding as tokens get cheaper — LangChain spends ~30% of engineering salary on coding tools, a $40K/week loop, Harry's Anthropic thesis; Chinese and US open models; "everything just works" inference and the gateway he regrets not building; Harry's no-go list vs Harrison's buys, the Jev bull case; and why founders should absolutely take a discount for Sequoia and Benchmark. Quick-fire: OpenAI at $1.5T over Anthropic at $2T. Conversational Andrew &amp; Ava (tone v2). Skip the Fireworks / Larridin / Superhuman ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain
+
+Listen verdict: LISTEN FULLY (~54 min ex-ads) if you build agents (Grok Bot / Podme Alice) — routing-in-the-harness, memory, and cost-control segments are directly usable; Instinct + Muse are his memory/personalization examples. Else SKIM: hard agents + delete-the-product 04:11–08:48 · neutral harness 08:50–13:13 · own-model ladder 13:13–16:20 · model routing 16:25–21:43 · evals/traces/continual learning 21:43–25:44 · memory (Instinct/Muse) 25:45–32:20 · horizontal vs vertical + Resy/Instinct 32:20–35:44 · AI bills / 30% of eng salary / $40K loop 35:45–43:25 · Chinese/open models 43:25–46:13 · inference 46:13–47:27 · invest/not + Jev bull case 47:27–53:05 · Benchmark/Sequoia discount 53:05–56:22 · quick-fire 56:23–58:37. Skip ads 01:00–04:08 and after 58:40.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-harrison-chase-langchain.mp3" length="15744428" type="audio/mpeg"/>
+<itunes:duration>16:24</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Anthropic IPO Panic, A Spy At OpenAI?, The Great Food Slop Debate — with Ranjan Roy (Conversational)</title>
 <itunes:title>Big Technology — Anthropic IPO Panic, A Spy At OpenAI?, The Great Food Slop Debate — with Ranjan Roy (Conversational)</itunes:title>
