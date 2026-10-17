@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 17 Oct 2026 15:49:16 GMT</lastBuildDate>
-<pubDate>Sat, 17 Oct 2026 15:48:58 GMT</pubDate>
+<lastBuildDate>Sat, 17 Oct 2026 21:45:10 GMT</lastBuildDate>
+<pubDate>Sat, 17 Oct 2026 21:44:51 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,52 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #303 — Flying Tesla Roadster, Robot Brains Halving Every 3 Weeks, GPT-6 Astra Physics &amp; Why Incentives Decide AI Alignment (Conversational)</title>
+<itunes:title>Moonshots #303 — Flying Tesla Roadster, Robot Brains Halving Every 3 Weeks, GPT-6 Astra Physics &amp; Why Incentives Decide AI Alignment (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-303</guid>
+<pubDate>Sat, 17 Oct 2026 21:44:51 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #303, with Peter Diamandis, Salim Ismail, Emad Mostaque and special guest Anousheh Ansari, CEO of XPRIZE (no Dave or Alex this week). Recorded Oct 16, 2026, right after XPRIZE Visioneering.
+
+Tesla's flying Roadster (fan suction that holds it upside down, compressed-air thrusters, 2028 production) and who would ever regulate or insure it; RoboCurve's benchmark showing the cost for a frontier model to run a robot sub-task falling from $2.36 to $0.38 in two months — halving about every three weeks — and Emad's case that general models beat specialist robot models; GPT-6 Astra answering 50 unpublished research physics problems at ~$3 each (and catching a wrong answer key), Salim's 22-step-to-4-step bank workflow pilot, and Anousheh's worry about who will still choose these fields; Peter's incentive history (Longitude Prize, canning, Lindbergh, Hanoi rat tails, Wells Fargo) and XPRIZE's numbers (36 prizes, ~$550M in purses, ~62x economic leverage), the dentist-and-tattoo-artist oil-spill team, Elon's one-text $100M carbon prize, and new prizes (Habitable Worlds, animal communication, organ biostasis); the core debate on which incentives would align superintelligence — the engagement business model and sycophancy, ad slots inside answers (Emad's Bud Light example), insurance-backed certification on the Underwriters Laboratories model, curriculum-first training ("give me the boy until seven"), and the rights-of-children reframe; and a closing conversation on purpose when machines do the doing.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev and Muse are not named in this episode (xAI's Grok model gets one passing mention).
+
+Source: Moonshots with Peter Diamandis, #303 (published Oct 17, 2026).
+
+Listen verdict: SKIM (~1h45m with ads). Priority: alignment incentives 01:05:23–01:24:22 · robot cost curve (RoboCurve) 00:17:27–00:29:26 · GPT-6 Astra physics 00:29:28–00:35:12 · incentive design + XPRIZE 00:36:16–00:47:56. Optional: Tesla flying Roadster 00:07:09–00:17:02; new prizes 00:48:49–00:54:47; carbon prize + wish list 00:58:47–01:05:22; purpose 01:24:23–01:42:10. Skip teaser, ads, cornea anecdote 00:54:55–00:56:56, outro song 01:42:11–end.
+
+Sticky insights:
+- RoboCurve: frontier-model cost per robot sub-task $2.36 → $0.38 in two months (−84%), halving ~every 3 weeks; generalist models win, hardware + data become the bottleneck
+- Misalignment is downstream of incentives: engagement-driven sycophancy, ad slots inside answers (Emad's Bud Light), arms races, win-at-all-costs reward
+- Fixes floated: insurance-backed certification (1894 Underwriters Laboratories), measurable alignment prizes, curriculum-first pre-training ('give me the boy until seven')
+- GPT-6 Astra: 50 unpublished research physics problems at ~$3 each, and caught a wrong answer key
+- XPRIZE: 36 prizes, ~$550M purses, ~$12B raised by teams, ~62× leverage; perverse incentives (Hanoi rat tails, Wells Fargo) show the downside
+- Tesla flying Roadster (production 2028) as a regulation/insurance stress test; Peter predicts a Tesla–SpaceX merger announcement by year-end</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #303, with Peter Diamandis, Salim Ismail, Emad Mostaque and special guest Anousheh Ansari, CEO of XPRIZE (no Dave or Alex this week). Recorded Oct 16, 2026, right after XPRIZE Visioneering.
+
+Tesla's flying Roadster (fan suction that holds it upside down, compressed-air thrusters, 2028 production) and who would ever regulate or insure it; RoboCurve's benchmark showing the cost for a frontier model to run a robot sub-task falling from $2.36 to $0.38 in two months — halving about every three weeks — and Emad's case that general models beat specialist robot models; GPT-6 Astra answering 50 unpublished research physics problems at ~$3 each (and catching a wrong answer key), Salim's 22-step-to-4-step bank workflow pilot, and Anousheh's worry about who will still choose these fields; Peter's incentive history (Longitude Prize, canning, Lindbergh, Hanoi rat tails, Wells Fargo) and XPRIZE's numbers (36 prizes, ~$550M in purses, ~62x economic leverage), the dentist-and-tattoo-artist oil-spill team, Elon's one-text $100M carbon prize, and new prizes (Habitable Worlds, animal communication, organ biostasis); the core debate on which incentives would align superintelligence — the engagement business model and sycophancy, ad slots inside answers (Emad's Bud Light example), insurance-backed certification on the Underwriters Laboratories model, curriculum-first training ("give me the boy until seven"), and the rights-of-children reframe; and a closing conversation on purpose when machines do the doing.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev and Muse are not named in this episode (xAI's Grok model gets one passing mention).
+
+Source: Moonshots with Peter Diamandis, #303 (published Oct 17, 2026).
+
+Listen verdict: SKIM (~1h45m with ads). Priority: alignment incentives 01:05:23–01:24:22 · robot cost curve (RoboCurve) 00:17:27–00:29:26 · GPT-6 Astra physics 00:29:28–00:35:12 · incentive design + XPRIZE 00:36:16–00:47:56. Optional: Tesla flying Roadster 00:07:09–00:17:02; new prizes 00:48:49–00:54:47; carbon prize + wish list 00:58:47–01:05:22; purpose 01:24:23–01:42:10. Skip teaser, ads, cornea anecdote 00:54:55–00:56:56, outro song 01:42:11–end.
+
+Sticky insights:
+- RoboCurve: frontier-model cost per robot sub-task $2.36 → $0.38 in two months (−84%), halving ~every 3 weeks; generalist models win, hardware + data become the bottleneck
+- Misalignment is downstream of incentives: engagement-driven sycophancy, ad slots inside answers (Emad's Bud Light), arms races, win-at-all-costs reward
+- Fixes floated: insurance-backed certification (1894 Underwriters Laboratories), measurable alignment prizes, curriculum-first pre-training ('give me the boy until seven')
+- GPT-6 Astra: 50 unpublished research physics problems at ~$3 each, and caught a wrong answer key
+- XPRIZE: 36 prizes, ~$550M purses, ~$12B raised by teams, ~62× leverage; perverse incentives (Hanoi rat tails, Wells Fargo) show the downside
+- Tesla flying Roadster (production 2028) as a regulation/insurance stress test; Peter predicts a Tesla–SpaceX merger announcement by year-end</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-303.mp3" length="28204076" type="audio/mpeg"/>
+<itunes:duration>29:23</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Harrison Chase (LangChain): Horizontal vs Vertical Agents / Model Routing / Memory (Instinct &amp; Muse) / 30% of Eng Salary on Coding Tools / Tier-1 Discounts (Conversational)</title>
 <itunes:title>20VC — Harrison Chase (LangChain): Horizontal vs Vertical Agents / Model Routing / Memory (Instinct &amp; Muse) / 30% of Eng Salary on Coding Tools / Tier-1 Discounts (Conversational)</itunes:title>
