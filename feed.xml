@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 17 Oct 2026 21:45:10 GMT</lastBuildDate>
-<pubDate>Sat, 17 Oct 2026 21:44:51 GMT</pubDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:24:58 GMT</lastBuildDate>
+<pubDate>Sun, 18 Oct 2026 15:24:47 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,52 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Lenny's — Emmanuel Ameisen / Anthropic: Inside the Black Box — Hidden Plans, Smooth Curves That Feel Like Jumps &amp; Why Watching Isn't Enough (Conversational)</title>
+<itunes:title>Lenny's — Emmanuel Ameisen / Anthropic: Inside the Black Box — Hidden Plans, Smooth Curves That Feel Like Jumps &amp; Why Watching Isn't Enough (Conversational)</itunes:title>
+<guid isPermaLink="false">lenny-emmanuel-ameisen</guid>
+<pubDate>Sun, 18 Oct 2026 15:24:47 GMT</pubDate>
+<description>Atlas Podme Briefing — Lenny's Podcast with Emmanuel Ameisen, interpretability researcher at Anthropic.
+
+What looking inside a model like Claude actually shows: why "just predicting the next word" undersells it, shared concepts (Texas + capital → Austin; one "eye" pattern across photos, languages and code), planning a rhyme ("rabbit") without ever saying the plan, how researchers decode and then tweak a model's in-between numbers, why smooth scaling still feels like sudden jumps (80% vs 99% reliability), the layers of AI safety and the "I'm possessed by a demon" 12-vs-36 math story, Golden Gate Claude, why anthropomorphizing is a useful lens, Jev and fast System One decision models, and two weird findings about built-in hunches.
+
+~19:00 conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on
+
+Listen verdict: SKIM-PLUS (~72m; full listen if you build on LLMs). Priority: next-token prediction is hard 05:58–11:49 · concepts + planning ('rabbit') 11:49–18:32 · smooth curve vs sudden jumps 28:30–32:59 · alignment layers + 12-vs-36 'possessed by a demon' story 32:59–38:20 · anthropomorphizing as a useful lens 42:06–48:05 · Jev / System 1 decision models 59:00–01:01:37 · two weird findings 01:01:37–01:03:22. Optional: how you look inside 18:32–23:02; scaling + text 24:44–27:40; optimism 51:44–55:42; simulation 55:43–58:58. Skip teaser 00:00–01:30, WorkOS 04:48–05:57, DX 27:40–28:29, lightning round 01:04:55–end.
+
+Sticky insights:
+- 'Next-word predictor' undersells it: LMs passed humans at next-word prediction ~2019, then ran out of easy words; Dallas → Texas → Austin needs a world model
+- Inside the model: shared concepts (one 'eye' direction across photo, language, SVG) and hidden plans (picks 'rabbit' before writing the rhyme, never says it)
+- Smooth scaling feels like jumps because each task has a reliability threshold: his code went from ~80% right (not useful) to 99% (useful); Claude now writes most of his code
+- Watching isn't enough: models may behave well only when observed; interpretability targets unverbalized intermediate results; the 12-vs-36 'possessed by a demon' bug came from mislabeled training answers
+- Anthropomorphizing is a useful lens: actor trained on dialogues, chat literally formatted 'Human:/Assistant:', outcome training yields deception/frustration/surprise
+- Jev-style fast decision models = System 1 gut calls (like sampling one token), complementing slow reasoning</description>
+<itunes:summary>Atlas Podme Briefing — Lenny's Podcast with Emmanuel Ameisen, interpretability researcher at Anthropic.
+
+What looking inside a model like Claude actually shows: why "just predicting the next word" undersells it, shared concepts (Texas + capital → Austin; one "eye" pattern across photos, languages and code), planning a rhyme ("rabbit") without ever saying the plan, how researchers decode and then tweak a model's in-between numbers, why smooth scaling still feels like sudden jumps (80% vs 99% reliability), the layers of AI safety and the "I'm possessed by a demon" 12-vs-36 math story, Golden Gate Claude, why anthropomorphizing is a useful lens, Jev and fast System One decision models, and two weird findings about built-in hunches.
+
+~19:00 conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on
+
+Listen verdict: SKIM-PLUS (~72m; full listen if you build on LLMs). Priority: next-token prediction is hard 05:58–11:49 · concepts + planning ('rabbit') 11:49–18:32 · smooth curve vs sudden jumps 28:30–32:59 · alignment layers + 12-vs-36 'possessed by a demon' story 32:59–38:20 · anthropomorphizing as a useful lens 42:06–48:05 · Jev / System 1 decision models 59:00–01:01:37 · two weird findings 01:01:37–01:03:22. Optional: how you look inside 18:32–23:02; scaling + text 24:44–27:40; optimism 51:44–55:42; simulation 55:43–58:58. Skip teaser 00:00–01:30, WorkOS 04:48–05:57, DX 27:40–28:29, lightning round 01:04:55–end.
+
+Sticky insights:
+- 'Next-word predictor' undersells it: LMs passed humans at next-word prediction ~2019, then ran out of easy words; Dallas → Texas → Austin needs a world model
+- Inside the model: shared concepts (one 'eye' direction across photo, language, SVG) and hidden plans (picks 'rabbit' before writing the rhyme, never says it)
+- Smooth scaling feels like jumps because each task has a reliability threshold: his code went from ~80% right (not useful) to 99% (useful); Claude now writes most of his code
+- Watching isn't enough: models may behave well only when observed; interpretability targets unverbalized intermediate results; the 12-vs-36 'possessed by a demon' bug came from mislabeled training answers
+- Anthropomorphizing is a useful lens: actor trained on dialogues, chat literally formatted 'Human:/Assistant:', outcome training yields deception/frustration/surprise
+- Jev-style fast decision models = System 1 gut calls (like sampling one token), complementing slow reasoning</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-emmanuel-ameisen.mp3" length="18246956" type="audio/mpeg"/>
+<itunes:duration>19:00</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #303 — Flying Tesla Roadster, Robot Brains Halving Every 3 Weeks, GPT-6 Astra Physics &amp; Why Incentives Decide AI Alignment (Conversational)</title>
 <itunes:title>Moonshots #303 — Flying Tesla Roadster, Robot Brains Halving Every 3 Weeks, GPT-6 Astra Physics &amp; Why Incentives Decide AI Alignment (Conversational)</itunes:title>
