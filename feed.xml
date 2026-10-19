@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sun, 18 Oct 2026 15:24:58 GMT</lastBuildDate>
-<pubDate>Sun, 18 Oct 2026 15:24:47 GMT</pubDate>
+<lastBuildDate>Mon, 19 Oct 2026 15:41:57 GMT</lastBuildDate>
+<pubDate>Mon, 19 Oct 2026 15:41:43 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — “Claude cuts my TikTok”: Brooke Lacey scaling video with AI (Conversational)</title>
+<itunes:title>How I AI — “Claude cuts my TikTok”: Brooke Lacey scaling video with AI (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-brooke-lacey</guid>
+<pubDate>Mon, 19 Oct 2026 15:41:43 GMT</pubDate>
+<description>Atlas Podme Briefing — How I AI: Claire Vo with Brooke Lacey (TikTok ~290k; Zosha AI-learning app) on the Claude Code + FFmpeg + Whisper workflow that cuts a phone take into a captioned vertical TikTok in about 15 seconds — on her Mac, no CapCut timeline.
+
+What she was solving (jump-cut comedy editors never got); the first outdoor long-take session and AirDrop to a new Mac; live edit chain (silence + Whisper word edges, face track, wide/mid/close, TSV “edit is text,” simulator screenshots, word captions, multi-aspect from one take); teaching Claude her cadence from a Drive corpus + TikTok comments; hook training on “scared for people”; once-a-week posting, live-stream and TikTok-ad plans; Gen X / Y2K lightning; Lane OS recovery when Claude disappoints.
+
+Conversational Andrew and Ava (tone v2). Instinct and Town not named; one ASR-muddy P-stack aside only.
+
+Source: How I AI (published Oct 19, 2026).
+
+Listen verdict: LISTEN (~34 min ex-ads) if you cut short-form or run local Claude Code agents: first-session 06:20–08:42 · live edit chain 09:08–15:11 · corpus/comments/cadence 15:58–23:27 · Lane OS 32:39–34:39; SKIM Gen X/Y2K; skip ads 01:39–02:30 and 15:11–15:58</description>
+<itunes:summary>Atlas Podme Briefing — How I AI: Claire Vo with Brooke Lacey (TikTok ~290k; Zosha AI-learning app) on the Claude Code + FFmpeg + Whisper workflow that cuts a phone take into a captioned vertical TikTok in about 15 seconds — on her Mac, no CapCut timeline.
+
+What she was solving (jump-cut comedy editors never got); the first outdoor long-take session and AirDrop to a new Mac; live edit chain (silence + Whisper word edges, face track, wide/mid/close, TSV “edit is text,” simulator screenshots, word captions, multi-aspect from one take); teaching Claude her cadence from a Drive corpus + TikTok comments; hook training on “scared for people”; once-a-week posting, live-stream and TikTok-ad plans; Gen X / Y2K lightning; Lane OS recovery when Claude disappoints.
+
+Conversational Andrew and Ava (tone v2). Instinct and Town not named; one ASR-muddy P-stack aside only.
+
+Source: How I AI (published Oct 19, 2026).
+
+Listen verdict: LISTEN (~34 min ex-ads) if you cut short-form or run local Claude Code agents: first-session 06:20–08:42 · live edit chain 09:08–15:11 · corpus/comments/cadence 15:58–23:27 · Lane OS 32:39–34:39; SKIM Gen X/Y2K; skip ads 01:39–02:30 and 15:11–15:58</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-brooke-lacey.mp3" length="8755628" type="audio/mpeg"/>
+<itunes:duration>9:07</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Lenny's — Emmanuel Ameisen / Anthropic: Inside the Black Box — Hidden Plans, Smooth Curves That Feel Like Jumps &amp; Why Watching Isn't Enough (Conversational)</title>
 <itunes:title>Lenny's — Emmanuel Ameisen / Anthropic: Inside the Black Box — Hidden Plans, Smooth Curves That Feel Like Jumps &amp; Why Watching Isn't Enough (Conversational)</itunes:title>
