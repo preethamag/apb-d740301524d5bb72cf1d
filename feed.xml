@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 19 Oct 2026 15:41:57 GMT</lastBuildDate>
-<pubDate>Mon, 19 Oct 2026 15:41:43 GMT</pubDate>
+<lastBuildDate>Mon, 19 Oct 2026 21:04:54 GMT</lastBuildDate>
+<pubDate>Mon, 19 Oct 2026 21:04:48 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,32 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Sameer Dholakia (Bessemer): You Need $1BN To Do Seed, the AI supercycle and who wins in venture (Conversational)</title>
+<itunes:title>20VC — Sameer Dholakia (Bessemer): You Need $1BN To Do Seed, the AI supercycle and who wins in venture (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-sameer-dholakia</guid>
+<pubDate>Mon, 19 Oct 2026 21:04:48 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC: Harry Stebbings with Sameer Dholakia (Partner, Bessemer Venture Partners; ex-CEO of SendGrid) on "You Need $1BN To Do Seed Today" and the AI supercycle.
+
+Why Sameer calls this cycle bigger than the internet and cloud combined; how Bessemer underwrote Anthropic's Series D as a cloud-style bet (the lowest-voted deal Byron Deeter had seen there); why open and closed models both win; pricing on next-twelve-months revenue instead of trailing multiples (Abridge, Legora); why today's margins and the old triple-triple-double-double growth rule matter less; capital as a moat; whether you really need about $1B to do seed; platform-or-specialist venture firms; Venky Ganesan's "option bets"; the early-vs-late growth fight; IPOs and liquidity; the Fireworks bull case and Harry's 20x call; and quick-fire on Byron, David Cowan, Stripe and Waymo.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town and Grok Bot not named.
+
+Source: 20VC (published Oct 19, 2026).</description>
+<itunes:summary>Atlas Podme Briefing — 20VC: Harry Stebbings with Sameer Dholakia (Partner, Bessemer Venture Partners; ex-CEO of SendGrid) on "You Need $1BN To Do Seed Today" and the AI supercycle.
+
+Why Sameer calls this cycle bigger than the internet and cloud combined; how Bessemer underwrote Anthropic's Series D as a cloud-style bet (the lowest-voted deal Byron Deeter had seen there); why open and closed models both win; pricing on next-twelve-months revenue instead of trailing multiples (Abridge, Legora); why today's margins and the old triple-triple-double-double growth rule matter less; capital as a moat; whether you really need about $1B to do seed; platform-or-specialist venture firms; Venky Ganesan's "option bets"; the early-vs-late growth fight; IPOs and liquidity; the Fireworks bull case and Harry's 20x call; and quick-fire on Byron, David Cowan, Stripe and Waymo.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town and Grok Bot not named.
+
+Source: 20VC (published Oct 19, 2026).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-sameer-dholakia.mp3" length="17712044" type="audio/mpeg"/>
+<itunes:duration>18:27</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — “Claude cuts my TikTok”: Brooke Lacey scaling video with AI (Conversational)</title>
 <itunes:title>How I AI — “Claude cuts my TikTok”: Brooke Lacey scaling video with AI (Conversational)</itunes:title>
