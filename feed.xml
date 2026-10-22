@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 22 Oct 2026 02:55:27 GMT</lastBuildDate>
-<pubDate>Thu, 22 Oct 2026 00:44:53 GMT</pubDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:15:07 GMT</lastBuildDate>
+<pubDate>Thu, 22 Oct 2026 18:15:05 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.79 — Trillion or Bust / CoreWeave Sell-Off / Anthropic $1.5T / Modal $15.75B / Town $1B, Anduril $90B (Conversational)</title>
+<itunes:title>20VC Trio EP.79 — Trillion or Bust / CoreWeave Sell-Off / Anthropic $1.5T / Modal $15.75B / Town $1B, Anduril $90B (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-79</guid>
+<pubDate>Thu, 22 Oct 2026 18:15:05 GMT</pubDate>
+<description>Andrew and Ava brief 20VC Trio EP.79 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): why mega-funds only want billion-dollar positions and leave fast-growing profitable startups unfunded; CoreWeave's sell-off as the levered edge of the AI trade; Anthropic's $16.8B quarter and a rumored $1.5T IPO; Replit's model-routing switch; 'build to prod' as software's most important category; Modal's $750M at $15.75B as inference explodes; a mock investment committee on Town at $1B (Jason passes) and Anduril at ~40x revenue; Bending Spoons as software's Berkshire; 37signals vs one-and-done venture; General Atlantic's IPO; and Elon's Roadster and SpaceX-share giveaway. Listen from about 36:00 for ~6 minutes for Town.
+
+Listen verdict: LISTEN to 35:50–42:15 (Town mock IC + Anduril/revenue multiples) — the only Town segment. Else SKIM: billion-dollar positions 04:25–13:20 · CoreWeave 13:20–18:50 · Anthropic 18:50–23:19 · Replit routing 23:19–26:36 · code review/build to prod 26:36–32:06 · Modal 32:06–35:50 · Bending Spoons 42:15–45:05 · 37signals 45:05–49:08 · GA IPO + Harvard 49:08–54:21 · Elon 54:21–57:30. Skip ads 01:18–04:22 and after 57:30.</description>
+<itunes:summary>Andrew and Ava brief 20VC Trio EP.79 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): why mega-funds only want billion-dollar positions and leave fast-growing profitable startups unfunded; CoreWeave's sell-off as the levered edge of the AI trade; Anthropic's $16.8B quarter and a rumored $1.5T IPO; Replit's model-routing switch; 'build to prod' as software's most important category; Modal's $750M at $15.75B as inference explodes; a mock investment committee on Town at $1B (Jason passes) and Anduril at ~40x revenue; Bending Spoons as software's Berkshire; 37signals vs one-and-done venture; General Atlantic's IPO; and Elon's Roadster and SpaceX-share giveaway. Listen from about 36:00 for ~6 minutes for Town.
+
+Listen verdict: LISTEN to 35:50–42:15 (Town mock IC + Anduril/revenue multiples) — the only Town segment. Else SKIM: billion-dollar positions 04:25–13:20 · CoreWeave 13:20–18:50 · Anthropic 18:50–23:19 · Replit routing 23:19–26:36 · code review/build to prod 26:36–32:06 · Modal 32:06–35:50 · Bending Spoons 42:15–45:05 · 37signals 45:05–49:08 · GA IPO + Harvard 49:08–54:21 · Elon 54:21–57:30. Skip ads 01:18–04:22 and after 57:30.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-79.mp3" length="17962028" type="audio/mpeg"/>
+<itunes:duration>18:43</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — “Claude Duet is beautiful. I still forgot to use it”: Claire Vo reviews Anthropic’s personal agent (Conversational)</title>
 <itunes:title>How I AI — “Claude Duet is beautiful. I still forgot to use it”: Claire Vo reviews Anthropic’s personal agent (Conversational)</itunes:title>
