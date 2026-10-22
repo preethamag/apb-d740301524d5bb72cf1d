@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 22 Oct 2026 00:30:18 GMT</lastBuildDate>
-<pubDate>Thu, 22 Oct 2026 00:30:08 GMT</pubDate>
+<lastBuildDate>Thu, 22 Oct 2026 02:55:27 GMT</lastBuildDate>
+<pubDate>Thu, 22 Oct 2026 00:44:53 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,28 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — “Claude Duet is beautiful. I still forgot to use it”: Claire Vo reviews Anthropic’s personal agent (Conversational)</title>
+<itunes:title>How I AI — “Claude Duet is beautiful. I still forgot to use it”: Claire Vo reviews Anthropic’s personal agent (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-claude-duet</guid>
+<pubDate>Thu, 22 Oct 2026 00:44:53 GMT</pubDate>
+<description>Claire Vo’s solo How I AI review of Claude Duet, Anthropic’s new phone personal agent, as an Andrew and Ava conversation (about 6½ min, from a 16-minute episode). It’s the most polished agent launch she’s seen: careful onboarding, task lists, first-class artifacts, Slack-style channels. She still forgot to use it. It never nudged her, it’s slow, it has no desktop app, it can’t use her local skills, and it’s single-player. Includes her four Grok Bot comparisons: the icon, re-engagement, desktop presence, and team agents in Slack. Plus which minutes are worth hearing in full.
+
+Source: How I AI, “Claude Duet is beautiful. I still forgot to use it” (Claire Vo, Oct 21, 2026).
+
+Listen verdict: OPTIONAL LISTEN (~16 min, no ads; brief covers it closely). If you build personal agents: 05:27–12:09 (proactivity, Grok Bot/Muse re-engagement line, latency + colleague analogy, desktop presence) · 13:10–15:05 (local-skills gap, multiplayer + Grok Bot team agents in Slack). Skim design tour 00:40–05:27. Skip outro 15:51–16:21.</description>
+<itunes:summary>Claire Vo’s solo How I AI review of Claude Duet, Anthropic’s new phone personal agent, as an Andrew and Ava conversation (about 6½ min, from a 16-minute episode). It’s the most polished agent launch she’s seen: careful onboarding, task lists, first-class artifacts, Slack-style channels. She still forgot to use it. It never nudged her, it’s slow, it has no desktop app, it can’t use her local skills, and it’s single-player. Includes her four Grok Bot comparisons: the icon, re-engagement, desktop presence, and team agents in Slack. Plus which minutes are worth hearing in full.
+
+Source: How I AI, “Claude Duet is beautiful. I still forgot to use it” (Claire Vo, Oct 21, 2026).
+
+Listen verdict: OPTIONAL LISTEN (~16 min, no ads; brief covers it closely). If you build personal agents: 05:27–12:09 (proactivity, Grok Bot/Muse re-engagement line, latency + colleague analogy, desktop presence) · 13:10–15:05 (local-skills gap, multiplayer + Grok Bot team agents in Slack). Skim design tour 00:40–05:27. Skip outro 15:51–16:21.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-claude-duet.mp3" length="6285356" type="audio/mpeg"/>
+<itunes:duration>6:33</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #304 — Chamath: AGI Is Here but Can’t Diffuse, Anthropic’s $100B Fund, Elon’s SpaceX Shares for 72M Kids &amp; Why Power Is the Real Currency (Conversational)</title>
 <itunes:title>Moonshots #304 — Chamath: AGI Is Here but Can’t Diffuse, Anthropic’s $100B Fund, Elon’s SpaceX Shares for 72M Kids &amp; Why Power Is the Real Currency (Conversational)</itunes:title>
