@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 21 Oct 2026 03:15:17 GMT</lastBuildDate>
-<pubDate>Tue, 20 Oct 2026 21:10:04 GMT</pubDate>
+<lastBuildDate>Thu, 22 Oct 2026 00:30:18 GMT</lastBuildDate>
+<pubDate>Thu, 22 Oct 2026 00:30:08 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,50 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #304 — Chamath: AGI Is Here but Can’t Diffuse, Anthropic’s $100B Fund, Elon’s SpaceX Shares for 72M Kids &amp; Why Power Is the Real Currency (Conversational)</title>
+<itunes:title>Moonshots #304 — Chamath: AGI Is Here but Can’t Diffuse, Anthropic’s $100B Fund, Elon’s SpaceX Shares for 72M Kids &amp; Why Power Is the Real Currency (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-304</guid>
+<pubDate>Thu, 22 Oct 2026 00:30:08 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #304, an All-In crossover: Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross with guest Chamath Palihapitiya. Recorded Oct 20, 2026.
+
+Anthropic's Public Benefit Fund (5% of shares now, +2% for every 50% rise in value; roughly $75–100B) and whether it's sincere, a goodwill play, or what Alex calls a "hyper-tithe" and a snub to universal basic equity — plus Chamath on why the Giving Pledge is "reputation washing" and his idea to tax capital instead of labor; Elon's pledge of one SpaceX share to every US kid (~$10.5B, $146 each) and the Tesla–SpaceX merger committees; Elon's "money becomes irrelevant" and watts as currency; Chamath's power thesis — the US still 1.4 terawatt-hours short by 2050, "the problem with SMRs is the S", solar first, a power co-op that works "like an organized mafia", a coming compute shortage, and "we have achieved AGI. It cannot diffuse", backed by Anthropic's S-1 listing compute access as a risk; "get long electrons"; Alex's pushback on demand and distillation; inspectable founding documents vs competition and human–machine merging as the path to safe AI; the $40T debt, retatrutide and sycophancy; Europe as vassal states; the OpenAI spy case; and Chamath's hot seat on crypto, IPO-ing Harvard, free-cash-flow investing, why he won't back chip startups after Groq, and "I'm the least invested I've ever been."
+
+Conversational Andrew and Ava (tone v2). What sounded like Grok Bot gets one passing on-air mention from Chamath (alongside Muse) as an example of AI products limited by power; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #304 (published Oct 21, 2026).
+
+Listen verdict: SKIM (~2h01m with ads). LISTEN FULLY: Chamath power thesis + 'AGI can't diffuse' 00:40:42–00:57:26 · Chamath hot seat 01:47:08–01:59:21. Skim: Anthropic fund 00:05:10–00:22:02; SpaceX share per kid + watts as currency 00:22:32–00:40:42; Isaacson clips on control/debt + Europe 00:58:33–01:25:11; spy case 01:38:43–01:47:08. Optional: Idealab.ai 01:25:11–01:36:52. Skip intros 00:01:15–00:05:10, ads, outro song 01:59:21–end.
+
+Sticky insights:
+- Chamath: 'we have achieved AGI. It cannot diffuse' — power, permits, electricians and grid politics are the bottleneck; Anthropic's S-1 lists hyperscalers not giving it compute as a risk; compute shortage in 3–4 years
+- Power is the trade: US still 1.4 TWh short by 2050; 'the problem with SMRs is the S'; solar first (2 years); 'get long electrons'
+- Anthropic fund (5% now, +2% per 50% value rise; ~20% of company to public good) — sincere per Chamath, a 'hyper-tithe' and snub to universal basic equity per Alex; Elon's SpaceX share per US kid ≈ $10.5B
+- Chamath: least invested in 15 years and 'most confused'; owns FCF yield, power, alternative capital; no chip startups; crypto 'capped', eventually hacked
+- Alignment camps: inspectable founding documents (Chamath), inspection/containment (Dave), competition + human–machine merging (Alex)</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #304, an All-In crossover: Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross with guest Chamath Palihapitiya. Recorded Oct 20, 2026.
+
+Anthropic's Public Benefit Fund (5% of shares now, +2% for every 50% rise in value; roughly $75–100B) and whether it's sincere, a goodwill play, or what Alex calls a "hyper-tithe" and a snub to universal basic equity — plus Chamath on why the Giving Pledge is "reputation washing" and his idea to tax capital instead of labor; Elon's pledge of one SpaceX share to every US kid (~$10.5B, $146 each) and the Tesla–SpaceX merger committees; Elon's "money becomes irrelevant" and watts as currency; Chamath's power thesis — the US still 1.4 terawatt-hours short by 2050, "the problem with SMRs is the S", solar first, a power co-op that works "like an organized mafia", a coming compute shortage, and "we have achieved AGI. It cannot diffuse", backed by Anthropic's S-1 listing compute access as a risk; "get long electrons"; Alex's pushback on demand and distillation; inspectable founding documents vs competition and human–machine merging as the path to safe AI; the $40T debt, retatrutide and sycophancy; Europe as vassal states; the OpenAI spy case; and Chamath's hot seat on crypto, IPO-ing Harvard, free-cash-flow investing, why he won't back chip startups after Groq, and "I'm the least invested I've ever been."
+
+Conversational Andrew and Ava (tone v2). What sounded like Grok Bot gets one passing on-air mention from Chamath (alongside Muse) as an example of AI products limited by power; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #304 (published Oct 21, 2026).
+
+Listen verdict: SKIM (~2h01m with ads). LISTEN FULLY: Chamath power thesis + 'AGI can't diffuse' 00:40:42–00:57:26 · Chamath hot seat 01:47:08–01:59:21. Skim: Anthropic fund 00:05:10–00:22:02; SpaceX share per kid + watts as currency 00:22:32–00:40:42; Isaacson clips on control/debt + Europe 00:58:33–01:25:11; spy case 01:38:43–01:47:08. Optional: Idealab.ai 01:25:11–01:36:52. Skip intros 00:01:15–00:05:10, ads, outro song 01:59:21–end.
+
+Sticky insights:
+- Chamath: 'we have achieved AGI. It cannot diffuse' — power, permits, electricians and grid politics are the bottleneck; Anthropic's S-1 lists hyperscalers not giving it compute as a risk; compute shortage in 3–4 years
+- Power is the trade: US still 1.4 TWh short by 2050; 'the problem with SMRs is the S'; solar first (2 years); 'get long electrons'
+- Anthropic fund (5% now, +2% per 50% value rise; ~20% of company to public good) — sincere per Chamath, a 'hyper-tithe' and snub to universal basic equity per Alex; Elon's SpaceX share per US kid ≈ $10.5B
+- Chamath: least invested in 15 years and 'most confused'; owns FCF yield, power, alternative capital; no chip startups; crypto 'capped', eventually hacked
+- Alignment camps: inspectable founding documents (Chamath), inspection/containment (Dave), competition + human–machine merging (Alex)</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-304.mp3" length="32949548" type="audio/mpeg"/>
+<itunes:duration>34:19</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Google CEO Sundar Pichai: AI’s Infinite Possibilities, Compute Scarcity Dilemmas, Future AI Products (Conversational)</title>
 <itunes:title>Big Technology — Google CEO Sundar Pichai: AI’s Infinite Possibilities, Compute Scarcity Dilemmas, Future AI Products (Conversational)</itunes:title>
