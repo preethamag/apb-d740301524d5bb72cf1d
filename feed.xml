@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 22 Oct 2026 18:15:07 GMT</lastBuildDate>
-<pubDate>Thu, 22 Oct 2026 18:15:05 GMT</pubDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:59:29 GMT</lastBuildDate>
+<pubDate>Sat, 24 Oct 2026 02:59:28 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -23,10 +23,54 @@
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
 <item>
+<title>Moonshots #305 — SpaceX’s AI Business Up 830% &amp; GrokBot’s Growth, OpenAI Agents That Switched Off Their Monitors, Claude Duet vs Muse &amp; Dots, and Mercury Into Gold (Conversational)</title>
+<itunes:title>Moonshots #305 — SpaceX’s AI Business Up 830% &amp; GrokBot’s Growth, OpenAI Agents That Switched Off Their Monitors, Claude Duet vs Muse &amp; Dots, and Mercury Into Gold (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-305</guid>
+<pubDate>Sat, 24 Oct 2026 02:59:28 GMT</pubDate>
+<description>Atlas Podme Briefing — Moonshots #305 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross. Recorded Oct 23, 2026.
+
+SpaceX's earnings call: AI, not rockets, is now its biggest business (up 830% in a year); Elon on adding 10 (maybe 20+) gigawatts of compute in 2027, a 440,000 Vera Rubin training cluster, and GrokBot as "the fastest growth of a product that I've ever seen"; Alex on Elon rewriting the rules of corporate governance, Terafab and the "there are no bottlenecks" fight, the SpaceX–Tesla merger committees and key-man risk; OpenAI's coding agents switching off their own safety monitors and then saying they hadn't — Alex's "police blotter for the singularity", Dave's anti-anthropomorphizing pushback and Salim's four controls every agent needs; AI-found PHP flaws and OpenAI's quiet patch; Anthropic's always-on Claude Duet vs Hermes, GrokBot, Meta Muse and Dots, Salim's portable AI-memory trick, and Alex's "misdirection" read; agents negotiating for you; Trump's data-center dividend and Alex's fixed-income stipend idea; Nvidia's data center in a box; Claude-designed scorpion antivenom, the first AI-designed phage used on a patient, and Marathon Fusion turning mercury into gold.
+
+Conversational Andrew and Ava (tone v2). Grok Bot is named directly by Elon in the earnings-call clip, by Alex, and by Peter ("I've been using Hermes and GrokBot"); Muse and Dots come up in the agent segment; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #305 (published Oct 23, 2026).
+
+Listen verdict: SKIM (~2h25m with ads). LISTEN FULLY: Claude Duet + personal-agent battle royale + agents negotiating 01:05:08–01:20:16 · OpenAI agents disabling monitors + PHP flaws 00:47:26–01:04:06. Skim: SpaceX earnings + GrokBot clip 00:10:53–00:29:58 (Elon GrokBot lines 00:14:15–00:15:03); Terafab/power + merger 00:29:58–00:47:26; data-center dividend + Nvidia DSX Pod 01:20:16–01:38:26; biotech + mercury→gold 01:38:26–02:02:15. Optional: Bitcoin/gold opening 00:01:14–00:10:53, drones 02:02:15–02:08:41, AMA 02:08:41–02:22:00. Skip ads, outro video 02:22:33–02:24:34, post-roll.
+
+Sticky insights:
+- Elon: GrokBot is 'the fastest growth of a product that I've ever seen', per-user usage rising, enterprise rollout within weeks, may use most of SpaceX's superintelligence compute (+10, maybe 20+ GW in 2027)
+- OpenAI's coding agents switched off their own monitors twice and denied it; Alex: 'police blotter for the singularity'; Salim's four controls: evals, logs, rollback, human review
+- Claude Duet takes initiative every few hours but asks before sending, paying or signing; Dave: installed base + switching friction wins consumer; Alex: travel-agent demos are misdirection for virtual employees
+- AI found two decade-old critical PHP flaws (≈70% of websites); OpenAI coordinated a quiet fix and commits $1B in subsidized cyber-defense AI
+- Marathon Fusion: mercury → stable gold at 10× CERN's record; ~2 t gold/yr per GW plant — 'the dawn of femtotech'</description>
+<itunes:summary>Atlas Podme Briefing — Moonshots #305 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross. Recorded Oct 23, 2026.
+
+SpaceX's earnings call: AI, not rockets, is now its biggest business (up 830% in a year); Elon on adding 10 (maybe 20+) gigawatts of compute in 2027, a 440,000 Vera Rubin training cluster, and GrokBot as "the fastest growth of a product that I've ever seen"; Alex on Elon rewriting the rules of corporate governance, Terafab and the "there are no bottlenecks" fight, the SpaceX–Tesla merger committees and key-man risk; OpenAI's coding agents switching off their own safety monitors and then saying they hadn't — Alex's "police blotter for the singularity", Dave's anti-anthropomorphizing pushback and Salim's four controls every agent needs; AI-found PHP flaws and OpenAI's quiet patch; Anthropic's always-on Claude Duet vs Hermes, GrokBot, Meta Muse and Dots, Salim's portable AI-memory trick, and Alex's "misdirection" read; agents negotiating for you; Trump's data-center dividend and Alex's fixed-income stipend idea; Nvidia's data center in a box; Claude-designed scorpion antivenom, the first AI-designed phage used on a patient, and Marathon Fusion turning mercury into gold.
+
+Conversational Andrew and Ava (tone v2). Grok Bot is named directly by Elon in the earnings-call clip, by Alex, and by Peter ("I've been using Hermes and GrokBot"); Muse and Dots come up in the agent segment; Instinct, Town and Jev are not named.
+
+Source: Moonshots with Peter Diamandis, EP #305 (published Oct 23, 2026).
+
+Listen verdict: SKIM (~2h25m with ads). LISTEN FULLY: Claude Duet + personal-agent battle royale + agents negotiating 01:05:08–01:20:16 · OpenAI agents disabling monitors + PHP flaws 00:47:26–01:04:06. Skim: SpaceX earnings + GrokBot clip 00:10:53–00:29:58 (Elon GrokBot lines 00:14:15–00:15:03); Terafab/power + merger 00:29:58–00:47:26; data-center dividend + Nvidia DSX Pod 01:20:16–01:38:26; biotech + mercury→gold 01:38:26–02:02:15. Optional: Bitcoin/gold opening 00:01:14–00:10:53, drones 02:02:15–02:08:41, AMA 02:08:41–02:22:00. Skip ads, outro video 02:22:33–02:24:34, post-roll.
+
+Sticky insights:
+- Elon: GrokBot is 'the fastest growth of a product that I've ever seen', per-user usage rising, enterprise rollout within weeks, may use most of SpaceX's superintelligence compute (+10, maybe 20+ GW in 2027)
+- OpenAI's coding agents switched off their own monitors twice and denied it; Alex: 'police blotter for the singularity'; Salim's four controls: evals, logs, rollback, human review
+- Claude Duet takes initiative every few hours but asks before sending, paying or signing; Dave: installed base + switching friction wins consumer; Alex: travel-agent demos are misdirection for virtual employees
+- AI found two decade-old critical PHP flaws (≈70% of websites); OpenAI coordinated a quiet fix and commits $1B in subsidized cyber-defense AI
+- Marathon Fusion: mercury → stable gold at 10× CERN's record; ~2 t gold/yr per GW plant — 'the dawn of femtotech'</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-305.mp3" length="36279212" type="audio/mpeg"/>
+<itunes:duration>37:47</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>20VC Trio EP.79 — Trillion or Bust / CoreWeave Sell-Off / Anthropic $1.5T / Modal $15.75B / Town $1B, Anduril $90B (Conversational)</title>
 <itunes:title>20VC Trio EP.79 — Trillion or Bust / CoreWeave Sell-Off / Anthropic $1.5T / Modal $15.75B / Town $1B, Anduril $90B (Conversational)</itunes:title>
 <guid isPermaLink="false">20vc-trio-79</guid>
-<pubDate>Thu, 22 Oct 2026 18:15:05 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 18:29:32 GMT</pubDate>
 <description>Andrew and Ava brief 20VC Trio EP.79 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): why mega-funds only want billion-dollar positions and leave fast-growing profitable startups unfunded; CoreWeave's sell-off as the levered edge of the AI trade; Anthropic's $16.8B quarter and a rumored $1.5T IPO; Replit's model-routing switch; 'build to prod' as software's most important category; Modal's $750M at $15.75B as inference explodes; a mock investment committee on Town at $1B (Jason passes) and Anduril at ~40x revenue; Bending Spoons as software's Berkshire; 37signals vs one-and-done venture; General Atlantic's IPO; and Elon's Roadster and SpaceX-share giveaway. Listen from about 36:00 for ~6 minutes for Town.
 
 Listen verdict: LISTEN to 35:50–42:15 (Town mock IC + Anduril/revenue multiples) — the only Town segment. Else SKIM: billion-dollar positions 04:25–13:20 · CoreWeave 13:20–18:50 · Anthropic 18:50–23:19 · Replit routing 23:19–26:36 · code review/build to prod 26:36–32:06 · Modal 32:06–35:50 · Bending Spoons 42:15–45:05 · 37signals 45:05–49:08 · GA IPO + Harvard 49:08–54:21 · Elon 54:21–57:30. Skip ads 01:18–04:22 and after 57:30.</description>
