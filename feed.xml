@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 24 Oct 2026 02:59:29 GMT</lastBuildDate>
-<pubDate>Sat, 24 Oct 2026 02:59:28 GMT</pubDate>
+<lastBuildDate>Sat, 24 Oct 2026 03:05:27 GMT</lastBuildDate>
+<pubDate>Sat, 24 Oct 2026 03:05:27 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,50 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Google’s Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity’s “Black October” (Conversational)</title>
+<itunes:title>Big Technology — Google’s Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity’s “Black October” (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-black-october</guid>
+<pubDate>Sat, 24 Oct 2026 03:05:27 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast (Friday edition) with Alex Kantrowitz and Ranjan Roy, plus Cognition CISO Alex Stamos. Published Oct 23, 2026.
+
+Is Sundar Pichai team product or team model? Google's plan for one unified agent across Workspace, Search and Gemini ("going headless"), who would own it, and the compute tug-of-war between Google Cloud and AI research — Sundar's "everybody is short compute" and "some constraints are good," and Google Cloud's 82% growth putting Azure in range; Ranjan vs Alex on whether personal agents win on product or on model, with Instinct, Muse and Dots in the mix; is the AI money spigot shutting — Meta's fundraising warning, the Wall Street Journal's math on what Muse would need to earn, and OpenAI's valuation "thud"; then Alex Stamos on the AI-found PHP bug, who's exploiting it, what the next six months look like, how to protect yourself, why it's "Black October" for cybersecurity, and his blunt take on handing agents your passwords.
+
+Conversational Andrew and Ava (tone v2). Instinct is named five times, in four spots — praised by Ranjan for its little emoji acknowledgment, and criticized by Stamos for its valuation and for defeating banks' bot detection; Muse and Dots also come up; Grok Bot, Town and Jev are not named.
+
+Source: Big Technology Podcast, "Google's Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity's "Black October"" (published Oct 23, 2026).
+
+Listen verdict: LISTEN to the Stamos half 35:26–1:04:26 (esp. Instinct / agents with your passwords / bank bot detection 58:06–1:00:16) and the product-vs-model argument 17:04–20:40 (Instinct, Muse, Dots). SKIM: money spigot 23:20–33:15; Google team model / unified agent / compute allocation 02:09–17:04. Optional: Google-potential list 20:40–23:20. Skip teaser + ads 00:00–01:25, mid-roll 34:22–35:26.
+
+Sticky insights:
+- Stamos: Instinct has 'a ridiculous valuation, from my perspective'; one thing that made it popular is defeating banks' automated bot detection ('that's why Instinct is useful... bypass the safety protections'); handing an agent your whole password manager is 'totally insane'
+- Ranjan vs Alex: personal agents win on product touches (Instinct's emoji acknowledgment) vs on the smartest model with 'the EQ to know when it should interrupt you'
+- Money tightening: Meta's filing warns of a crowded fundraising market; WSJ: 100M Muse users at $20/mo = ~$24B/yr (~12% of Meta's next-year capex); OpenAI target cut to $1.25T from $1.4T — 'a bit of a thud'
+- Sundar: 'everybody is short compute'; Cloud is 'forgoing short-term revenues' for frontier AI; Google Cloud +82% YoY to $24.8B vs Azure ~$29B (+42%)
+- Black October: AI-found pre-auth RCE in PHP (up to 70% of sites), patched only for PHP 8; Cloudflare saw attempts go from thousands to millions; Node.js, a certificate authority, Railway and Fireworks also hit</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast (Friday edition) with Alex Kantrowitz and Ranjan Roy, plus Cognition CISO Alex Stamos. Published Oct 23, 2026.
+
+Is Sundar Pichai team product or team model? Google's plan for one unified agent across Workspace, Search and Gemini ("going headless"), who would own it, and the compute tug-of-war between Google Cloud and AI research — Sundar's "everybody is short compute" and "some constraints are good," and Google Cloud's 82% growth putting Azure in range; Ranjan vs Alex on whether personal agents win on product or on model, with Instinct, Muse and Dots in the mix; is the AI money spigot shutting — Meta's fundraising warning, the Wall Street Journal's math on what Muse would need to earn, and OpenAI's valuation "thud"; then Alex Stamos on the AI-found PHP bug, who's exploiting it, what the next six months look like, how to protect yourself, why it's "Black October" for cybersecurity, and his blunt take on handing agents your passwords.
+
+Conversational Andrew and Ava (tone v2). Instinct is named five times, in four spots — praised by Ranjan for its little emoji acknowledgment, and criticized by Stamos for its valuation and for defeating banks' bot detection; Muse and Dots also come up; Grok Bot, Town and Jev are not named.
+
+Source: Big Technology Podcast, "Google's Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity's "Black October"" (published Oct 23, 2026).
+
+Listen verdict: LISTEN to the Stamos half 35:26–1:04:26 (esp. Instinct / agents with your passwords / bank bot detection 58:06–1:00:16) and the product-vs-model argument 17:04–20:40 (Instinct, Muse, Dots). SKIM: money spigot 23:20–33:15; Google team model / unified agent / compute allocation 02:09–17:04. Optional: Google-potential list 20:40–23:20. Skip teaser + ads 00:00–01:25, mid-roll 34:22–35:26.
+
+Sticky insights:
+- Stamos: Instinct has 'a ridiculous valuation, from my perspective'; one thing that made it popular is defeating banks' automated bot detection ('that's why Instinct is useful... bypass the safety protections'); handing an agent your whole password manager is 'totally insane'
+- Ranjan vs Alex: personal agents win on product touches (Instinct's emoji acknowledgment) vs on the smartest model with 'the EQ to know when it should interrupt you'
+- Money tightening: Meta's filing warns of a crowded fundraising market; WSJ: 100M Muse users at $20/mo = ~$24B/yr (~12% of Meta's next-year capex); OpenAI target cut to $1.25T from $1.4T — 'a bit of a thud'
+- Sundar: 'everybody is short compute'; Cloud is 'forgoing short-term revenues' for frontier AI; Google Cloud +82% YoY to $24.8B vs Azure ~$29B (+42%)
+- Black October: AI-found pre-auth RCE in PHP (up to 70% of sites), patched only for PHP 8; Cloudflare saw attempts go from thousands to millions; Node.js, a certificate authority, Railway and Fireworks also hit</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-black-october.mp3" length="18449324" type="audio/mpeg"/>
+<itunes:duration>19:13</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #305 — SpaceX’s AI Business Up 830% &amp; GrokBot’s Growth, OpenAI Agents That Switched Off Their Monitors, Claude Duet vs Muse &amp; Dots, and Mercury Into Gold (Conversational)</title>
 <itunes:title>Moonshots #305 — SpaceX’s AI Business Up 830% &amp; GrokBot’s Growth, OpenAI Agents That Switched Off Their Monitors, Claude Duet vs Muse &amp; Dots, and Mercury Into Gold (Conversational)</itunes:title>
