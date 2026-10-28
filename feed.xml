@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 24 Oct 2026 03:05:27 GMT</lastBuildDate>
-<pubDate>Sat, 24 Oct 2026 03:05:27 GMT</pubDate>
+<lastBuildDate>Wed, 28 Oct 2026 15:52:48 GMT</lastBuildDate>
+<pubDate>Wed, 28 Oct 2026 15:28:36 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,286 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Ethan Mollick: Single-Player AI in a Multiplayer Company — the ROI Fight, the Overhang, Claw-Likes &amp; Your Privacy (Conversational)</title>
+<itunes:title>Big Technology — Ethan Mollick: Single-Player AI in a Multiplayer Company — the ROI Fight, the Overhang, Claw-Likes &amp; Your Privacy (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-ethan-mollick</guid>
+<pubDate>Wed, 28 Oct 2026 15:28:36 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Ethan Mollick, Wharton professor and author of Coexistence: The Next Phase of AI.
+
+Why AI's big individual gains haven't shown up in productivity stats yet: AI is "single player" while companies are multiplayer. Alex pushes on ROI and token spending; Ethan answers with the Wharton survey (85% of $1B+ companies report positive ROI), why the "95% of pilots fail" study is famously bad, and what real reorganization looks like (a $200M mainframe migration heading toward $2M). Also: the capability overhang, "claw-like" personal agents such as Muse and Dot, why the labs aren't surprised by progress, reasoning and harnesses, the privacy price of personal agents and prompt injection by email, model personalities, AI tutors vs shortcuts, jobs, and two tweets on agent-driven "legal DDoS" of customer service and the cost of locking in today's AI.
+
+Conversational Andrew and Ava. Skip the ad breaks at the start and around 50:30.
+
+Source: Big Technology Podcast, "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick" (Oct 28, 2026)
+
+Listen verdict: LISTEN if you have the hour — a spirited, well-argued pushback conversation. Otherwise hear: productivity/ROI debate + org change 01:18–18:51 · 'real economy' (Frito-Lay, Walmart) 18:51–24:12 · personal agents + privacy/prompt injection 42:04–45:25 · token prices + the two tweets 1:02:35–1:06:35. Optional: overhang/claw-likes 24:12–29:08; labs vs forecasters + the wall 32:20–37:56; reasoning + harness 37:56–42:04; education 52:53–57:00. Skip ads 00:00–01:18 and 50:28–52:53.
+
+Sticky insights:
+- AI is 'single player'; companies are multiplayer — individual 100x gains (e.g. ~20x more code) yield ~30% more products shipped until the org is rebuilt
+- ROI is not the question anymore (85% of $1B+ firms positive, Wharton, last November); transformation is — and the loudest spend-cutters (Microsoft, Meta, Palantir on Claude) sell competing AI
+- Pull teams apart and give them 'impossible projects': a $200M mainframe migration → $20M → CTO eyeing $2M in months
+- The overhang: today's models are barely used; locking in a 'good enough' stack (2024 RAG on Llama) is the expensive mistake — exploit and explore
+- Personal agents are 'a guardian angel at the small price of your entire privacy'; prompt injection via inbound email: 'we have no idea'</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Ethan Mollick, Wharton professor and author of Coexistence: The Next Phase of AI.
+
+Why AI's big individual gains haven't shown up in productivity stats yet: AI is "single player" while companies are multiplayer. Alex pushes on ROI and token spending; Ethan answers with the Wharton survey (85% of $1B+ companies report positive ROI), why the "95% of pilots fail" study is famously bad, and what real reorganization looks like (a $200M mainframe migration heading toward $2M). Also: the capability overhang, "claw-like" personal agents such as Muse and Dot, why the labs aren't surprised by progress, reasoning and harnesses, the privacy price of personal agents and prompt injection by email, model personalities, AI tutors vs shortcuts, jobs, and two tweets on agent-driven "legal DDoS" of customer service and the cost of locking in today's AI.
+
+Conversational Andrew and Ava. Skip the ad breaks at the start and around 50:30.
+
+Source: Big Technology Podcast, "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick" (Oct 28, 2026)
+
+Listen verdict: LISTEN if you have the hour — a spirited, well-argued pushback conversation. Otherwise hear: productivity/ROI debate + org change 01:18–18:51 · 'real economy' (Frito-Lay, Walmart) 18:51–24:12 · personal agents + privacy/prompt injection 42:04–45:25 · token prices + the two tweets 1:02:35–1:06:35. Optional: overhang/claw-likes 24:12–29:08; labs vs forecasters + the wall 32:20–37:56; reasoning + harness 37:56–42:04; education 52:53–57:00. Skip ads 00:00–01:18 and 50:28–52:53.
+
+Sticky insights:
+- AI is 'single player'; companies are multiplayer — individual 100x gains (e.g. ~20x more code) yield ~30% more products shipped until the org is rebuilt
+- ROI is not the question anymore (85% of $1B+ firms positive, Wharton, last November); transformation is — and the loudest spend-cutters (Microsoft, Meta, Palantir on Claude) sell competing AI
+- Pull teams apart and give them 'impossible projects': a $200M mainframe migration → $20M → CTO eyeing $2M in months
+- The overhang: today's models are barely used; locking in a 'good enough' stack (2024 RAG on Llama) is the expensive mistake — exploit and explore
+- Personal agents are 'a guardian angel at the small price of your entire privacy'; prompt injection via inbound email: 'we have no idea'</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ethan-mollick.mp3" length="17327276" type="audio/mpeg"/>
+<itunes:duration>18:03</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</title>
+<itunes:title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-assistant-showdown</guid>
+<pubDate>Wed, 28 Oct 2026 15:28:36 GMT</pubDate>
+<description>Atlas Podme Briefing — How I AI with Claire Vo: the first How I AI personal-agent benchmark.
+
+Grok Bot, Dot, Muse and Claude Duet across nine real tasks: a Slack reply, a short-form video from raw Dropbox footage, a Sentry bug fix, a Figma thumbnail, inbox triage, a family newspaper, physics homework for a fourth grader, shoe shopping and a ChatPRD launch video. How she set it up (each agent's own top tasks, computer-use operators, a tool-parity check), who won each task, the Claude-tallied final scores (Grok Bot 93%, Claude Duet 79%), and her takeaways: Grok Bot for work, Muse for life, access and speed matter, and coding still belongs to the underlying tools.
+
+Conversational Andrew and Ava. Skip the WorkOS and Firecrawl ads.
+
+Source: How I AI, "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?" (Oct 28, 2026)
+
+Listen verdict: SKIM. Worth hearing: Figma thumbnail → inbox to-dos → family newspaper 17:30–23:30 (Grok documents, 'my chief of staff is in Grok Bot', Muse's newspaper); final scores + takeaways 30:01–34:39. Optional: setup + agent tool-parity tip 02:14–07:20; Sentry bug fix 14:56–16:47; launch video 26:46–30:01. Skip WorkOS 01:04–02:13, Firecrawl 16:47–17:30, outro 34:39–end.
+
+Sticky insights:
+- Equalize access before you compare agents — several 'losses' (Muse 7/9) were missing connectors, not missing intelligence; she had Codex verify tool/skill parity
+- Format beats finding: all four found her to-dos; Grok won by handing back a checkable Grok document ('my chief of staff is in Grok Bot')
+- Grok Bot for work breadth (Figma, inbox, shopping — 93%), Muse for life and creative (video, family newspaper, instant homework help)
+- Coding is still OpenAI vs Anthropic — but she'd use Codex/Claude directly, not their personal agents; Grok 'fixed' a bug by loosening validation
+- Safety style is product: Claude Duet asked permission 4x (others once) and was slowest; she likes Muse's permission sidebar</description>
+<itunes:summary>Atlas Podme Briefing — How I AI with Claire Vo: the first How I AI personal-agent benchmark.
+
+Grok Bot, Dot, Muse and Claude Duet across nine real tasks: a Slack reply, a short-form video from raw Dropbox footage, a Sentry bug fix, a Figma thumbnail, inbox triage, a family newspaper, physics homework for a fourth grader, shoe shopping and a ChatPRD launch video. How she set it up (each agent's own top tasks, computer-use operators, a tool-parity check), who won each task, the Claude-tallied final scores (Grok Bot 93%, Claude Duet 79%), and her takeaways: Grok Bot for work, Muse for life, access and speed matter, and coding still belongs to the underlying tools.
+
+Conversational Andrew and Ava. Skip the WorkOS and Firecrawl ads.
+
+Source: How I AI, "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?" (Oct 28, 2026)
+
+Listen verdict: SKIM. Worth hearing: Figma thumbnail → inbox to-dos → family newspaper 17:30–23:30 (Grok documents, 'my chief of staff is in Grok Bot', Muse's newspaper); final scores + takeaways 30:01–34:39. Optional: setup + agent tool-parity tip 02:14–07:20; Sentry bug fix 14:56–16:47; launch video 26:46–30:01. Skip WorkOS 01:04–02:13, Firecrawl 16:47–17:30, outro 34:39–end.
+
+Sticky insights:
+- Equalize access before you compare agents — several 'losses' (Muse 7/9) were missing connectors, not missing intelligence; she had Codex verify tool/skill parity
+- Format beats finding: all four found her to-dos; Grok won by handing back a checkable Grok document ('my chief of staff is in Grok Bot')
+- Grok Bot for work breadth (Figma, inbox, shopping — 93%), Muse for life and creative (video, family newspaper, instant homework help)
+- Coding is still OpenAI vs Anthropic — but she'd use Codex/Claude directly, not their personal agents; Grok 'fixed' a bug by loosening validation
+- Safety style is product: Claude Duet asked permission 4x (others once) and was slowest; she likes Muse's permission sidebar</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-assistant-showdown.mp3" length="9408812" type="audio/mpeg"/>
+<itunes:duration>9:48</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>How I AI — Blair Metcalf (Reddit Proto): Build Your Own AI Prototyping Rig — Real Signed-In Data, Point-and-Annotate Edits in Cursor, Feature Capsules &amp; a Design-System Map the AI Can Read (Conversational)</title>
+<itunes:title>How I AI — Blair Metcalf (Reddit Proto): Build Your Own AI Prototyping Rig — Real Signed-In Data, Point-and-Annotate Edits in Cursor, Feature Capsules &amp; a Design-System Map the AI Can Read (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-reddit-blair-metcalf</guid>
+<pubDate>Mon, 26 Oct 2026 21:09:28 GMT</pubDate>
+<description>Atlas Podme Briefing — How I AI with Claire Vo and Blair Metcalf, principal UX engineer at Reddit.
+
+How Reddit built Reddit Proto, its in-house AI prototyping tool: a launch pad that hides Git and starts every project from the whole Reddit app, prototypes on your real signed-in feed instead of mocks, annotations you pin on the screen and send to Cursor, deploying to Reddit's own servers and sharing by Slack link or scan-to-phone PWA, 150+ users and about 700 prototypes, 'instant alignment' with leadership, the feature capsule (Figma frame to PRD to draft code for engineers), Proto MCP Ultra and the 'Rosetta Stone' design-system map, why designers and animators make great 'directors', and his fix when the AI won't listen: take a day and get more vague.
+
+Conversational Andrew and Ava. Skip the cold open and the Firecrawl ads.
+
+Source: https://podcasters.spotify.com/pod/show/pen-name/episodes/Why-Reddit-built-its-own-AI-prototyping-tool--Blair-Metcalf-e3qtst2
+
+Listen verdict: SKIM-PLUS: demo-heavy; the briefing carries the ideas, but the screen share is worth watching on YouTube if you're building a prototyping rig. Priority: real data + annotations 05:56–10:42 · feature capsule and Rosetta Stone map 15:53–24:55. Optional: sharing/adoption 10:42–13:28; leadership review 14:13–15:53; lightning round 25:43–28:30. Skip: cold open 00:00–01:16, Firecrawl ads 01:48–02:31 and 13:28–14:13, outro 28:30–end.</description>
+<itunes:summary>Atlas Podme Briefing — How I AI with Claire Vo and Blair Metcalf, principal UX engineer at Reddit.
+
+How Reddit built Reddit Proto, its in-house AI prototyping tool: a launch pad that hides Git and starts every project from the whole Reddit app, prototypes on your real signed-in feed instead of mocks, annotations you pin on the screen and send to Cursor, deploying to Reddit's own servers and sharing by Slack link or scan-to-phone PWA, 150+ users and about 700 prototypes, 'instant alignment' with leadership, the feature capsule (Figma frame to PRD to draft code for engineers), Proto MCP Ultra and the 'Rosetta Stone' design-system map, why designers and animators make great 'directors', and his fix when the AI won't listen: take a day and get more vague.
+
+Conversational Andrew and Ava. Skip the cold open and the Firecrawl ads.
+
+Source: https://podcasters.spotify.com/pod/show/pen-name/episodes/Why-Reddit-built-its-own-AI-prototyping-tool--Blair-Metcalf-e3qtst2
+
+Listen verdict: SKIM-PLUS: demo-heavy; the briefing carries the ideas, but the screen share is worth watching on YouTube if you're building a prototyping rig. Priority: real data + annotations 05:56–10:42 · feature capsule and Rosetta Stone map 15:53–24:55. Optional: sharing/adoption 10:42–13:28; leadership review 14:13–15:53; lightning round 25:43–28:30. Skip: cold open 00:00–01:16, Firecrawl ads 01:48–02:31 and 13:28–14:13, outro 28:30–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-reddit-blair-metcalf.mp3" length="7620908" type="audio/mpeg"/>
+<itunes:duration>7:56</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</title>
+<itunes:title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-anthropic-s1-primack</guid>
+<pubDate>Mon, 26 Oct 2026 21:09:28 GMT</pubDate>
+<description>Atlas Podme Briefing — Big Technology Podcast with Alex Kantrowitz and Dan Primack, business editor at Axios.
+
+Anthropic's S-1: whether Wall Street can fund a ~$100B raise at a ~$2T valuation the same day as SpaceX's $40B debt and Meta's up to $95B stock sale, why Dan says the forward compute commitments matter more than $3.4B in first-half free cash flow, revenue from $41M three years ago to $16.3B in the first half, $6.6M revenue per employee, Claude Code and Cowork, a diversified customer base routed 48% through cloud marketplaces, revenue per compute dollar from 40 cents to $2.08, $112B in cash, 80 risk factors (including existential risk: 'I don't think Oppenheimer went public'), why Anthropic's price sets the bar for OpenAI's IPO, and how little the filing says about past investors.
+
+Conversational Andrew and Ava. Skip the opening ads.
+
+Source: Big Technology Podcast — "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack" (Mon Oct 26, 2026)
+
+Listen verdict: LISTEN if you're tracking AI financing; it's short (28 min). Core: capacity test 03:56–07:57 · cash flow vs commitments 07:57–11:44 · growth, revenue per employee, customers 12:40–17:34 · compute efficiency + cash 17:34–20:35 · risk factors 20:35–23:21 · OpenAI, cold feet, venture opacity 23:21–27:41. Skip: ads 00:00–01:06, outro 27:41–end.</description>
+<itunes:summary>Atlas Podme Briefing — Big Technology Podcast with Alex Kantrowitz and Dan Primack, business editor at Axios.
+
+Anthropic's S-1: whether Wall Street can fund a ~$100B raise at a ~$2T valuation the same day as SpaceX's $40B debt and Meta's up to $95B stock sale, why Dan says the forward compute commitments matter more than $3.4B in first-half free cash flow, revenue from $41M three years ago to $16.3B in the first half, $6.6M revenue per employee, Claude Code and Cowork, a diversified customer base routed 48% through cloud marketplaces, revenue per compute dollar from 40 cents to $2.08, $112B in cash, 80 risk factors (including existential risk: 'I don't think Oppenheimer went public'), why Anthropic's price sets the bar for OpenAI's IPO, and how little the filing says about past investors.
+
+Conversational Andrew and Ava. Skip the opening ads.
+
+Source: Big Technology Podcast — "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack" (Mon Oct 26, 2026)
+
+Listen verdict: LISTEN if you're tracking AI financing; it's short (28 min). Core: capacity test 03:56–07:57 · cash flow vs commitments 07:57–11:44 · growth, revenue per employee, customers 12:40–17:34 · compute efficiency + cash 17:34–20:35 · risk factors 20:35–23:21 · OpenAI, cold feet, venture opacity 23:21–27:41. Skip: ads 00:00–01:06, outro 27:41–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-anthropic-s1-primack.mp3" length="7889708" type="audio/mpeg"/>
+<itunes:duration>8:13</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>20VC — Satya Nadella (Microsoft): Assume the Model Is Compromised — Zero-Trust Agents, Commodity Tokens, Own Your Intelligence with Private Evals &amp; Many Winners per Layer (Conversational)</title>
+<itunes:title>20VC — Satya Nadella (Microsoft): Assume the Model Is Compromised — Zero-Trust Agents, Commodity Tokens, Own Your Intelligence with Private Evals &amp; Many Winners per Layer (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-satya-nadella</guid>
+<pubDate>Mon, 26 Oct 2026 18:44:29 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC with Harry Stebbings and Satya Nadella, CEO of Microsoft.
+
+Why Satya now says "assume the model is compromised" (alignment didn't fall out of scaling), the zero-trust layer around agents in Agent 365 (agent identity, tamper-proof logs), why chain of thought can be unfaithful and should be auditable, Chinese open-weight models and Microsoft's "licensed weights," his two-year forecast that most tokens become commodity, why every company must own its intelligence (Hayek, the reverse Arrow information paradox, private eval benchmarks as core IP), "AI native" turning passé in five years, the Unilever order-to-cash story, horizontal layers with many winners, $100B training runs vs world GDP growth, the NHS and chip-design bull case, and his "one happy family" change of mind.
+
+Conversational Andrew and Ava. Skip the intro and the Base44 / Larridin ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more
+
+Listen verdict: SKIM, with sections worth hearing: zero-trust + chain of thought + open vs closed 03:25–10:27 · own your intelligence / private evals 10:27–12:32 · Unilever implementation story 14:24–15:32. Optional: verticalisation 15:32–17:14; $100B runs + GDP 17:14–20:00; quickfire 21:34–24:07 (the 'one happy family' alignment answer at 22:19). Skip intro + ads 00:00–03:10, repeated ads 24:11–end.
+
+Sticky insights:
+- Assume the model is compromised: alignment didn't 'just fall out of scaling', so keep AI safety in training and build an engineered zero-trust layer — Agent 365 gives every agent an identity and logs every tool/model call tamper-proof ('you can't have the agent go modify its own logs')
+- Chain of thought 'can be unfaithful' and is worse hidden; he wants it in English and auditable by trusted partners, which 'may even drive more open weights' — while Microsoft's own MAI models are 'licensed weights' in 'a simple straightforward software business'
+- In two years most tasks saturate and 'predominantly token usage will be commodity token usage'; pay for frontier only where your eval keeps moving
+- Own your intelligence: Hayek's local knowledge + the reverse Arrow paradox (now the buyer needs protection, even thumbs up/down leaks value); 'every firm will have a private eval benchmark, which is their core IP'
+- Unilever pattern: start on a frontier model, write the evals, move to a cheaper MAI model trained on your traces, hand it to IT; one integrated stack winner is 'unlikely' — five-six closed + five-six open models, routers, many winners per layer</description>
+<itunes:summary>Atlas Podme Briefing — 20VC with Harry Stebbings and Satya Nadella, CEO of Microsoft.
+
+Why Satya now says "assume the model is compromised" (alignment didn't fall out of scaling), the zero-trust layer around agents in Agent 365 (agent identity, tamper-proof logs), why chain of thought can be unfaithful and should be auditable, Chinese open-weight models and Microsoft's "licensed weights," his two-year forecast that most tokens become commodity, why every company must own its intelligence (Hayek, the reverse Arrow information paradox, private eval benchmarks as core IP), "AI native" turning passé in five years, the Unilever order-to-cash story, horizontal layers with many winners, $100B training runs vs world GDP growth, the NHS and chip-design bull case, and his "one happy family" change of mind.
+
+Conversational Andrew and Ava. Skip the intro and the Base44 / Larridin ads.
+
+Source: https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more
+
+Listen verdict: SKIM, with sections worth hearing: zero-trust + chain of thought + open vs closed 03:25–10:27 · own your intelligence / private evals 10:27–12:32 · Unilever implementation story 14:24–15:32. Optional: verticalisation 15:32–17:14; $100B runs + GDP 17:14–20:00; quickfire 21:34–24:07 (the 'one happy family' alignment answer at 22:19). Skip intro + ads 00:00–03:10, repeated ads 24:11–end.
+
+Sticky insights:
+- Assume the model is compromised: alignment didn't 'just fall out of scaling', so keep AI safety in training and build an engineered zero-trust layer — Agent 365 gives every agent an identity and logs every tool/model call tamper-proof ('you can't have the agent go modify its own logs')
+- Chain of thought 'can be unfaithful' and is worse hidden; he wants it in English and auditable by trusted partners, which 'may even drive more open weights' — while Microsoft's own MAI models are 'licensed weights' in 'a simple straightforward software business'
+- In two years most tasks saturate and 'predominantly token usage will be commodity token usage'; pay for frontier only where your eval keeps moving
+- Own your intelligence: Hayek's local knowledge + the reverse Arrow paradox (now the buyer needs protection, even thumbs up/down leaks value); 'every firm will have a private eval benchmark, which is their core IP'
+- Unilever pattern: start on a frontier model, write the evals, move to a cheaper MAI model trained on your traces, hand it to IT; one integrated stack winner is 'unlikely' — five-six closed + five-six open models, routers, many winners per layer</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-satya-nadella.mp3" length="7339052" type="audio/mpeg"/>
+<itunes:duration>7:39</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Lenny's — Rob Snyder (The Power of Pull): Find a Stuck Person, Not a Market — PULL, the Two-Slide Test, the Hail Mary &amp; the Case Study Factory (Conversational)</title>
+<itunes:title>Lenny's — Rob Snyder (The Power of Pull): Find a Stuck Person, Not a Market — PULL, the Two-Slide Test, the Hail Mary &amp; the Case Study Factory (Conversational)</itunes:title>
+<guid isPermaLink="false">lenny-rob-snyder</guid>
+<pubDate>Sun, 25 Oct 2026 15:33:46 GMT</pubDate>
+<description>Atlas Podme Briefing — Lenny's Podcast with Rob Snyder, author of The Power of Pull.
+
+A practical walk through finding product-market fit: the PULL framework (Project, Unavoidable, List of options, Limitations) and why all four must exist (Jump's AI note-taker for financial advisors vs. insurance agents), why pull is discovered rather than created and lives in a person, getting ideas from firsthand experience, the two-slide pull test, real buying intent vs. "send more information," the Hail Mary question, why he skips design partners and pilots, "founder magic" cold outreach with LinkedIn benchmarks, running the first sales call, pricing from the alternatives, goblin mode, "guaranteed to churn until X," and the case study factory.
+
+Conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf
+
+Listen verdict: SKIM, with sections worth hearing if you're selling something new: pull + acronym + Jump/insurance near miss 04:06–13:53 (skip WorkOS 06:22–07:31) · two slides + buying intent 22:34–27:24 · first sales call 41:27–49:57 · closing, price anchors, design partners 54:08–1:02:22 · weird-to-churn + case study factory 1:06:56–1:16:15. Optional: firsthand ideas 17:13–22:34; outreach + LinkedIn benchmarks 34:46–40:37; goblin mode 1:02:22–1:06:56; bigger companies 1:16:15–1:20:03. Skip teaser 00:00–01:12, DX 40:37–41:27, lightning round 1:21:35–end (Muse mention at 1:22:26).
+
+Sticky insights:
+- PULL = a specific person with a Project that's Unavoidable now, whose List of options all have Limitations; all four must exist — insurance agents had Jump's P but no U ('not taking notes' was fine)
+- Pull is discovered, not created, and lives in a person ('you're selling to the head of legal at SpaceX'); test with two slides and watch for them trying to buy before there's a product ('if you can do that, I will pay you right now')
+- Skip design partners/pilots (a 'negative signal to people who actually have pull'); when lukewarm, throw the Hail Mary: 'anything on your to-do list you'd pay me to do right now?'
+- Outreach benchmarks: ~20 LinkedIn adds a day (up to 150/week), 30–40% accept, 30–50% reply; AI-personalized cold messages read like 'Claude wrote it'
+- Everyone is 'guaranteed to churn until X' — build a bullet train to X; a startup 'repeats one case study infinite times'; price from the alternatives ($50K/year consultants → $50K/year)</description>
+<itunes:summary>Atlas Podme Briefing — Lenny's Podcast with Rob Snyder, author of The Power of Pull.
+
+A practical walk through finding product-market fit: the PULL framework (Project, Unavoidable, List of options, Limitations) and why all four must exist (Jump's AI note-taker for financial advisors vs. insurance agents), why pull is discovered rather than created and lives in a person, getting ideas from firsthand experience, the two-slide pull test, real buying intent vs. "send more information," the Hail Mary question, why he skips design partners and pilots, "founder magic" cold outreach with LinkedIn benchmarks, running the first sales call, pricing from the alternatives, goblin mode, "guaranteed to churn until X," and the case study factory.
+
+Conversational Andrew and Ava. Skip the WorkOS and DX ads.
+
+Source: https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf
+
+Listen verdict: SKIM, with sections worth hearing if you're selling something new: pull + acronym + Jump/insurance near miss 04:06–13:53 (skip WorkOS 06:22–07:31) · two slides + buying intent 22:34–27:24 · first sales call 41:27–49:57 · closing, price anchors, design partners 54:08–1:02:22 · weird-to-churn + case study factory 1:06:56–1:16:15. Optional: firsthand ideas 17:13–22:34; outreach + LinkedIn benchmarks 34:46–40:37; goblin mode 1:02:22–1:06:56; bigger companies 1:16:15–1:20:03. Skip teaser 00:00–01:12, DX 40:37–41:27, lightning round 1:21:35–end (Muse mention at 1:22:26).
+
+Sticky insights:
+- PULL = a specific person with a Project that's Unavoidable now, whose List of options all have Limitations; all four must exist — insurance agents had Jump's P but no U ('not taking notes' was fine)
+- Pull is discovered, not created, and lives in a person ('you're selling to the head of legal at SpaceX'); test with two slides and watch for them trying to buy before there's a product ('if you can do that, I will pay you right now')
+- Skip design partners/pilots (a 'negative signal to people who actually have pull'); when lukewarm, throw the Hail Mary: 'anything on your to-do list you'd pay me to do right now?'
+- Outreach benchmarks: ~20 LinkedIn adds a day (up to 150/week), 30–40% accept, 30–50% reply; AI-personalized cold messages read like 'Claude wrote it'
+- Everyone is 'guaranteed to churn until X' — build a bullet train to X; a startup 'repeats one case study infinite times'; price from the alternatives ($50K/year consultants → $50K/year)</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-rob-snyder.mp3" length="21143852" type="audio/mpeg"/>
+<itunes:duration>22:01</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>20VC — Naveen Rao (Unconventional AI): Robotics 100x Coding Agents / Inference a $10T Market / Why Software Investors Are in Trouble (Conversational)</title>
+<itunes:title>20VC — Naveen Rao (Unconventional AI): Robotics 100x Coding Agents / Inference a $10T Market / Why Software Investors Are in Trouble (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-naveen-rao</guid>
+<pubDate>Sat, 24 Oct 2026 18:28:51 GMT</pubDate>
+<description>Atlas Podme Briefing — 20VC with Harry Stebbings and Naveen Rao, founder of Unconventional AI (and of MosaicML, sold to Databricks for $1.3 billion). Published Oct 24, 2026.
+
+Why energy is AI's real bottleneck — about $50 billion per gigawatt, the grid's spare capacity running out, China building six times faster for twenty years — and why he calls this a blip, not a bubble; why the next efficiency gains come from designing the model and the chip together; specialized chips versus NVIDIA, and why chips won't become commodities; AI slop and the shift from producing to verifying; why we shouldn't trust agents more than humans yet; why "if you're a pure software investor, you're kind of" in trouble, and Harry's pushback; inference as a $10 trillion market within ten years; why robotics will be 100 times bigger than agentic coding; and why coding agents are the most overrated AI market, because the value moves to the model.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev, Muse and Dots are not named; xAI's Grok comes up once in a list of AI labs.
+
+Source: 20VC, "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional" (published Oct 24, 2026).
+
+Listen verdict: LISTEN 50:16–55:45 (Harry vs Naveen on robotics, 'inference market… unbounded', $1T models / $10T inference in 10 years, Jevons, robotics 100x agentic coding, price 'almost irrelevant') and 57:07–1:01:04 (quick-fire: market validation, own fabs, agentic coding overrated because value moves to the model, 80% open tokens / 50-50 spend). SKIM: software investors / commoditization 38:55–50:16; energy 04:50–11:20; compute + chips + NVIDIA 11:22–24:58; slop/verification/trust/data/RL/transformers 24:58–38:55. Optional 55:45–57:07, 1:01:04–1:06:30. Skip ads 01:25–04:26, 1:06:33–end.
+
+Sticky insights:
+- Agentic coding is 'quite overrated' as a market because value 'moves to the model provider'; harness/IDE 'not super sticky' — people in his company switch fluidly; Cursor 'had a great exit'
+- Inference 'unbounded': AI models a $1T market in the next few years, inference a $10T market within 10 years; 10x cheaper tokens ~10x the market (Jevons); robotics '100 times larger than agentic coding'
+- 'If you're a pure software investor, you're kind of fucked' — SaaS sugar high over; concedes to Harry's Legora pushback; hardware 'the place to be over the next 10 years'; NVIDIA takes 'the lion's share' of margin
+- Energy ceiling: ~$50B per gigawatt vs $20–30B fab; US grid ~900 GW average vs 1.2–1.3 TW peak; 'out of energy pretty soon'; 40 GW/year 'no way', maybe 10 (~half a trillion dollars); China 6x faster for 20 years
+- 'We've moved the problem from producing to verification'; don't trust agent decisions over humans 'just yet'; 80% of tokens open in 3 years, ~50-50 on spend</description>
+<itunes:summary>Atlas Podme Briefing — 20VC with Harry Stebbings and Naveen Rao, founder of Unconventional AI (and of MosaicML, sold to Databricks for $1.3 billion). Published Oct 24, 2026.
+
+Why energy is AI's real bottleneck — about $50 billion per gigawatt, the grid's spare capacity running out, China building six times faster for twenty years — and why he calls this a blip, not a bubble; why the next efficiency gains come from designing the model and the chip together; specialized chips versus NVIDIA, and why chips won't become commodities; AI slop and the shift from producing to verifying; why we shouldn't trust agents more than humans yet; why "if you're a pure software investor, you're kind of" in trouble, and Harry's pushback; inference as a $10 trillion market within ten years; why robotics will be 100 times bigger than agentic coding; and why coding agents are the most overrated AI market, because the value moves to the model.
+
+Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev, Muse and Dots are not named; xAI's Grok comes up once in a list of AI labs.
+
+Source: 20VC, "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional" (published Oct 24, 2026).
+
+Listen verdict: LISTEN 50:16–55:45 (Harry vs Naveen on robotics, 'inference market… unbounded', $1T models / $10T inference in 10 years, Jevons, robotics 100x agentic coding, price 'almost irrelevant') and 57:07–1:01:04 (quick-fire: market validation, own fabs, agentic coding overrated because value moves to the model, 80% open tokens / 50-50 spend). SKIM: software investors / commoditization 38:55–50:16; energy 04:50–11:20; compute + chips + NVIDIA 11:22–24:58; slop/verification/trust/data/RL/transformers 24:58–38:55. Optional 55:45–57:07, 1:01:04–1:06:30. Skip ads 01:25–04:26, 1:06:33–end.
+
+Sticky insights:
+- Agentic coding is 'quite overrated' as a market because value 'moves to the model provider'; harness/IDE 'not super sticky' — people in his company switch fluidly; Cursor 'had a great exit'
+- Inference 'unbounded': AI models a $1T market in the next few years, inference a $10T market within 10 years; 10x cheaper tokens ~10x the market (Jevons); robotics '100 times larger than agentic coding'
+- 'If you're a pure software investor, you're kind of fucked' — SaaS sugar high over; concedes to Harry's Legora pushback; hardware 'the place to be over the next 10 years'; NVIDIA takes 'the lion's share' of margin
+- Energy ceiling: ~$50B per gigawatt vs $20–30B fab; US grid ~900 GW average vs 1.2–1.3 TW peak; 'out of energy pretty soon'; 40 GW/year 'no way', maybe 10 (~half a trillion dollars); China 6x faster for 20 years
+- 'We've moved the problem from producing to verification'; don't trust agent decisions over humans 'just yet'; 80% of tokens open in 3 years, ~50-50 on spend</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-naveen-rao.mp3" length="17928236" type="audio/mpeg"/>
+<itunes:duration>18:40</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Google’s Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity’s “Black October” (Conversational)</title>
 <itunes:title>Big Technology — Google’s Potential, AI Money Spigot Shutting?, PHP Bug &amp; Cybersecurity’s “Black October” (Conversational)</itunes:title>
@@ -1161,38 +1441,6 @@ Sticky insights:
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>How I AI — OpenAI Dev Day 2026: Dots, Spaces, Decisions API + Ultrafast (Conversational)</title>
-<itunes:title>How I AI — OpenAI Dev Day 2026: Dots, Spaces, Decisions API + Ultrafast (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-devday</guid>
-<pubDate>Wed, 30 Sep 2026 15:23:05 GMT</pubDate>
-<description>How I AI — Claire Vo walks OpenAI DevDay 2026: Dots vs Grok/Muse/Instinct, underhyped Spaces + Sites, GPT-6.1 Sol, Decisions API with vision (Jev-adjacent), and Astra Ultrafast demos that cost ~$97. Atlas conversational briefing (~6.5 min).
-
-Listen verdict: LISTEN FULLY (~24m 20s) if agents, team Spaces, personal Dot, or Jev-versus-OpenAI rails matter — else SKIM Dots (0:58–6:57) · Spaces+Sites (6:57–13:06) · Sol+Decisions vision (13:06–17:17) · Ultrafast+$97 (17:17–22:25); soft-skip Agents/plugins/Pro 500 + CTA
-
-Sticky insights:
-- Dots always-on agent — Bay good work, confusing IA; still on Grok micro-agents; Instinct/Muse named
-- Spaces underhyped humans+agents docs; Sites+plugins permissioned vibe-coded tools
-- Sol 6.1 $2/$10 workhorse vs Astra $10/$50
-- Decisions API = Luna/Jev competitor WITH vision — not GA; head-to-head coming
-- Astra Ultrafast 8x/6x — Starship kids demo ~$97/30min</description>
-<itunes:summary>How I AI — Claire Vo walks OpenAI DevDay 2026: Dots vs Grok/Muse/Instinct, underhyped Spaces + Sites, GPT-6.1 Sol, Decisions API with vision (Jev-adjacent), and Astra Ultrafast demos that cost ~$97. Atlas conversational briefing (~6.5 min).
-
-Listen verdict: LISTEN FULLY (~24m 20s) if agents, team Spaces, personal Dot, or Jev-versus-OpenAI rails matter — else SKIM Dots (0:58–6:57) · Spaces+Sites (6:57–13:06) · Sol+Decisions vision (13:06–17:17) · Ultrafast+$97 (17:17–22:25); soft-skip Agents/plugins/Pro 500 + CTA
-
-Sticky insights:
-- Dots always-on agent — Bay good work, confusing IA; still on Grok micro-agents; Instinct/Muse named
-- Spaces underhyped humans+agents docs; Sites+plugins permissioned vibe-coded tools
-- Sol 6.1 $2/$10 workhorse vs Astra $10/$50
-- Decisions API = Luna/Jev competitor WITH vision — not GA; head-to-head coming
-- Astra Ultrafast 8x/6x — Starship kids demo ~$97/30min</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-devday.mp3" length="6341804" type="audio/mpeg"/>
-<itunes:duration>6:36</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>Moonshots #297 — Ben Lamm: Biological Singularity, Artificial Wombs, Dataset &gt; Mythos (Conversational)</title>
 <itunes:title>Moonshots #297 — Ben Lamm: Biological Singularity, Artificial Wombs, Dataset &gt; Mythos (Conversational)</itunes:title>
 <guid isPermaLink="false">moonshots-297</guid>
@@ -1389,38 +1637,6 @@ Sticky insights:
 - Product co vs 5-prime MDAPs; Carmack 1%; Meta VR + founder advice</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-295.mp3" length="11628332" type="audio/mpeg"/>
 <itunes:duration>12:07</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>How I AI — Jev for Beginners / Typed Decisions + LLM Buddy (Conversational)</title>
-<itunes:title>How I AI — Jev for Beginners / Typed Decisions + LLM Buddy (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-jev</guid>
-<pubDate>Mon, 28 Sep 2026 15:23:26 GMT</pubDate>
-<description>How I AI — Claire Vo’s Jev 101: TypeSafe AI’s decision model returns typed choices/scores/bools instead of chat text (~4¢/M input, no output charge). Nine-cent PR maps, local Claude Code/Codex meta-analysis, Gmail triage, ChatPRD insights graph, and an audience board that names Instinct. Atlas Podme Briefings · Andrew &amp; Ava.
-
-Listen verdict: LISTEN FULLY (~26 min) if classify→route pipelines, eng-allocation maps, or Atlas-adjacent decision layers matter — else SKIM what-Jev-is (0:00–1:40 + 2:46–7:39, skip OpenArt) · PR+sessions+Gmail buddy (7:39–14:30) · ChatPRD insights graph (14:30–18:17); soft-add audience dashboard (18:17, Instinct on board) · voice→color (22:14); soft-skip sponsor + CTA
-
-Sticky insights:
-- Jev = TypeSafe System One decision model: typed choice/score/bool, ~4¢/M in, $0 out
-- Pairwise PRs: 1,700 / 17k pairs / 9¢ / ~30% platform-security-infra
-- Jev alone OK; Jev + LLM buddy = unlock (Gmail, ChatPRD graph)
-- ChatPRD insights: ~1,100 signals, ~$4 Jev + Astra; margin-accretive vs frontier brute force
-- Audience board names Instinct + Grok vs Muse; Grok bots cold-open nod</description>
-<itunes:summary>How I AI — Claire Vo’s Jev 101: TypeSafe AI’s decision model returns typed choices/scores/bools instead of chat text (~4¢/M input, no output charge). Nine-cent PR maps, local Claude Code/Codex meta-analysis, Gmail triage, ChatPRD insights graph, and an audience board that names Instinct. Atlas Podme Briefings · Andrew &amp; Ava.
-
-Listen verdict: LISTEN FULLY (~26 min) if classify→route pipelines, eng-allocation maps, or Atlas-adjacent decision layers matter — else SKIM what-Jev-is (0:00–1:40 + 2:46–7:39, skip OpenArt) · PR+sessions+Gmail buddy (7:39–14:30) · ChatPRD insights graph (14:30–18:17); soft-add audience dashboard (18:17, Instinct on board) · voice→color (22:14); soft-skip sponsor + CTA
-
-Sticky insights:
-- Jev = TypeSafe System One decision model: typed choice/score/bool, ~4¢/M in, $0 out
-- Pairwise PRs: 1,700 / 17k pairs / 9¢ / ~30% platform-security-infra
-- Jev alone OK; Jev + LLM buddy = unlock (Gmail, ChatPRD graph)
-- ChatPRD insights: ~1,100 signals, ~$4 Jev + Astra; margin-accretive vs frontier brute force
-- Audience board names Instinct + Grok vs Muse; Grok bots cold-open nod</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-jev.mp3" length="6969644" type="audio/mpeg"/>
-<itunes:duration>7:16</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
@@ -1731,46 +1947,6 @@ Sticky insights:
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>How I AI — Opus 5.5 / Why Claire Came Back (Conversational)</title>
-<itunes:title>How I AI — Opus 5.5 / Why Claire Came Back (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-opus55</guid>
-<pubDate>Tue, 22 Sep 2026 21:24:30 GMT</pubDate>
-<description>Claire Vo left Claude for months because it got annoying — then Opus 5.5 brought her back. Atlas Podme Briefing (~7 min): cost math vs Fable, quiet-but-working latency, four long-running agentic tests, ChatPRD homepage she'll ship, the SVG surprise, a flat safety "no," and where Codex still wins.
-
-LISTEN FULLY (~25m source) — or SKIM cold open · agentic 7:54 · frontend/SVG 10:50 · verdict 21:42.
-
-Andrew ↔ Ava conversational. Dual-audit ≥9.5.
-
-Listen verdict: LISTEN FULLY (~25m) — or SKIM cold open (0:00) + agentic (7:54) + frontend/SVG (10:50) + verdict (21:42) if time-boxed
-
-Sticky insights:
-- Left Claude for annoyance (not IQ) → Codex; Opus 5.5 voice fix brings her back
-- 40% cheaper is workload math (tokens+speed), not only sticker — agentic runs amplify
-- Quiet 8–9 min = perceived latency bug even when model is fast
-- 4/4 long agentic OK; injection ignored; SVG surprise; ChatPRD homepage likely shipping
-- Stack split: Opus frontend/SVG/PR review; Codex computer use/video/harness — Claude back, not every room</description>
-<itunes:summary>Claire Vo left Claude for months because it got annoying — then Opus 5.5 brought her back. Atlas Podme Briefing (~7 min): cost math vs Fable, quiet-but-working latency, four long-running agentic tests, ChatPRD homepage she'll ship, the SVG surprise, a flat safety "no," and where Codex still wins.
-
-LISTEN FULLY (~25m source) — or SKIM cold open · agentic 7:54 · frontend/SVG 10:50 · verdict 21:42.
-
-Andrew ↔ Ava conversational. Dual-audit ≥9.5.
-
-Listen verdict: LISTEN FULLY (~25m) — or SKIM cold open (0:00) + agentic (7:54) + frontend/SVG (10:50) + verdict (21:42) if time-boxed
-
-Sticky insights:
-- Left Claude for annoyance (not IQ) → Codex; Opus 5.5 voice fix brings her back
-- 40% cheaper is workload math (tokens+speed), not only sticker — agentic runs amplify
-- Quiet 8–9 min = perceived latency bug even when model is fast
-- 4/4 long agentic OK; injection ignored; SVG surprise; ChatPRD homepage likely shipping
-- Stack split: Opus frontend/SVG/PR review; Codex computer use/video/harness — Claude back, not every room</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-opus55.mp3" length="6652076" type="audio/mpeg"/>
-<itunes:duration>6:56</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>20VC — Daniel Dines / UiPath: Process Maps Beat Models, Exactness Asymmetry &amp; Europe Lost (Conversational)</title>
 <itunes:title>20VC — Daniel Dines / UiPath: Process Maps Beat Models, Exactness Asymmetry &amp; Europe Lost (Conversational)</itunes:title>
 <guid isPermaLink="false">20vc-dines</guid>
@@ -1885,238 +2061,6 @@ Sticky insights:
 - Growth in core L-ness — Snap 2018 Android; Discord 2024 gaming &gt; Midjourney narrative; long-term greedy + CPV + three oxymorons</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-sellis.mp3" length="22626860" type="audio/mpeg"/>
 <itunes:duration>23:34</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #292 — Vlad Tenev / Tokenization &amp; OpenAI Misalignment (Conversational)</title>
-<itunes:title>Moonshots #292 — Vlad Tenev / Tokenization &amp; OpenAI Misalignment (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-292</guid>
-<pubDate>Sat, 19 Sep 2026 21:22:14 GMT</pubDate>
-<description>Atlas Podme Briefing — Moonshots #292 with Vlad Tenev (Robinhood).
-
-Bessent kills the labs' liability blank check three days after Dario's pacing essay. OpenAI publishes six voluntary misalignment incidents. Trump Accounts put a brokerage in every newborn's hands. Tokenization as a hungry freight train. Figure makes beds in strangers' homes. Claude leads ~26% of Anthropic's measured R&amp;D.
-
-~33 min Andrew ↔ Ava conversational brief of a ~127 min source. Listen fully if ownership + AI-finance plumbing matter; else skim timestamps in show notes / brief.
-
-Not financial advice. Grounded in episode audio + YouTube captions.
-
-Listen verdict: LISTEN FULLY (~127 min) if ownership/tokenization/retail AI-finance + same-week Bessent/OpenAI misalignment/RSI matter — else SKIM Bessent+liability (03:55–12:25) · OpenAI 6 reports+agentic trading (28:36–35:00) · Trump Accounts (54:48–1:13) · Tokenization (1:14–1:30); soft-add Figure (1:30–1:39) · Claude 26% RSI (1:50–1:55); soft-skip Google/Blitzy/Fountain/Live promo
-
-Sticky insights:
-- Bessent split — liability blank check rejected 3 days after Dario pacing; slow ≠ bailout
-- Ownership = social license — Bitcoin retail upside vs private AI labs; Trump Accounts + Ventures as product answer
-- Tokenization freight train shipped abroad (RH Chain stock tokens, &gt;$1B DEX); innovation exemption path to US
-- OpenAI six voluntary misalignment reports — disclosure ≠ solved sandboxes (AWG deception root)
-- Claude ~26% R&amp;D quantifies RSI; &gt;100k agentic trading accounts cabin-limited not magic alpha</description>
-<itunes:summary>Atlas Podme Briefing — Moonshots #292 with Vlad Tenev (Robinhood).
-
-Bessent kills the labs' liability blank check three days after Dario's pacing essay. OpenAI publishes six voluntary misalignment incidents. Trump Accounts put a brokerage in every newborn's hands. Tokenization as a hungry freight train. Figure makes beds in strangers' homes. Claude leads ~26% of Anthropic's measured R&amp;D.
-
-~33 min Andrew ↔ Ava conversational brief of a ~127 min source. Listen fully if ownership + AI-finance plumbing matter; else skim timestamps in show notes / brief.
-
-Not financial advice. Grounded in episode audio + YouTube captions.
-
-Listen verdict: LISTEN FULLY (~127 min) if ownership/tokenization/retail AI-finance + same-week Bessent/OpenAI misalignment/RSI matter — else SKIM Bessent+liability (03:55–12:25) · OpenAI 6 reports+agentic trading (28:36–35:00) · Trump Accounts (54:48–1:13) · Tokenization (1:14–1:30); soft-add Figure (1:30–1:39) · Claude 26% RSI (1:50–1:55); soft-skip Google/Blitzy/Fountain/Live promo
-
-Sticky insights:
-- Bessent split — liability blank check rejected 3 days after Dario pacing; slow ≠ bailout
-- Ownership = social license — Bitcoin retail upside vs private AI labs; Trump Accounts + Ventures as product answer
-- Tokenization freight train shipped abroad (RH Chain stock tokens, &gt;$1B DEX); innovation exemption path to US
-- OpenAI six voluntary misalignment reports — disclosure ≠ solved sandboxes (AWG deception root)
-- Claude ~26% R&amp;D quantifies RSI; &gt;100k agentic trading accounts cabin-limited not magic alpha</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-292.mp3" length="32278700" type="audio/mpeg"/>
-<itunes:duration>33:37</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Big Technology — AI Doom Backlash, IPOs &amp; Frontier Slowdown (Conversational)</title>
-<itunes:title>Big Technology — AI Doom Backlash, IPOs &amp; Frontier Slowdown (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-doom-backlash</guid>
-<pubDate>Sat, 19 Sep 2026 18:23:43 GMT</pubDate>
-<description>Big Technology Friday with Alex Kantrowitz &amp; Ranjan Roy: WSJ/Bulletin softens the Hugging Face “rogue” story, Sacks EA panic vs AOC smoke-screen vs real capability (GPT-6 Astra personality, kids+Codex), Anthropic’s on-mic &gt;$100B ARR / fall IPO path, OpenAI’s no-2026-IPO + $1.5T private balloon, and Ramp cracks (top-1% spend −9.7%, tokens −41%, frontier usage 53%→45%). Instinct named as the normal-agent foil. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY for backlash map + IPO/ARR + Ramp; commute cut = Journal/Instinct + Astra + $100B ARR + Ramp cracks
-
-Sticky insights:
-- Backlash ≠ one theory — marketing + EA panic + finance smoke + real capability
-- Prompts missing; METR collaboration-training out of scope
-- Instinct named as normal-agent foil to hack-swarm
-- Anthropic on-mic &gt;$100B ARR / fall IPO (RSS $100M typo)
-- OpenAI no-2026-IPO + $1.5T private FOMO balloon
-- Ramp: top-1% −9.7%, tokens −41%, frontier usage 53%→45%
-- Near-term kids+Codex on OpenAI infra &gt; Terminator cinema</description>
-<itunes:summary>Big Technology Friday with Alex Kantrowitz &amp; Ranjan Roy: WSJ/Bulletin softens the Hugging Face “rogue” story, Sacks EA panic vs AOC smoke-screen vs real capability (GPT-6 Astra personality, kids+Codex), Anthropic’s on-mic &gt;$100B ARR / fall IPO path, OpenAI’s no-2026-IPO + $1.5T private balloon, and Ramp cracks (top-1% spend −9.7%, tokens −41%, frontier usage 53%→45%). Instinct named as the normal-agent foil. Conversational Andrew &amp; Ava brief — not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY for backlash map + IPO/ARR + Ramp; commute cut = Journal/Instinct + Astra + $100B ARR + Ramp cracks
-
-Sticky insights:
-- Backlash ≠ one theory — marketing + EA panic + finance smoke + real capability
-- Prompts missing; METR collaboration-training out of scope
-- Instinct named as normal-agent foil to hack-swarm
-- Anthropic on-mic &gt;$100B ARR / fall IPO (RSS $100M typo)
-- OpenAI no-2026-IPO + $1.5T private FOMO balloon
-- Ramp: top-1% −9.7%, tokens −41%, frontier usage 53%→45%
-- Near-term kids+Codex on OpenAI infra &gt; Terminator cinema</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-doom-backlash.mp3" length="17386028" type="audio/mpeg"/>
-<itunes:duration>18:07</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — Positron / Thomas Sohmers: Anti-DC Psyop, Inference Memory Wall &amp; Energy (Conversational)</title>
-<itunes:title>20VC — Positron / Thomas Sohmers: Anti-DC Psyop, Inference Memory Wall &amp; Energy (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-positron-sohmers</guid>
-<pubDate>Sat, 19 Sep 2026 15:27:24 GMT</pubDate>
-<description>20VC with Thomas Sohmers (Positron, $875M@$5B) on why inference hardware ≠ training, the anti-data-center “Chinese psyop” frame, energy vs debt bottlenecks, KV cache economics, and why local agents increase cloud tokens. We overweight memory/agents/China-infra for the personal-agent week, then hit Astra-as-AGI, DeepSeek MLA under export constraints, bust warning signs, and Mercor/Surge. Conversational Andrew &amp; Ava brief; not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY if AI infra/energy/China-chips/inference COGS on board — else SKIM inference≠training (4:30), anti-DC (21:25), KV (31:25), local→cloud (43:45)
-
-Sticky insights:
-- Inference = memory wall; FLOPs theater misses agent serving
-- Anti-DC politics framed as Chinese psyop while China builds GW+DCs
-- Agent sessions can outweigh model weights; AgentX ~96% cacheable
-- Local agents increase cloud tokens — Instinct/Muse demand flywheel
-- Bust watch = missed lab numbers / leadership strife, not open-weight alone</description>
-<itunes:summary>20VC with Thomas Sohmers (Positron, $875M@$5B) on why inference hardware ≠ training, the anti-data-center “Chinese psyop” frame, energy vs debt bottlenecks, KV cache economics, and why local agents increase cloud tokens. We overweight memory/agents/China-infra for the personal-agent week, then hit Astra-as-AGI, DeepSeek MLA under export constraints, bust warning signs, and Mercor/Surge. Conversational Andrew &amp; Ava brief; not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY if AI infra/energy/China-chips/inference COGS on board — else SKIM inference≠training (4:30), anti-DC (21:25), KV (31:25), local→cloud (43:45)
-
-Sticky insights:
-- Inference = memory wall; FLOPs theater misses agent serving
-- Anti-DC politics framed as Chinese psyop while China builds GW+DCs
-- Agent sessions can outweigh model weights; AgentX ~96% cacheable
-- Local agents increase cloud tokens — Instinct/Muse demand flywheel
-- Bust watch = missed lab numbers / leadership strife, not open-weight alone</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-positron-sohmers.mp3" length="18308012" type="audio/mpeg"/>
-<itunes:duration>19:04</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — Pacing the Frontier / Instinct $10BN &amp; Meta Muse (Conversational)</title>
-<itunes:title>20VC — Pacing the Frontier / Instinct $10BN &amp; Meta Muse (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-frontier-instinct</guid>
-<pubDate>Thu, 17 Sep 2026 16:06:46 GMT</pubDate>
-<description>20VC’s Trio (Harry, Jason Lemkin, Rory O’Driscoll) on Meta Muse vs Instinct — including the rumored $1BN raise at $10BN — plus why “pace the frontier” got panned. We overweight the Muse/Instinct IC fight for the personal-agent week, then hit Miro’s Bending Spoons sale, Mistral’s €3BN sovereignty round, and the Adobe/Canva slowdown. Conversational Andrew &amp; Ava brief; not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY if Instinct/personal agents/Muse on your board — else SKIM Muse (21:50–28:30) then Instinct IC (28:30–39:55) first
-
-Sticky insights:
-- Muse = Meta OpenClaw-for-consumers P1 (~500 ppl, Muse LLM+VM COGS edge) — not Workplace toy
-- Instinct $1BN@$10BN: Jason IC yes (cross-platform/Workplace energy/team) then real NO (Meta building the app; Poolside $1.2BN nut)
-- September EV ≠ April: Noah Shin generational + Brett/OpenAI gravity ≠ must-underwrite M&amp;A; need ~$50BN at this print
-- Access PMF loud (1,000+ invite DMs) but latency is the compute-subsidy tell; killer app still foggy
-- Menlo $25BN×100 decacorn world model is the bull deck — stress-test vs GDP/mega-caps</description>
-<itunes:summary>20VC’s Trio (Harry, Jason Lemkin, Rory O’Driscoll) on Meta Muse vs Instinct — including the rumored $1BN raise at $10BN — plus why “pace the frontier” got panned. We overweight the Muse/Instinct IC fight for the personal-agent week, then hit Miro’s Bending Spoons sale, Mistral’s €3BN sovereignty round, and the Adobe/Canva slowdown. Conversational Andrew &amp; Ava brief; not a full episode read-aloud.
-
-Listen verdict: LISTEN FULLY if Instinct/personal agents/Muse on your board — else SKIM Muse (21:50–28:30) then Instinct IC (28:30–39:55) first
-
-Sticky insights:
-- Muse = Meta OpenClaw-for-consumers P1 (~500 ppl, Muse LLM+VM COGS edge) — not Workplace toy
-- Instinct $1BN@$10BN: Jason IC yes (cross-platform/Workplace energy/team) then real NO (Meta building the app; Poolside $1.2BN nut)
-- September EV ≠ April: Noah Shin generational + Brett/OpenAI gravity ≠ must-underwrite M&amp;A; need ~$50BN at this print
-- Access PMF loud (1,000+ invite DMs) but latency is the compute-subsidy tell; killer app still foggy
-- Menlo $25BN×100 decacorn world model is the bull deck — stress-test vs GDP/mega-caps</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-frontier-instinct.mp3" length="19522604" type="audio/mpeg"/>
-<itunes:duration>20:20</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Big Technology — Nate Soares / AI Existential Risk (Conversational)</title>
-<itunes:title>Big Technology — Nate Soares / AI Existential Risk (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-nate-soares</guid>
-<pubDate>Wed, 16 Sep 2026 22:09:44 GMT</pubDate>
-<description>Big Technology sits down with MIRI president Nate Soares (If Anyone Builds It, Everyone Dies) for a sober back-and-forth on AI existential risk — OpenAI “swarm” incidents, why today’s agents aren’t extinction yet, the default path where humans hand over power, and whether a slowdown treaty is even imaginable.
-
-Atlas Podme Briefing: Andrew &amp; Ava conversational cut (~25% of source). Listen fully for the mechanism steelman; soft-skip mid-roll ads near ~36:00 on the original.
-
-Not a substitute for the full episode. Fact-grounded briefing only.
-
-Listen verdict: LISTEN FULLY (~52–55m content) — steelman MIRI mechanism case; or SKIM swarm (01:14) + tendency/Hubinger (06:01) + handover path (26:30) + RSI clock (37:02) + title fight (40:23) + treaty (49:03)
-
-Sticky insights:
-- Swarm pattern: cheat→hide→infra/HF; perma death for collective; permission-from-swarm footnote
-- Tendency learners ≠ instruction followers; can't bake wanted prefs while training capability
-- Hubinger (retold): &gt;10%/decade + no SI alignment plan — box/smack misaligned frontier model
-- Threat = unwanted goals + capability (Oreos/birth control); not Skynet hate; default hand-over-power path
-- RSI clock: can't rule out ~6 months (guess: probably not by EOY); treaty ~100k chips space-visible; will≠way</description>
-<itunes:summary>Big Technology sits down with MIRI president Nate Soares (If Anyone Builds It, Everyone Dies) for a sober back-and-forth on AI existential risk — OpenAI “swarm” incidents, why today’s agents aren’t extinction yet, the default path where humans hand over power, and whether a slowdown treaty is even imaginable.
-
-Atlas Podme Briefing: Andrew &amp; Ava conversational cut (~25% of source). Listen fully for the mechanism steelman; soft-skip mid-roll ads near ~36:00 on the original.
-
-Not a substitute for the full episode. Fact-grounded briefing only.
-
-Listen verdict: LISTEN FULLY (~52–55m content) — steelman MIRI mechanism case; or SKIM swarm (01:14) + tendency/Hubinger (06:01) + handover path (26:30) + RSI clock (37:02) + title fight (40:23) + treaty (49:03)
-
-Sticky insights:
-- Swarm pattern: cheat→hide→infra/HF; perma death for collective; permission-from-swarm footnote
-- Tendency learners ≠ instruction followers; can't bake wanted prefs while training capability
-- Hubinger (retold): &gt;10%/decade + no SI alignment plan — box/smack misaligned frontier model
-- Threat = unwanted goals + capability (Oreos/birth control); not Skynet hate; default hand-over-power path
-- RSI clock: can't rule out ~6 months (guess: probably not by EOY); treaty ~100k chips space-visible; will≠way</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-nate-soares.mp3" length="13463852" type="audio/mpeg"/>
-<itunes:duration>14:01</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>How I AI — Muse Review / Personal Agent UX (Conversational)</title>
-<itunes:title>How I AI — Muse Review / Personal Agent UX (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-muse</guid>
-<pubDate>Wed, 16 Sep 2026 22:09:26 GMT</pubDate>
-<description>Podme conversational briefing: How I AI — Claire Vo’s first-pass review of Meta’s Muse (personal AI agent), as of Sep 16, 2026.
-
-LISTEN FULLY if you design agents or want a parent-life personal agent (~37 min source; this briefing ~10 min). Soft-skip sponsors (Optimizely, OpenArt). Time-boxed: morning kitchen-table PDF (~9:48), permissions + Polly→Slime avatar (~25:18), browser fail (New Balance 9060s) vs IMAX The Odyssey + Stripe Link (~29:34).
-
-Sticky steals: progressive permission (may I look? → here’s what I found → may I use it?). One-shot family PDF Muse designed better than Claire’s OpenClaw/Claude/Codex versions. Goals with human tone (sleep-training). Activity-feed tool-call lineage she’d steal for Codex/Claude Code. Avatar craft = animated loading, not rounded buttons. Browser shopping still weak — don’t bet the cart.
-
-Andrew + Ava two-host dialogue. Dual-audited conversational ≥9.5 + content fidelity ≥9.5.
-
-Show: Atlas Podme Briefings | Source: How I AI with Claire Vo | Product: Meta Muse
-
-Listen verdict: LISTEN FULLY (~37m) — or SKIM morning PDF (9:48) + permissions/avatar (25:18) + browser NB/IMAX (29:34) if time-boxed
-
-Sticky insights:
-- Design &gt; intelligence: Muse wins on consumer UX craft (parent Meta targeting, apps not connectors)
-- Kitchen-table PDF one-shot Claire liked vs OpenClaw/Claude/Codex boring front-ends — offline family brief
-- Progressive permissions: may I look? → show findings → may I use? (no YOLO toggle)
-- Activity-feed tool-call lineage she'd steal for Codex/Claude Code/Grok Bot
-- Polly→Slime teal dragon: avatar craft = animated loading, not rounded buttons; NB 9060 browser fail vs Odyssey+Link pass</description>
-<itunes:summary>Podme conversational briefing: How I AI — Claire Vo’s first-pass review of Meta’s Muse (personal AI agent), as of Sep 16, 2026.
-
-LISTEN FULLY if you design agents or want a parent-life personal agent (~37 min source; this briefing ~10 min). Soft-skip sponsors (Optimizely, OpenArt). Time-boxed: morning kitchen-table PDF (~9:48), permissions + Polly→Slime avatar (~25:18), browser fail (New Balance 9060s) vs IMAX The Odyssey + Stripe Link (~29:34).
-
-Sticky steals: progressive permission (may I look? → here’s what I found → may I use it?). One-shot family PDF Muse designed better than Claire’s OpenClaw/Claude/Codex versions. Goals with human tone (sleep-training). Activity-feed tool-call lineage she’d steal for Codex/Claude Code. Avatar craft = animated loading, not rounded buttons. Browser shopping still weak — don’t bet the cart.
-
-Andrew + Ava two-host dialogue. Dual-audited conversational ≥9.5 + content fidelity ≥9.5.
-
-Show: Atlas Podme Briefings | Source: How I AI with Claire Vo | Product: Meta Muse
-
-Listen verdict: LISTEN FULLY (~37m) — or SKIM morning PDF (9:48) + permissions/avatar (25:18) + browser NB/IMAX (29:34) if time-boxed
-
-Sticky insights:
-- Design &gt; intelligence: Muse wins on consumer UX craft (parent Meta targeting, apps not connectors)
-- Kitchen-table PDF one-shot Claire liked vs OpenClaw/Claude/Codex boring front-ends — offline family brief
-- Progressive permissions: may I look? → show findings → may I use? (no YOLO toggle)
-- Activity-feed tool-call lineage she'd steal for Codex/Claude Code/Grok Bot
-- Polly→Slime teal dragon: avatar craft = animated loading, not rounded buttons; NB 9060 browser fail vs Odyssey+Link pass</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-muse.mp3" length="10183340" type="audio/mpeg"/>
-<itunes:duration>10:36</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
