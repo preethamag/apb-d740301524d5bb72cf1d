@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 04 Nov 2026 15:13:57 GMT</lastBuildDate>
-<pubDate>Mon, 02 Nov 2026 19:02:48 GMT</pubDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:48:47 GMT</lastBuildDate>
+<pubDate>Thu, 05 Nov 2026 16:29:23 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,88 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.81 — OpenAI at $1.25T / Anthropic's Slowdown &amp; Price War / What Instinct, Grok Bot &amp; Muse Cost to Run / DoorDash–Instacart / Cognition vs Baseten vs Serval (Conversational)</title>
+<itunes:title>20VC Trio EP.81 — OpenAI at $1.25T / Anthropic's Slowdown &amp; Price War / What Instinct, Grok Bot &amp; Muse Cost to Run / DoorDash–Instacart / Cognition vs Baseten vs Serval (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-81</guid>
+<pubDate>Thu, 05 Nov 2026 16:29:23 GMT</pubDate>
+<description>Andrew and Ava brief 20VC Trio EP.81 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): OpenAI's cut to $1.25 trillion and Rory's "two securities" read; Alphabet's $500B day; Anthropic's audited quarters (~$5B, $11B, $17B) and Jason's pricing-pressure thesis; Jason's 72% cost drop on Haiku 5.5 and Jev; what Instinct, Grok Bot and Muse really cost to run ("$20 a month per user"), Elon capping Grok Bot, and Rory's "can the economics get better before the money runs out?"; DoorDash buying Instacart and agent-ordered dinners; Kalshi vs Cohere; a Chinese pen-test tool turned weapon; a three-way IC on Cognition, Baseten and Serval; Weil's collapse and Crosby's bid; Physical Intelligence at $20B; and Hugging Face antitrust worries next to Salesforce's $2.7B Cresta deal. Listen from 21:45 to 27:00 for the agent-cost fight and 10:00 to 17:50 for the Anthropic numbers.
+
+Listen verdict: SKIM (~69 min with ads; ~61.5 min of content). LISTEN FULLY: Instinct / Grok Bot / Muse running costs + "can the economics get better before the money runs out?" `00:21:46`–`00:27:06`; Anthropic quarter-by-quarter numbers + pricing pressure + Jason's Haiku 5.5/Jev 72% `00:09:56`–`00:17:53`. Skim: OpenAI cut + demand test `00:04:28`–`00:08:16`; Cognition/Baseten/Serval IC `00:41:13`–`00:51:30`; DoorDash–Instacart + agents `00:27:07`–`00:32:58`. Optional: Google `00:08:16`–`00:09:56`; Canva/shark `00:17:53`–`00:21:43`; Kalshi/Cohere/FTX `00:32:58`–`00:39:07`; pen-test tool `00:39:07`–`00:41:13`; Weil/Crosby `00:51:30`–`00:57:34`; Physical Intelligence `00:57:34`–`01:00:15`; M&amp;A `01:00:15`–`01:06:00`. Skip ads `00:01:06`–`00:04:25` and `01:06:08`–end.</description>
+<itunes:summary>Andrew and Ava brief 20VC Trio EP.81 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): OpenAI's cut to $1.25 trillion and Rory's "two securities" read; Alphabet's $500B day; Anthropic's audited quarters (~$5B, $11B, $17B) and Jason's pricing-pressure thesis; Jason's 72% cost drop on Haiku 5.5 and Jev; what Instinct, Grok Bot and Muse really cost to run ("$20 a month per user"), Elon capping Grok Bot, and Rory's "can the economics get better before the money runs out?"; DoorDash buying Instacart and agent-ordered dinners; Kalshi vs Cohere; a Chinese pen-test tool turned weapon; a three-way IC on Cognition, Baseten and Serval; Weil's collapse and Crosby's bid; Physical Intelligence at $20B; and Hugging Face antitrust worries next to Salesforce's $2.7B Cresta deal. Listen from 21:45 to 27:00 for the agent-cost fight and 10:00 to 17:50 for the Anthropic numbers.
+
+Listen verdict: SKIM (~69 min with ads; ~61.5 min of content). LISTEN FULLY: Instinct / Grok Bot / Muse running costs + "can the economics get better before the money runs out?" `00:21:46`–`00:27:06`; Anthropic quarter-by-quarter numbers + pricing pressure + Jason's Haiku 5.5/Jev 72% `00:09:56`–`00:17:53`. Skim: OpenAI cut + demand test `00:04:28`–`00:08:16`; Cognition/Baseten/Serval IC `00:41:13`–`00:51:30`; DoorDash–Instacart + agents `00:27:07`–`00:32:58`. Optional: Google `00:08:16`–`00:09:56`; Canva/shark `00:17:53`–`00:21:43`; Kalshi/Cohere/FTX `00:32:58`–`00:39:07`; pen-test tool `00:39:07`–`00:41:13`; Weil/Crosby `00:51:30`–`00:57:34`; Physical Intelligence `00:57:34`–`01:00:15`; M&amp;A `01:00:15`–`01:06:00`. Skip ads `00:01:06`–`00:04:25` and `01:06:08`–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-81.mp3" length="17220908" type="audio/mpeg"/>
+<itunes:duration>17:56</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Big Technology — Will the Democrats’ Big Win Stop the AI Buildout? Teddy Schleifer on Data-Center Bans, Texas Flipping, AI CEO Subpoenas, Wall Street’s Relief Rally, Musk’s $500M Loss &amp; the Billionaire Tax (Conversational)</title>
+<itunes:title>Big Technology — Will the Democrats’ Big Win Stop the AI Buildout? Teddy Schleifer on Data-Center Bans, Texas Flipping, AI CEO Subpoenas, Wall Street’s Relief Rally, Musk’s $500M Loss &amp; the Billionaire Tax (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-teddy-schleifer</guid>
+<pubDate>Thu, 05 Nov 2026 01:22:00 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's emergency Wednesday episode, Alex Kantrowitz with New York Times reporter Teddy Schleifer the day after the Democrats' midterm sweep (Senate 54–44, House 237–147 as counting continued): voters in at least 38 jurisdictions passing data-center bans or restrictions and the industry's first data-center super PAC losing; why Trump still signing the laws means guardrails, investigations and subpoenas rather than sweeping reform — and Alex's memory of Zuckerberg's "Senator, we run ads" hearing; Texas, home to roughly 30% of data-center development, electing a Democratic governor; Wall Street adding nearly a trillion dollars to big tech on the bet a Democratic Congress will slow AI spending; Elon Musk's roughly $500 million midterm loss; and California's billionaire tax, beaten by more than $330 million in tech money. Listen from 4:50 to 7:40 and 18:30 to 23:30 for the data-center and Texas segments.
+
+Listen verdict: SKIM (~37 min with ads; ~32 min content). LISTEN FULLY: data-center bans + super PAC `00:04:52`–`00:07:40`; Texas flip + compute shortage + Bloomberg rally `00:18:37`–`00:23:36`. Skim: opening + 'bygone era' `00:02:00`–`00:04:52`; investigations + perfect storm `00:08:22`–`00:14:55`; subpoenas/Zuckerberg `00:15:58`–`00:18:37`; Musk `00:25:55`–`00:30:07`; billionaire tax `00:30:07`–`00:32:49`; legislation + 23% poll `00:32:49`–`00:35:17`. Skip ads `00:00:11`–`00:01:58`, `00:23:50`–`00:25:55`, `00:35:48`–end.
+
+Sticky insights:
+- Voters in at least 38 jurisdictions passed data-center bans or restrictions (WaPo); Teddy: 'as close to a national referendum as you're going to get'; the industry's first data-center super PAC lost its main race; AI politics narrows into data-center fights
+- Texas (~30% of data-center development, per a stat Teddy saw) elected a Democratic governor — Gina Hinojosa ran against data centers and beat Greg Abbott despite Musk's $5M; Alex: amid 'a pretty big compute shortage'
+- Bloomberg: Big Tech soared (Amazon +8.3%, Microsoft +7%, Alphabet ~+6%, Meta +3.6%, Apple +6%+; ~$1T in a day) on the bet a Democratic Congress slows AI spending eating free cash flow
+- With Trump still signing bills: guardrails, investigations and subpoenas (Markey's 'new forests'), not sweeping law; Alex's Zuckerberg-hearing counterpoint — spectacle, no consequence; six-year terms make it durable
+- Musk's ~$500M+ midterm spend 'a dramatic failure'; the one tech-money win: California's one-time 5% billionaire tax beaten by $330M+ into a Sergey Brin-linked nonprofit</description>
+<itunes:summary>Andrew and Ava brief Big Technology's emergency Wednesday episode, Alex Kantrowitz with New York Times reporter Teddy Schleifer the day after the Democrats' midterm sweep (Senate 54–44, House 237–147 as counting continued): voters in at least 38 jurisdictions passing data-center bans or restrictions and the industry's first data-center super PAC losing; why Trump still signing the laws means guardrails, investigations and subpoenas rather than sweeping reform — and Alex's memory of Zuckerberg's "Senator, we run ads" hearing; Texas, home to roughly 30% of data-center development, electing a Democratic governor; Wall Street adding nearly a trillion dollars to big tech on the bet a Democratic Congress will slow AI spending; Elon Musk's roughly $500 million midterm loss; and California's billionaire tax, beaten by more than $330 million in tech money. Listen from 4:50 to 7:40 and 18:30 to 23:30 for the data-center and Texas segments.
+
+Listen verdict: SKIM (~37 min with ads; ~32 min content). LISTEN FULLY: data-center bans + super PAC `00:04:52`–`00:07:40`; Texas flip + compute shortage + Bloomberg rally `00:18:37`–`00:23:36`. Skim: opening + 'bygone era' `00:02:00`–`00:04:52`; investigations + perfect storm `00:08:22`–`00:14:55`; subpoenas/Zuckerberg `00:15:58`–`00:18:37`; Musk `00:25:55`–`00:30:07`; billionaire tax `00:30:07`–`00:32:49`; legislation + 23% poll `00:32:49`–`00:35:17`. Skip ads `00:00:11`–`00:01:58`, `00:23:50`–`00:25:55`, `00:35:48`–end.
+
+Sticky insights:
+- Voters in at least 38 jurisdictions passed data-center bans or restrictions (WaPo); Teddy: 'as close to a national referendum as you're going to get'; the industry's first data-center super PAC lost its main race; AI politics narrows into data-center fights
+- Texas (~30% of data-center development, per a stat Teddy saw) elected a Democratic governor — Gina Hinojosa ran against data centers and beat Greg Abbott despite Musk's $5M; Alex: amid 'a pretty big compute shortage'
+- Bloomberg: Big Tech soared (Amazon +8.3%, Microsoft +7%, Alphabet ~+6%, Meta +3.6%, Apple +6%+; ~$1T in a day) on the bet a Democratic Congress slows AI spending eating free cash flow
+- With Trump still signing bills: guardrails, investigations and subpoenas (Markey's 'new forests'), not sweeping law; Alex's Zuckerberg-hearing counterpoint — spectacle, no consequence; six-year terms make it durable
+- Musk's ~$500M+ midterm spend 'a dramatic failure'; the one tech-money win: California's one-time 5% billionaire tax beaten by $330M+ into a Sergey Brin-linked nonprofit</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-teddy-schleifer.mp3" length="12234668" type="audio/mpeg"/>
+<itunes:duration>12:45</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Moonshots #308 — Big Tech’s $3T Bet &amp; Nervous Lenders, Claude Writes 90% of Anthropic’s Code, AIs Editing AI Weights, the Errands Benchmark &amp; the Freezer Hack (Conversational)</title>
+<itunes:title>Moonshots #308 — Big Tech’s $3T Bet &amp; Nervous Lenders, Claude Writes 90% of Anthropic’s Code, AIs Editing AI Weights, the Errands Benchmark &amp; the Freezer Hack (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-308</guid>
+<pubDate>Wed, 04 Nov 2026 22:36:00 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots #308 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross (recorded on election day, Nov 3, 2026): Big Tech's $3 trillion in AI commitments as lenders demand tougher terms, OpenAI trims its round and investors buy protection — plus Elon's 8%-vs-15% jab, rising prices on three-year-old H100s and Alex's "insurance is next"; SemiAnalysis's GDPX, a "trial day at a real job" where the best model scores 12%; OpenAI's everyday-errands benchmark jumping from 49 to 81 in nine months, Dave's four-hour insurance call and "Metamuse is imminent"; Anthropic's filing showing internal Claude usage worth more than payroll at list price and Claude writing 90%+ of its code; MIT's paper on AIs editing other AIs' weights (a 0.016% edit taking a math score from 7.9% to 48.1%); hackers defrosting Europe's supermarket freezers; a positron held for a month; Artemis III and IV; and an AMA on longevity costs, purpose, empathy and robots. Muse and Grok come up as everyday assistants; Grok Bot, Instinct and Town are not named. Listen from 49:00 to 1:14:00 for the Anthropic and weight-editing segments.
+
+Listen verdict: SKIM (~1h54m with ads). LISTEN FULLY: Anthropic RSI line item `00:49:17`–`00:56:28`; MIT weight editing + SSI `01:02:05`–`01:14:02`. Skim: $3T bet + insurance `00:18:01`–`00:29:24`; GDPX + LifeVal + Muse/four-hour call `00:29:52`–`00:49:15`. Optional: election + Apple/RAM cold open `00:00:00`–`00:13:45`; freezer hack `01:14:02`–`01:19:04`; antimatter `01:20:57`–`01:26:37`; Artemis `01:26:38`–`01:33:58`; AMA `01:34:58`–`01:51:54`. Skip intros, ads, outro song.
+
+Sticky insights:
+- Anthropic's amended S-1 makes recursive self-improvement a line item: internal Claude usage at list price exceeds monthly cash payroll since April, grew 250×+ Jan→Sept, and Claude wrote 90%+ of September's code (Dave: ~'a buck a day' per human-equivalent; Alex: 'yes and no')
+- MIT CSAIL 'Sparks of Weight Space Programming': GPT-6 Astra edited 0.016% of a small open model's weights and its math score went 7.9% → 48.1% with no retraining; Alex 90%+ confident frontier labs already self-edit; Dave: a 'Hugging Face' of swappable neural modules
+- Five tech giants have disclosed $3T+ in AI commitments (~10 Apollo programs) while lenders tighten, OpenAI cut its round to ~$20B, HSBC offloads loan risk and CoreWeave puts hit a record; H100 prices rising; Alex: insurance capital is next
+- OpenAI's LifeVal errands benchmark went 49.3 → 80.6 in nine months, but Dave's analyst still spent four hours on the phone moving insurance — the models can do errands, the pipes aren't connected; SemiAnalysis GDPX tops out at 12%
+- Build the benchmark for what you care about (Peter/Alex, Solve Everything): 'if you can't measure it, you can't optimize it'; plus the European freezer hack — '1990s security on 2026 connectivity'</description>
+<itunes:summary>Andrew and Ava brief Moonshots #308 with Peter Diamandis, Salim Ismail, Dave Blundin and Alex Wissner-Gross (recorded on election day, Nov 3, 2026): Big Tech's $3 trillion in AI commitments as lenders demand tougher terms, OpenAI trims its round and investors buy protection — plus Elon's 8%-vs-15% jab, rising prices on three-year-old H100s and Alex's "insurance is next"; SemiAnalysis's GDPX, a "trial day at a real job" where the best model scores 12%; OpenAI's everyday-errands benchmark jumping from 49 to 81 in nine months, Dave's four-hour insurance call and "Metamuse is imminent"; Anthropic's filing showing internal Claude usage worth more than payroll at list price and Claude writing 90%+ of its code; MIT's paper on AIs editing other AIs' weights (a 0.016% edit taking a math score from 7.9% to 48.1%); hackers defrosting Europe's supermarket freezers; a positron held for a month; Artemis III and IV; and an AMA on longevity costs, purpose, empathy and robots. Muse and Grok come up as everyday assistants; Grok Bot, Instinct and Town are not named. Listen from 49:00 to 1:14:00 for the Anthropic and weight-editing segments.
+
+Listen verdict: SKIM (~1h54m with ads). LISTEN FULLY: Anthropic RSI line item `00:49:17`–`00:56:28`; MIT weight editing + SSI `01:02:05`–`01:14:02`. Skim: $3T bet + insurance `00:18:01`–`00:29:24`; GDPX + LifeVal + Muse/four-hour call `00:29:52`–`00:49:15`. Optional: election + Apple/RAM cold open `00:00:00`–`00:13:45`; freezer hack `01:14:02`–`01:19:04`; antimatter `01:20:57`–`01:26:37`; Artemis `01:26:38`–`01:33:58`; AMA `01:34:58`–`01:51:54`. Skip intros, ads, outro song.
+
+Sticky insights:
+- Anthropic's amended S-1 makes recursive self-improvement a line item: internal Claude usage at list price exceeds monthly cash payroll since April, grew 250×+ Jan→Sept, and Claude wrote 90%+ of September's code (Dave: ~'a buck a day' per human-equivalent; Alex: 'yes and no')
+- MIT CSAIL 'Sparks of Weight Space Programming': GPT-6 Astra edited 0.016% of a small open model's weights and its math score went 7.9% → 48.1% with no retraining; Alex 90%+ confident frontier labs already self-edit; Dave: a 'Hugging Face' of swappable neural modules
+- Five tech giants have disclosed $3T+ in AI commitments (~10 Apollo programs) while lenders tighten, OpenAI cut its round to ~$20B, HSBC offloads loan risk and CoreWeave puts hit a record; H100 prices rising; Alex: insurance capital is next
+- OpenAI's LifeVal errands benchmark went 49.3 → 80.6 in nine months, but Dave's analyst still spent four hours on the phone moving insurance — the models can do errands, the pipes aren't connected; SemiAnalysis GDPX tops out at 12%
+- Build the benchmark for what you care about (Peter/Alex, Solve Everything): 'if you can't measure it, you can't optimize it'; plus the European freezer hack — '1990s security on 2026 connectivity'</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-308.mp3" length="30404396" type="audio/mpeg"/>
+<itunes:duration>31:40</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — Ezra Mechaber (Figma): PM OS, 31 Shared Skills, AutoXP's One Human Checkpoint &amp; a Real-Time Writing Assistant (Conversational)</title>
 <itunes:title>How I AI — Ezra Mechaber (Figma): PM OS, 31 Shared Skills, AutoXP's One Human Checkpoint &amp; a Real-Time Writing Assistant (Conversational)</itunes:title>
@@ -1707,94 +1789,6 @@ Sticky insights:
 - Grok Bot paradigm named; Claire running 40 Grok bots; Town/Instinct not named</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-jev-lindquist.mp3" length="11423660" type="audio/mpeg"/>
 <itunes:duration>11:54</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #296 — Cathie Wood: Tesla-SpaceX Merger, $1M Bitcoin, More AIs Than Humans (Conversational)</title>
-<itunes:title>Moonshots #296 — Cathie Wood: Tesla-SpaceX Merger, $1M Bitcoin, More AIs Than Humans (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-296</guid>
-<pubDate>Tue, 29 Sep 2026 15:26:04 GMT</pubDate>
-<description>Moonshots Live #296 with Cathie Wood (ARK) and Nikhil Chandhok (Circle). Atlas conversational brief (~15 min of a ~60 min source).
-
-Tesla–SpaceX merger timing and Elon’s orbital AI stack. Nikhil’s “more AIs than humans next year” — Muse, Instinct, and Grok Bot named on mic. USDC, Genius Act, and why agents need settlement rails. Proof of humanity, multi-omics/Moderna, agent personhood, Arc vs banks. Humanoids 200,000× harder than robotaxis. America bull, dollar export via stablecoins, Cathie’s unchanged $1M Bitcoin call.
-
-Andrew ↔ Ava. Dual-audit conversational ≥9.5 / content ≥9.5.
-
-Listen verdict: LISTEN FULLY (~60 min) if Tesla–SpaceX stack / agent rails (USDC·Genius Act·Arc) / Muse·Instinct·Grok mass-scale / multi-omics / $1M BTC matter — else SKIM merger+orbital AI (00:00–06:00) · more AIs than humans+identity/USDC (06:00–18:00) · proof-of-humanity+multi-omics/Moderna (18:00–26:00) · personhood/DAOs+Arc (26:00–39:30) · humanoids vs robotaxi (39:30–44:30) · fear/America bull+tokenization+BTC (44:30–59:40); soft-skip Roadster Oct1 · XPRIZE thanks · Abundance 360 · Big Ideas promo · LinkedIn ad
-
-Sticky insights:
-- Tesla–SpaceX combo this year; Mars via Starlink/xAI/orbital DCs
-- More AIs than humans next year; Muse/Instinct/Grok named on-mic
-- USDC+$100T; Genius Act Jan; Arc finality/validators/sub-cent settle
-- Multi-omics/Moderna wake-up; humanoid 200k× vs robotaxi (Elon late-28 vs ARK +yrs)
-- America bull + dollar export; Cathie holds $1M Bitcoin forecast</description>
-<itunes:summary>Moonshots Live #296 with Cathie Wood (ARK) and Nikhil Chandhok (Circle). Atlas conversational brief (~15 min of a ~60 min source).
-
-Tesla–SpaceX merger timing and Elon’s orbital AI stack. Nikhil’s “more AIs than humans next year” — Muse, Instinct, and Grok Bot named on mic. USDC, Genius Act, and why agents need settlement rails. Proof of humanity, multi-omics/Moderna, agent personhood, Arc vs banks. Humanoids 200,000× harder than robotaxis. America bull, dollar export via stablecoins, Cathie’s unchanged $1M Bitcoin call.
-
-Andrew ↔ Ava. Dual-audit conversational ≥9.5 / content ≥9.5.
-
-Listen verdict: LISTEN FULLY (~60 min) if Tesla–SpaceX stack / agent rails (USDC·Genius Act·Arc) / Muse·Instinct·Grok mass-scale / multi-omics / $1M BTC matter — else SKIM merger+orbital AI (00:00–06:00) · more AIs than humans+identity/USDC (06:00–18:00) · proof-of-humanity+multi-omics/Moderna (18:00–26:00) · personhood/DAOs+Arc (26:00–39:30) · humanoids vs robotaxi (39:30–44:30) · fear/America bull+tokenization+BTC (44:30–59:40); soft-skip Roadster Oct1 · XPRIZE thanks · Abundance 360 · Big Ideas promo · LinkedIn ad
-
-Sticky insights:
-- Tesla–SpaceX combo this year; Mars via Starlink/xAI/orbital DCs
-- More AIs than humans next year; Muse/Instinct/Grok named on-mic
-- USDC+$100T; Genius Act Jan; Arc finality/validators/sub-cent settle
-- Multi-omics/Moderna wake-up; humanoid 200k× vs robotaxi (Elon late-28 vs ARK +yrs)
-- America bull + dollar export; Cathie holds $1M Bitcoin forecast</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-296.mp3" length="17902508" type="audio/mpeg"/>
-<itunes:duration>18:39</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Moonshots #295 — Palmer Luckey: Autonomous Weapons Are Ancient, Why Anduril Won't Build Humanoids (Conversational)</title>
-<itunes:title>Moonshots #295 — Palmer Luckey: Autonomous Weapons Are Ancient, Why Anduril Won't Build Humanoids (Conversational)</itunes:title>
-<guid isPermaLink="false">moonshots-295</guid>
-<pubDate>Mon, 28 Sep 2026 15:32:30 GMT</pubDate>
-<description>Atlas Podme Briefing — Moonshots #295 (Palmer Luckey / Anduril)
-
-Live Moonshots summit open with Peter, Dave, Salim, AWG, and Palmer Luckey. Wildfire XPRIZE win + a teased $10M animal-communication prize. P(doom) low — misuse by evil people with mid AI is the worry. Autonomy must live forward (central C2 = Naboo droid failure mode); autonomous weapons are ancient. Consumer foundation models are the wrong stack for weapons/sensors. Anduril won’t build humanoids because he believes in them. Product-company defense vs five-prime cartel. Carmack 1% logic. Meta VR finally closer. Founder advice: Mod Retro → craft mourning → AI doesn’t soon replace the founder job.
-
-Andrew ↔ Ava conversational cut (~25% of source). Dual-audit: conversational 9.5 · content 9.6.
-
-LISTEN FULLY (~37 min source) if defense autonomy / AI-risk / Anduril product thesis / humanoid skip / Meta VR matter — else SKIM Wildfire+animal XPRIZE · P(doom)+misuse · autonomy ancient+forward · no FM missiles / no defense humanoids · product co + Carmack · Meta VR + founder advice.
-
-Not affiliated with Moonshots / PHD Ventures. For Preetham’s Atlas Podme Briefings.
-
-Listen verdict: LISTEN FULLY (~37 min) if defense autonomy / AI-risk / Anduril product thesis / humanoid skip / Meta VR matter — else SKIM Wildfire+animal XPRIZE (00:00–05:10) · P(doom)+misuse (05:10–07:22) · autonomy ancient+forward (07:22–11:41) · no FM missiles / no defense humanoids (11:41–18:42) · product co + Carmack 1% (18:42–24:29) · Meta VR + founder advice (27:41–36:09); soft-skip Skippy/intercom · B-boys Slack theater · closing company banner
-
-Sticky insights:
-- P(doom)=misuse not rogue; AI doom low; calories-scale upside
-- Autonomy forward (Naboo C2); autonomous weapons ancient
-- Consumer FMs wrong for weapons; Anduril AI since 2017
-- Won't build humanoids because he believes in them (marginal impact)
-- Product co vs 5-prime MDAPs; Carmack 1%; Meta VR + founder advice</description>
-<itunes:summary>Atlas Podme Briefing — Moonshots #295 (Palmer Luckey / Anduril)
-
-Live Moonshots summit open with Peter, Dave, Salim, AWG, and Palmer Luckey. Wildfire XPRIZE win + a teased $10M animal-communication prize. P(doom) low — misuse by evil people with mid AI is the worry. Autonomy must live forward (central C2 = Naboo droid failure mode); autonomous weapons are ancient. Consumer foundation models are the wrong stack for weapons/sensors. Anduril won’t build humanoids because he believes in them. Product-company defense vs five-prime cartel. Carmack 1% logic. Meta VR finally closer. Founder advice: Mod Retro → craft mourning → AI doesn’t soon replace the founder job.
-
-Andrew ↔ Ava conversational cut (~25% of source). Dual-audit: conversational 9.5 · content 9.6.
-
-LISTEN FULLY (~37 min source) if defense autonomy / AI-risk / Anduril product thesis / humanoid skip / Meta VR matter — else SKIM Wildfire+animal XPRIZE · P(doom)+misuse · autonomy ancient+forward · no FM missiles / no defense humanoids · product co + Carmack · Meta VR + founder advice.
-
-Not affiliated with Moonshots / PHD Ventures. For Preetham’s Atlas Podme Briefings.
-
-Listen verdict: LISTEN FULLY (~37 min) if defense autonomy / AI-risk / Anduril product thesis / humanoid skip / Meta VR matter — else SKIM Wildfire+animal XPRIZE (00:00–05:10) · P(doom)+misuse (05:10–07:22) · autonomy ancient+forward (07:22–11:41) · no FM missiles / no defense humanoids (11:41–18:42) · product co + Carmack 1% (18:42–24:29) · Meta VR + founder advice (27:41–36:09); soft-skip Skippy/intercom · B-boys Slack theater · closing company banner
-
-Sticky insights:
-- P(doom)=misuse not rogue; AI doom low; calories-scale upside
-- Autonomy forward (Naboo C2); autonomous weapons ancient
-- Consumer FMs wrong for weapons; Anduril AI since 2017
-- Won't build humanoids because he believes in them (marginal impact)
-- Product co vs 5-prime MDAPs; Carmack 1%; Meta VR + founder advice</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-295.mp3" length="11628332" type="audio/mpeg"/>
-<itunes:duration>12:07</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
