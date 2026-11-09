@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 09 Nov 2026 06:17:45 GMT</lastBuildDate>
-<pubDate>Sun, 08 Nov 2026 16:17:23 GMT</pubDate>
+<lastBuildDate>Mon, 09 Nov 2026 16:33:43 GMT</lastBuildDate>
+<pubDate>Mon, 09 Nov 2026 16:33:01 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — William Imoh (Hackmamba): Building Mural, a Better Duolingo, with Codex &amp; Running a Company with a Lord of the Rings Grok Bot Fellowship (Conversational)</title>
+<itunes:title>How I AI — William Imoh (Hackmamba): Building Mural, a Better Duolingo, with Codex &amp; Running a Company with a Lord of the Rings Grok Bot Fellowship (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-william-imoh</guid>
+<pubDate>Mon, 09 Nov 2026 16:33:01 GMT</pubDate>
+<description>Andrew and Ava brief How I AI with William Imoh, solo founder of Hackmamba (a ~25-person developer marketing company) and creator of Mural, a real-time voice app he built to learn Norwegian after a 1,000-day Duolingo streak left him unable to hold a conversation: why polite Norwegians switching to English kills the feedback loop; building native Swift and Kotlin apps with Codex having never written Swift; the first prompt (aesthetic opener, GPT-Live-1, an autumn-colored orb, "senior designer at Apple", ruthless minimalism) and the dark-mode miss; Claire Vo on taste as design and product vocabulary; a live demo where the app refuses to speak English; about $3–5 per 30 minutes to run; his "100x" mandate; ChatGPT/Codex projects and a Sunday operator brief; his Lord of the Rings Grok Bot "fellowship" (Gandalf as chief of staff) that "gave me colleagues, whereas with ChatGPT and Codex I got folders"; giving agents access to everything except write access to the bank; ThreePipes and the systems-of-record thesis; his few remaining skills; Grok Bot driving his Cursor agent; and why his real fear is dependence on agents.
+
+Listen verdict: SKIM, with one LISTEN stretch: Grok Bot fellowship, access-to-everything-but-the-bank, ThreePipes and skills 28:47–34:33. Also good: first prompt 08:28–11:41 and Claire on taste 11:44–13:28; dependency fear 36:36–37:14. Skip teaser 00:00–01:05, WorkOS 01:44–02:52, Vanta 20:02–21:09.</description>
+<itunes:summary>Andrew and Ava brief How I AI with William Imoh, solo founder of Hackmamba (a ~25-person developer marketing company) and creator of Mural, a real-time voice app he built to learn Norwegian after a 1,000-day Duolingo streak left him unable to hold a conversation: why polite Norwegians switching to English kills the feedback loop; building native Swift and Kotlin apps with Codex having never written Swift; the first prompt (aesthetic opener, GPT-Live-1, an autumn-colored orb, "senior designer at Apple", ruthless minimalism) and the dark-mode miss; Claire Vo on taste as design and product vocabulary; a live demo where the app refuses to speak English; about $3–5 per 30 minutes to run; his "100x" mandate; ChatGPT/Codex projects and a Sunday operator brief; his Lord of the Rings Grok Bot "fellowship" (Gandalf as chief of staff) that "gave me colleagues, whereas with ChatGPT and Codex I got folders"; giving agents access to everything except write access to the bank; ThreePipes and the systems-of-record thesis; his few remaining skills; Grok Bot driving his Cursor agent; and why his real fear is dependence on agents.
+
+Listen verdict: SKIM, with one LISTEN stretch: Grok Bot fellowship, access-to-everything-but-the-bank, ThreePipes and skills 28:47–34:33. Also good: first prompt 08:28–11:41 and Claire on taste 11:44–13:28; dependency fear 36:36–37:14. Skip teaser 00:00–01:05, WorkOS 01:44–02:52, Vanta 20:02–21:09.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-william-imoh.mp3" length="12226988" type="audio/mpeg"/>
+<itunes:duration>12:44</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Lenny's — Tulsee Doshi (Google / Gemini): What It Actually Takes to Build Frontier Models — Snape's Potions Class, 60-20-20, First Evals, and Why Lenny Is Grok Botting (Conversational)</title>
 <itunes:title>Lenny's — Tulsee Doshi (Google / Gemini): What It Actually Takes to Build Frontier Models — Snape's Potions Class, 60-20-20, First Evals, and Why Lenny Is Grok Botting (Conversational)</itunes:title>
