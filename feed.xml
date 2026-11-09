@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 09 Nov 2026 16:33:43 GMT</lastBuildDate>
-<pubDate>Mon, 09 Nov 2026 16:33:01 GMT</pubDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:00:03 GMT</lastBuildDate>
+<pubDate>Mon, 09 Nov 2026 18:59:56 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Arthur Mensch (Mistral): Sovereign AI as Economics, Why Energy Isn't the Bottleneck Yet, and Closed Labs Coming for Your Business (Conversational)</title>
+<itunes:title>20VC — Arthur Mensch (Mistral): Sovereign AI as Economics, Why Energy Isn't the Bottleneck Yet, and Closed Labs Coming for Your Business (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-mistral-mensch</guid>
+<pubDate>Mon, 09 Nov 2026 18:59:56 GMT</pubDate>
+<description>Andrew and Ava brief 20VC with Arthur Mensch, co-founder and CEO of Mistral, the French AI lab Harry introduces as Europe's last hope for a frontier lab: why sovereign AI is an economics argument (money spent on AI should land close to home) and its three ingredients (your own model maker, control of your data, your own compute); whether Chinese open-weight models are safe ("models are compression of knowledge"; backdoors "very theoretical") and why ~80% of Mistral's traffic is its own models; export controls turning model supply into a security issue; his warning that closed labs will use customers' data to go after their business; why energy is only ~10% of compute cost and becomes the bottleneck around 2029–2030; building a cloud as an industrial process; no Mistral chip; forward-deployed engineers and why agents running whole business processes beat chatbots; agents needing CPUs, sandboxes and storage; inference as a commodity with a premium tier; NeoLabs and compute scarcity; the data wall and the AI stock sell-off; GDP needing production, not just intelligence; and a European IPO "at some point."
+
+Listen verdict: SKIM (mostly). LISTEN FULLY: open-model safety, 80% own-model traffic and export controls 08:52–12:59; closed labs will come for your business 13:03–14:41; energy ~10% of compute cost, bottleneck ~2029–30 14:41–17:31. Skim: cloud as industrial process 17:35–20:20; FDEs, runtime and CPU sandboxes 24:04–29:47; inference market and NeoLabs 30:25–35:28; data wall, stock sell-off, ill-defined problems 35:28–39:55. Optional: quickfire and IPO 42:45–46:28. Skip ads 00:47–03:52 and 46:28–end.</description>
+<itunes:summary>Andrew and Ava brief 20VC with Arthur Mensch, co-founder and CEO of Mistral, the French AI lab Harry introduces as Europe's last hope for a frontier lab: why sovereign AI is an economics argument (money spent on AI should land close to home) and its three ingredients (your own model maker, control of your data, your own compute); whether Chinese open-weight models are safe ("models are compression of knowledge"; backdoors "very theoretical") and why ~80% of Mistral's traffic is its own models; export controls turning model supply into a security issue; his warning that closed labs will use customers' data to go after their business; why energy is only ~10% of compute cost and becomes the bottleneck around 2029–2030; building a cloud as an industrial process; no Mistral chip; forward-deployed engineers and why agents running whole business processes beat chatbots; agents needing CPUs, sandboxes and storage; inference as a commodity with a premium tier; NeoLabs and compute scarcity; the data wall and the AI stock sell-off; GDP needing production, not just intelligence; and a European IPO "at some point."
+
+Listen verdict: SKIM (mostly). LISTEN FULLY: open-model safety, 80% own-model traffic and export controls 08:52–12:59; closed labs will come for your business 13:03–14:41; energy ~10% of compute cost, bottleneck ~2029–30 14:41–17:31. Skim: cloud as industrial process 17:35–20:20; FDEs, runtime and CPU sandboxes 24:04–29:47; inference market and NeoLabs 30:25–35:28; data wall, stock sell-off, ill-defined problems 35:28–39:55. Optional: quickfire and IPO 42:45–46:28. Skip ads 00:47–03:52 and 46:28–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-mistral-mensch.mp3" length="13690412" type="audio/mpeg"/>
+<itunes:duration>14:16</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — William Imoh (Hackmamba): Building Mural, a Better Duolingo, with Codex &amp; Running a Company with a Lord of the Rings Grok Bot Fellowship (Conversational)</title>
 <itunes:title>How I AI — William Imoh (Hackmamba): Building Mural, a Better Duolingo, with Codex &amp; Running a Company with a Lord of the Rings Grok Bot Fellowship (Conversational)</itunes:title>
