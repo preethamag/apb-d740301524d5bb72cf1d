@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 09 Nov 2026 19:00:03 GMT</lastBuildDate>
-<pubDate>Mon, 09 Nov 2026 18:59:56 GMT</pubDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:08:49 GMT</lastBuildDate>
+<pubDate>Mon, 09 Nov 2026 22:08:47 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Jensen and The Honeypot: Nvidia's CEO, an Alleged Chinese Spy, Why Intent Doesn't Matter, Export-Control Credibility, the Coming Hearings &amp; Alex's Bet That Jensen Stays (Conversational)</title>
+<itunes:title>Big Technology — Jensen and The Honeypot: Nvidia's CEO, an Alleged Chinese Spy, Why Intent Doesn't Matter, Export-Control Credibility, the Coming Hearings &amp; Alex's Bet That Jensen Stays (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-jensen-honeypot</guid>
+<pubDate>Mon, 09 Nov 2026 22:08:47 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's emergency solo episode, "Jensen and The Honeypot," in which Alex Kantrowitz digs into Nvidia CEO Jensen Huang admitting an affair with Alice, a former Megaspeed International executive whom U.S. officials believe was sharing information with Chinese intelligence: the board investigation and Jensen's apology; Megaspeed's GPU pitch to China-based investors; why Jensen has always wanted China on the U.S. chip stack; why Alex calls Jensen the ultimate single point of failure and rejects the "simple affair" take; Bill Bishop's question about whether she was ever alone with his phone; how the scandal guts Jensen's credibility on export controls (H200s, the Dario fight, Dwarkesh); why Democrats' new Congress makes him the first hearing target; why China might see a honeypot as win-win; the winners (Dario and Google's new TPU variants); and Alex's bet that Jensen stays, weakened.
+
+Listen verdict: SKIM, with one LISTEN stretch: the hearings and why-would-China-do-it 14:37–19:38. Also good: Alex's verdict (will Jensen stay, AI's invincibility streak) 21:17–26:24. Optional: Bill Bishop's phone/computer point and the board quote 09:29–11:43; export-control credibility (H200s, Dario, Dwarkesh) 11:43–14:37. Skip ads 26:24–end. No pre-roll.</description>
+<itunes:summary>Andrew and Ava brief Big Technology's emergency solo episode, "Jensen and The Honeypot," in which Alex Kantrowitz digs into Nvidia CEO Jensen Huang admitting an affair with Alice, a former Megaspeed International executive whom U.S. officials believe was sharing information with Chinese intelligence: the board investigation and Jensen's apology; Megaspeed's GPU pitch to China-based investors; why Jensen has always wanted China on the U.S. chip stack; why Alex calls Jensen the ultimate single point of failure and rejects the "simple affair" take; Bill Bishop's question about whether she was ever alone with his phone; how the scandal guts Jensen's credibility on export controls (H200s, the Dario fight, Dwarkesh); why Democrats' new Congress makes him the first hearing target; why China might see a honeypot as win-win; the winners (Dario and Google's new TPU variants); and Alex's bet that Jensen stays, weakened.
+
+Listen verdict: SKIM, with one LISTEN stretch: the hearings and why-would-China-do-it 14:37–19:38. Also good: Alex's verdict (will Jensen stay, AI's invincibility streak) 21:17–26:24. Optional: Bill Bishop's phone/computer point and the board quote 09:29–11:43; export-control credibility (H200s, Dario, Dwarkesh) 11:43–14:37. Skip ads 26:24–end. No pre-roll.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-jensen-honeypot.mp3" length="9164972" type="audio/mpeg"/>
+<itunes:duration>9:33</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Arthur Mensch (Mistral): Sovereign AI as Economics, Why Energy Isn't the Bottleneck Yet, and Closed Labs Coming for Your Business (Conversational)</title>
 <itunes:title>20VC — Arthur Mensch (Mistral): Sovereign AI as Economics, Why Energy Isn't the Bottleneck Yet, and Closed Labs Coming for Your Business (Conversational)</itunes:title>
