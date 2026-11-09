@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 09 Nov 2026 22:08:49 GMT</lastBuildDate>
-<pubDate>Mon, 09 Nov 2026 22:08:47 GMT</pubDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:21:43 GMT</lastBuildDate>
+<pubDate>Mon, 09 Nov 2026 22:21:35 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — Claire Vo Reviews Claude Fable 5.2: Fast, Creative, Finally Not Annoying, Fable vs Opus 5.5 Routing, a Tweet-to-Video Demo, Flat-Pack Furniture &amp; Her 3D Typewriter (Conversational)</title>
+<itunes:title>How I AI — Claire Vo Reviews Claude Fable 5.2: Fast, Creative, Finally Not Annoying, Fable vs Opus 5.5 Routing, a Tweet-to-Video Demo, Flat-Pack Furniture &amp; Her 3D Typewriter (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-claude-fable-5-2</guid>
+<pubDate>Mon, 09 Nov 2026 22:21:35 GMT</pubDate>
+<description>Andrew and Ava brief a solo How I AI where Claire Vo reviews Anthropic's new Claude Fable 5.2 after two days of building with it: why the self-described "Claude hater" left for Codex and is now back on Claude Code; what launched (Fable 5.2 plus Claude Mythos 5.2, the same model for cybersecurity and life sciences) and why Anthropic still points daily work at Opus 5.5; her pros (very fast, autonomous, creative, strong on long engineering tasks) and cons (weak web design taste, no image generation); turning one tweet and a brand guide into an animated video that doesn't look like slides; animated invader-bot sprites no other model could pull off; flat-pack furniture assembled from blurry photos with no manual; a bug-factory game with a token-bill trailer; a half-finished re-architecture of ChatPRD's product intelligence pipeline; and Claire's 3D typewriter, her "AGI moment." Plus availability, fast mode, Fable resets, and the price she never gave.
+
+Listen verdict: SKIM (solo first-impressions review, mostly visual demos). LISTEN 00:00–02:30 (Claude-hater confession, why she left for Codex and came back) and 04:52–07:00 (pros/cons and Fable-vs-Opus 5.5 routing). Watch on YouTube if you can: 07:02–11:08 (tweet-to-video, invader-bot animation) and 17:50–22:40 (3D typewriter). Quick facts: furniture 11:08–12:40, ChatPRD migration 14:55–16:35, availability 23:14–24:14. Skip outro 24:15–end.</description>
+<itunes:summary>Andrew and Ava brief a solo How I AI where Claire Vo reviews Anthropic's new Claude Fable 5.2 after two days of building with it: why the self-described "Claude hater" left for Codex and is now back on Claude Code; what launched (Fable 5.2 plus Claude Mythos 5.2, the same model for cybersecurity and life sciences) and why Anthropic still points daily work at Opus 5.5; her pros (very fast, autonomous, creative, strong on long engineering tasks) and cons (weak web design taste, no image generation); turning one tweet and a brand guide into an animated video that doesn't look like slides; animated invader-bot sprites no other model could pull off; flat-pack furniture assembled from blurry photos with no manual; a bug-factory game with a token-bill trailer; a half-finished re-architecture of ChatPRD's product intelligence pipeline; and Claire's 3D typewriter, her "AGI moment." Plus availability, fast mode, Fable resets, and the price she never gave.
+
+Listen verdict: SKIM (solo first-impressions review, mostly visual demos). LISTEN 00:00–02:30 (Claude-hater confession, why she left for Codex and came back) and 04:52–07:00 (pros/cons and Fable-vs-Opus 5.5 routing). Watch on YouTube if you can: 07:02–11:08 (tweet-to-video, invader-bot animation) and 17:50–22:40 (3D typewriter). Quick facts: furniture 11:08–12:40, ChatPRD migration 14:55–16:35, availability 23:14–24:14. Skip outro 24:15–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-claude-fable-5-2.mp3" length="7808684" type="audio/mpeg"/>
+<itunes:duration>8:08</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Jensen and The Honeypot: Nvidia's CEO, an Alleged Chinese Spy, Why Intent Doesn't Matter, Export-Control Credibility, the Coming Hearings &amp; Alex's Bet That Jensen Stays (Conversational)</title>
 <itunes:title>Big Technology — Jensen and The Honeypot: Nvidia's CEO, an Alleged Chinese Spy, Why Intent Doesn't Matter, Export-Control Credibility, the Coming Hearings &amp; Alex's Bet That Jensen Stays (Conversational)</itunes:title>
