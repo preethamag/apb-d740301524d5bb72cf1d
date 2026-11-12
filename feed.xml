@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 11 Nov 2026 22:41:50 GMT</lastBuildDate>
-<pubDate>Wed, 11 Nov 2026 22:41:31 GMT</pubDate>
+<lastBuildDate>Thu, 12 Nov 2026 01:29:47 GMT</lastBuildDate>
+<pubDate>Thu, 12 Nov 2026 01:08:53 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #310 — Can Jensen Huang Remain CEO? Pax Silica Under Pressure, AI's Doubling Time Horizon, Curing 5,000 Diseases by Approving a Process, Elon's Robot Rentals &amp; Delaware's AI Company Draft (Conversational)</title>
+<itunes:title>Moonshots #310 — Can Jensen Huang Remain CEO? Pax Silica Under Pressure, AI's Doubling Time Horizon, Curing 5,000 Diseases by Approving a Process, Elon's Robot Rentals &amp; Delaware's AI Company Draft (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-310</guid>
+<pubDate>Thu, 12 Nov 2026 01:08:53 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots #310, where Peter Diamandis, Dave Blundin, Alex Wissner-Gross and Salim Ismail are joined by Emad Mostaque: the allegations around Nvidia CEO Jensen Huang and what they could mean for Pax Silica, export controls and Chinese open-source models; Anthropic's IPO roadshow and the Fable 5.2 and Mythos 5.2 releases; a chart suggesting AI's autonomy time horizon doubles every two months; Dave's agent's thought experiment on curing 5,000 diseases by approving a process once; Elon Musk's Baron Investment Conference remarks on Terafab, a possible $100B run rate and 20-30 million robots (and the rental model behind them); Delaware's draft AI company law; the Theseus supermarket robot debate; and NASA's Moon Base contracts and the case for new frontiers.
+
+Listen verdict: LISTEN 00:43:16–00:48:00 (AI time-horizon chart, Salim on delegating outcomes) and 00:53:00–00:58:00 (Dave's agent's 5,000-diseases thought experiment) and 01:18:30–01:28:00 (Elon's 20–30M robots, rental model). SKIM 00:00–00:17:00 (Jensen allegations/Pax Silica/open-source models), 00:25–00:34:00 (Fable/Mythos 5.2, IPO), 01:07–01:18:30 (Elon at Baron), 01:39–01:43:00 (Delaware AIC), 01:45–01:56:00 (Theseus). Optional 01:56–02:05:55 (Moon Base). Skip ads (~00:42:48–00:43:11, ~01:17:20–01:18:20, ~02:05:55) and outro from ~02:16:28.</description>
+<itunes:summary>Andrew and Ava brief Moonshots #310, where Peter Diamandis, Dave Blundin, Alex Wissner-Gross and Salim Ismail are joined by Emad Mostaque: the allegations around Nvidia CEO Jensen Huang and what they could mean for Pax Silica, export controls and Chinese open-source models; Anthropic's IPO roadshow and the Fable 5.2 and Mythos 5.2 releases; a chart suggesting AI's autonomy time horizon doubles every two months; Dave's agent's thought experiment on curing 5,000 diseases by approving a process once; Elon Musk's Baron Investment Conference remarks on Terafab, a possible $100B run rate and 20-30 million robots (and the rental model behind them); Delaware's draft AI company law; the Theseus supermarket robot debate; and NASA's Moon Base contracts and the case for new frontiers.
+
+Listen verdict: LISTEN 00:43:16–00:48:00 (AI time-horizon chart, Salim on delegating outcomes) and 00:53:00–00:58:00 (Dave's agent's 5,000-diseases thought experiment) and 01:18:30–01:28:00 (Elon's 20–30M robots, rental model). SKIM 00:00–00:17:00 (Jensen allegations/Pax Silica/open-source models), 00:25–00:34:00 (Fable/Mythos 5.2, IPO), 01:07–01:18:30 (Elon at Baron), 01:39–01:43:00 (Delaware AIC), 01:45–01:56:00 (Theseus). Optional 01:56–02:05:55 (Moon Base). Skip ads (~00:42:48–00:43:11, ~01:17:20–01:18:20, ~02:05:55) and outro from ~02:16:28.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-310.mp3" length="32603948" type="audio/mpeg"/>
+<itunes:duration>33:58</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — M.G. Siegler on Apple's Storm Clouds: Memory Costs Squeeze Margins in Ternus's First Quarter, the $1,999 iPhone Duo Hands-On, Amazon's Bee Frontier Listening Wristband &amp; 'Gaslight Insurance', and AI as UI (Conversational)</title>
 <itunes:title>Big Technology — M.G. Siegler on Apple's Storm Clouds: Memory Costs Squeeze Margins in Ternus's First Quarter, the $1,999 iPhone Duo Hands-On, Amazon's Bee Frontier Listening Wristband &amp; 'Gaslight Insurance', and AI as UI (Conversational)</itunes:title>
