@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 12 Nov 2026 01:29:47 GMT</lastBuildDate>
-<pubDate>Thu, 12 Nov 2026 01:08:53 GMT</pubDate>
+<lastBuildDate>Thu, 12 Nov 2026 16:30:22 GMT</lastBuildDate>
+<pubDate>Thu, 12 Nov 2026 16:30:15 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.82 — Sequoia Ends Evergreen &amp; Leaves London / Jensen Investigation: Does He Get a Pass? / Anthropic's IPO Priced Low ($1T vs $1.4T Explained) / What Dots, Grok Bot, Muse &amp; Instinct Cost to Run / Zipline vs fal vs Revolut (Conversational)</title>
+<itunes:title>20VC Trio EP.82 — Sequoia Ends Evergreen &amp; Leaves London / Jensen Investigation: Does He Get a Pass? / Anthropic's IPO Priced Low ($1T vs $1.4T Explained) / What Dots, Grok Bot, Muse &amp; Instinct Cost to Run / Zipline vs fal vs Revolut (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-82</guid>
+<pubDate>Thu, 12 Nov 2026 16:30:15 GMT</pubDate>
+<description>Andrew and Ava brief 20VC Trio EP.82 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): Sequoia leaving London, ending scouts and winding down its Evergreen fund ("giving the LPs their vitamins"); whether Jensen Huang "needs a pass" as Nvidia's board investigates, and why China loses; the Nasdaq-100's $2.5 trillion day and Rory's "the AI trade doesn't crack on the supply side"; Anthropic's IPO priced at $70 to $78 a share, the options math behind "$1 trillion vs $1.4 trillion", Jason's "fatigue" call and Rory's "you'd much prefer to be these guys than OpenAI"; OpenAI's 70% quarter and token-price elasticity; Jason's admission that Dots, Grok Bot, Muse and Instinct cost $20 to $30 a month per user to run; an IC on Zipline, fal and Revolut; stolen API keys after Fireworks' two breaches; Dialpad buying Ada and "march or die"; Cloudflare, Palantir and agents vs seats; Figma below $10 billion; and California rejecting the billionaire wealth tax. Listen from 23:28 to 33:42 for the Anthropic IPO and agent-cost stretch.
+
+Listen verdict: SKIM (~67 min with ads; ~60 min of content). LISTEN FULLY: Anthropic IPO pricing ($70-78 vs $54), options math ($1T vs $1.4T), fatigue debate, $200B cash, OpenAI +70% and token-price elasticity `00:23:28`-`00:31:32`; Dots / Grok Bot / Muse / Instinct running costs `00:31:32`-`00:33:42`. Skim: Sequoia Evergreen/London/scouts `00:03:47`-`00:14:11`; Jensen investigation `00:14:11`-`00:21:16`; IC Zipline/fal/Revolut `00:33:42`-`00:40:15`; Fireworks/stolen API keys `00:40:15`-`00:43:44`. Optional: Nasdaq `00:21:16`-`00:23:28`; M&amp;A/Dialpad-Ada `00:43:44`-`00:49:56`; efficiency/agents vs seats `00:49:56`-`00:53:12`; Figma `00:53:12`-`00:59:34`; wealth tax `00:59:34`-`01:04:02`. Skip ads `00:01:06`-`00:03:44` and `01:04:04`-end.</description>
+<itunes:summary>Andrew and Ava brief 20VC Trio EP.82 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): Sequoia leaving London, ending scouts and winding down its Evergreen fund ("giving the LPs their vitamins"); whether Jensen Huang "needs a pass" as Nvidia's board investigates, and why China loses; the Nasdaq-100's $2.5 trillion day and Rory's "the AI trade doesn't crack on the supply side"; Anthropic's IPO priced at $70 to $78 a share, the options math behind "$1 trillion vs $1.4 trillion", Jason's "fatigue" call and Rory's "you'd much prefer to be these guys than OpenAI"; OpenAI's 70% quarter and token-price elasticity; Jason's admission that Dots, Grok Bot, Muse and Instinct cost $20 to $30 a month per user to run; an IC on Zipline, fal and Revolut; stolen API keys after Fireworks' two breaches; Dialpad buying Ada and "march or die"; Cloudflare, Palantir and agents vs seats; Figma below $10 billion; and California rejecting the billionaire wealth tax. Listen from 23:28 to 33:42 for the Anthropic IPO and agent-cost stretch.
+
+Listen verdict: SKIM (~67 min with ads; ~60 min of content). LISTEN FULLY: Anthropic IPO pricing ($70-78 vs $54), options math ($1T vs $1.4T), fatigue debate, $200B cash, OpenAI +70% and token-price elasticity `00:23:28`-`00:31:32`; Dots / Grok Bot / Muse / Instinct running costs `00:31:32`-`00:33:42`. Skim: Sequoia Evergreen/London/scouts `00:03:47`-`00:14:11`; Jensen investigation `00:14:11`-`00:21:16`; IC Zipline/fal/Revolut `00:33:42`-`00:40:15`; Fireworks/stolen API keys `00:40:15`-`00:43:44`. Optional: Nasdaq `00:21:16`-`00:23:28`; M&amp;A/Dialpad-Ada `00:43:44`-`00:49:56`; efficiency/agents vs seats `00:49:56`-`00:53:12`; Figma `00:53:12`-`00:59:34`; wealth tax `00:59:34`-`01:04:02`. Skip ads `00:01:06`-`00:03:44` and `01:04:04`-end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-82.mp3" length="18550316" type="audio/mpeg"/>
+<itunes:duration>19:19</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #310 — Can Jensen Huang Remain CEO? Pax Silica Under Pressure, AI's Doubling Time Horizon, Curing 5,000 Diseases by Approving a Process, Elon's Robot Rentals &amp; Delaware's AI Company Draft (Conversational)</title>
 <itunes:title>Moonshots #310 — Can Jensen Huang Remain CEO? Pax Silica Under Pressure, AI's Doubling Time Horizon, Curing 5,000 Diseases by Approving a Process, Elon's Robot Rentals &amp; Delaware's AI Company Draft (Conversational)</itunes:title>
