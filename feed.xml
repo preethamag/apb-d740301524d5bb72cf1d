@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 14 Nov 2026 01:20:37 GMT</lastBuildDate>
-<pubDate>Sat, 14 Nov 2026 01:20:07 GMT</pubDate>
+<lastBuildDate>Sat, 14 Nov 2026 04:39:41 GMT</lastBuildDate>
+<pubDate>Sat, 14 Nov 2026 04:39:24 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots #311 — Jensen's Departure: Alex's Export-Control Theory / Who Runs Nvidia / Christiano's AI-Takeover Warning &amp; the Pushback / Demis on Closed-Loop RSI / Solve-All-Disease Grand Bargain — with Emad Mostaque (Conversational)</title>
+<itunes:title>Moonshots #311 — Jensen's Departure: Alex's Export-Control Theory / Who Runs Nvidia / Christiano's AI-Takeover Warning &amp; the Pushback / Demis on Closed-Loop RSI / Solve-All-Disease Grand Bargain — with Emad Mostaque (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-311</guid>
+<pubDate>Sat, 14 Nov 2026 04:39:24 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots #311, an emergency live episode where Peter Diamandis, Alex Wissner-Gross and Salim Ismail are joined by Emad Mostaque: Jensen Huang's resignation and Alex's theory that it is really about export controls (RASA and Pax Silica); who could run Nvidia, why nobody fears a CFO, and whether a post-Jensen Nvidia de-risks circular financing; Paul Christiano's warning of AI takeover within three years and the panel's pushback, including "alignment equals capabilities"; Demis Hassabis on closed-loop recursive self-improvement; Anthropic's Claude office apps and connectors; Dario's "license to operate" and the solve-all-disease grand bargain; AI finds a possible Mayan site, rebuilds Babylon and spots a dwarf planet; and listener questions on UBI, Nvidia's investments and Anthropic's internal models.
+
+Listen verdict: SKIM (~2h01m, no mid-roll ads detected). LISTEN: Alex's RASA/Pax Silica theory `00:11:29`-`00:15:26`; circular-financing glass half full/empty `00:29:05`-`00:32:09`; Christiano clip + rebuttals + alignment=capabilities `00:39:31`-`00:52:00`; grand bargain + AI 2027 `00:52:02`-`00:54:13`; familiar-not-alien + Emad on RSI `01:01:44`-`01:08:12`; Dario license to operate + virtual cells `01:22:52`-`01:29:19`. Also good: `00:15:45`-`00:23:42`, `00:33:05`-`00:37:30`, `01:08:15`-`01:12:21`. Skim: `00:05:16`-`00:11:24` (recap + Fox clip), `00:54:13`-`00:57:45`, `01:12:21`-`01:21:44` (Claude office apps), `01:29:58`-`01:41:00` (Planet/Mayan/Babylon/dwarf planet), `01:44:08`-`01:56:10` (AMA). Skip `00:00:00`-`00:05:16`, `01:56:10`-end.</description>
+<itunes:summary>Andrew and Ava brief Moonshots #311, an emergency live episode where Peter Diamandis, Alex Wissner-Gross and Salim Ismail are joined by Emad Mostaque: Jensen Huang's resignation and Alex's theory that it is really about export controls (RASA and Pax Silica); who could run Nvidia, why nobody fears a CFO, and whether a post-Jensen Nvidia de-risks circular financing; Paul Christiano's warning of AI takeover within three years and the panel's pushback, including "alignment equals capabilities"; Demis Hassabis on closed-loop recursive self-improvement; Anthropic's Claude office apps and connectors; Dario's "license to operate" and the solve-all-disease grand bargain; AI finds a possible Mayan site, rebuilds Babylon and spots a dwarf planet; and listener questions on UBI, Nvidia's investments and Anthropic's internal models.
+
+Listen verdict: SKIM (~2h01m, no mid-roll ads detected). LISTEN: Alex's RASA/Pax Silica theory `00:11:29`-`00:15:26`; circular-financing glass half full/empty `00:29:05`-`00:32:09`; Christiano clip + rebuttals + alignment=capabilities `00:39:31`-`00:52:00`; grand bargain + AI 2027 `00:52:02`-`00:54:13`; familiar-not-alien + Emad on RSI `01:01:44`-`01:08:12`; Dario license to operate + virtual cells `01:22:52`-`01:29:19`. Also good: `00:15:45`-`00:23:42`, `00:33:05`-`00:37:30`, `01:08:15`-`01:12:21`. Skim: `00:05:16`-`00:11:24` (recap + Fox clip), `00:54:13`-`00:57:45`, `01:12:21`-`01:21:44` (Claude office apps), `01:29:58`-`01:41:00` (Planet/Mayan/Babylon/dwarf planet), `01:44:08`-`01:56:10` (AMA). Skip `00:00:00`-`00:05:16`, `01:56:10`-end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-311.mp3" length="36038828" type="audio/mpeg"/>
+<itunes:duration>37:32</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — The Fall of Jensen Huang: 240,000 Restricted Chips to China / Nvidia's Vanishing Singapore Revenue / Why Now / Anthropic Ports to AMD in 3 Days / Who Succeeds Jensen — with Ranjan Roy (Conversational)</title>
 <itunes:title>Big Technology — The Fall of Jensen Huang: 240,000 Restricted Chips to China / Nvidia's Vanishing Singapore Revenue / Why Now / Anthropic Ports to AMD in 3 Days / Who Succeeds Jensen — with Ranjan Roy (Conversational)</itunes:title>
