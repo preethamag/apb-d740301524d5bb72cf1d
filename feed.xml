@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 12 Nov 2026 16:30:22 GMT</lastBuildDate>
-<pubDate>Thu, 12 Nov 2026 16:30:15 GMT</pubDate>
+<lastBuildDate>Sat, 14 Nov 2026 01:20:37 GMT</lastBuildDate>
+<pubDate>Sat, 14 Nov 2026 01:20:07 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — The Fall of Jensen Huang: 240,000 Restricted Chips to China / Nvidia's Vanishing Singapore Revenue / Why Now / Anthropic Ports to AMD in 3 Days / Who Succeeds Jensen — with Ranjan Roy (Conversational)</title>
+<itunes:title>Big Technology — The Fall of Jensen Huang: 240,000 Restricted Chips to China / Nvidia's Vanishing Singapore Revenue / Why Now / Anthropic Ports to AMD in 3 Days / Who Succeeds Jensen — with Ranjan Roy (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-jensen-fall</guid>
+<pubDate>Sat, 14 Nov 2026 01:20:07 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's Friday special report (Alex Kantrowitz with Ranjan Roy of Margins) on the fall of Jensen Huang: the affairs and Colette Kress stepping in as interim CEO; Tom's Hardware's report of 240,000 restricted chips moved into China; Nvidia's vanishing Singapore revenue and why Ranjan says it was in plain sight a year ago; why it broke now (midterms, accountability and AI's new cyber capabilities); evidence that China's top labs trained on barred Blackwell chips; the Wall Street Journal's panic meeting inside Nvidia; Anthropic bringing up AMD GPUs in about three days with its own model, and whether AI erodes Nvidia's CUDA moat; Alex's New York Times case that Jensen's exit is good for U.S. labs; and who might succeed him. Listen from 42:17 to 54:45 for the competition and U.S.-labs stretch.
+
+Listen verdict: SKIM (~65 min with ads; ~59 min content). LISTEN: competition + Anthropic's 3-day AMD port + CUDA moat `00:42:17`-`00:48:35`; petition, Alex's NYT thesis, OpenRouter share, $105B backstop/$10B anchor `00:48:35`-`00:54:45`. Also good: timing/accountability `00:17:19`-`00:23:05`; WSJ panic meeting `00:37:17`-`00:42:17`. Skim: open `00:01:19`-`00:07:13`; chips/Megaspeed `00:07:13`-`00:14:38`; Singapore `00:14:38`-`00:17:19`; Blackwell evidence `00:23:05`-`00:25:37`. Optional: politics/GPU demand `00:25:37`-`00:31:52`; board `00:31:52`-`00:35:12`; succession `00:54:45`-`00:58:48`; jacket + close `00:58:48`-`01:04:04`. Skip ads `00:00:06`-`00:01:19`, `00:35:14`-`00:37:17`, `01:04:04`-end.</description>
+<itunes:summary>Andrew and Ava brief Big Technology's Friday special report (Alex Kantrowitz with Ranjan Roy of Margins) on the fall of Jensen Huang: the affairs and Colette Kress stepping in as interim CEO; Tom's Hardware's report of 240,000 restricted chips moved into China; Nvidia's vanishing Singapore revenue and why Ranjan says it was in plain sight a year ago; why it broke now (midterms, accountability and AI's new cyber capabilities); evidence that China's top labs trained on barred Blackwell chips; the Wall Street Journal's panic meeting inside Nvidia; Anthropic bringing up AMD GPUs in about three days with its own model, and whether AI erodes Nvidia's CUDA moat; Alex's New York Times case that Jensen's exit is good for U.S. labs; and who might succeed him. Listen from 42:17 to 54:45 for the competition and U.S.-labs stretch.
+
+Listen verdict: SKIM (~65 min with ads; ~59 min content). LISTEN: competition + Anthropic's 3-day AMD port + CUDA moat `00:42:17`-`00:48:35`; petition, Alex's NYT thesis, OpenRouter share, $105B backstop/$10B anchor `00:48:35`-`00:54:45`. Also good: timing/accountability `00:17:19`-`00:23:05`; WSJ panic meeting `00:37:17`-`00:42:17`. Skim: open `00:01:19`-`00:07:13`; chips/Megaspeed `00:07:13`-`00:14:38`; Singapore `00:14:38`-`00:17:19`; Blackwell evidence `00:23:05`-`00:25:37`. Optional: politics/GPU demand `00:25:37`-`00:31:52`; board `00:31:52`-`00:35:12`; succession `00:54:45`-`00:58:48`; jacket + close `00:58:48`-`01:04:04`. Skip ads `00:00:06`-`00:01:19`, `00:35:14`-`00:37:17`, `01:04:04`-end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-jensen-fall.mp3" length="20109740" type="audio/mpeg"/>
+<itunes:duration>20:57</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC Trio EP.82 — Sequoia Ends Evergreen &amp; Leaves London / Jensen Investigation: Does He Get a Pass? / Anthropic's IPO Priced Low ($1T vs $1.4T Explained) / What Dots, Grok Bot, Muse &amp; Instinct Cost to Run / Zipline vs fal vs Revolut (Conversational)</title>
 <itunes:title>20VC Trio EP.82 — Sequoia Ends Evergreen &amp; Leaves London / Jensen Investigation: Does He Get a Pass? / Anthropic's IPO Priced Low ($1T vs $1.4T Explained) / What Dots, Grok Bot, Muse &amp; Instinct Cost to Run / Zipline vs fal vs Revolut (Conversational)</itunes:title>
