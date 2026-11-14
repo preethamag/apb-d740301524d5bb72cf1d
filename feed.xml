@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 14 Nov 2026 04:39:41 GMT</lastBuildDate>
-<pubDate>Sat, 14 Nov 2026 04:39:24 GMT</pubDate>
+<lastBuildDate>Sat, 14 Nov 2026 16:25:43 GMT</lastBuildDate>
+<pubDate>Sat, 14 Nov 2026 16:21:26 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Taking On Nvidia: Fractile's Walter Goodwin on the Memory Wall / Stacking DRAM on Logic / Why Inference Is Where the Money Goes / 'No Dark GPUs' and the Capex Debate / Neo Clouds vs Inference Providers / Nvidia at $10T (Conversational)</title>
+<itunes:title>20VC — Taking On Nvidia: Fractile's Walter Goodwin on the Memory Wall / Stacking DRAM on Logic / Why Inference Is Where the Money Goes / 'No Dark GPUs' and the Capex Debate / Neo Clouds vs Inference Providers / Nvidia at $10T (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-fractile-goodwin</guid>
+<pubDate>Sat, 14 Nov 2026 16:21:26 GMT</pubDate>
+<description>Andrew and Ava brief 20VC's in-studio conversation between Harry Stebbings and Walter Goodwin, founder and CEO of Fractile, the British chipmaker taking on Nvidia at fast AI inference after a $720M Series C: why frontier intelligence isn't commoditizing but neo clouds are; the memory wall (math up a million times in 25 years, memory bandwidth only about 40) and Fractile's bet on stacking DRAM on top of the chip; why long-running agents need speed and capacity at once; who's actually shipping; why land and power are now the bottleneck; why he calls the AI build-out entirely justified with no dark GPUs; why mixed Groq-plus-GPU data centers strand capacity; and why he says Nvidia hits $10 trillion. Listen from 16:09 to 22:39 for the memory wall and 41:47 to 49:43 for the inference argument.
+
+Listen verdict: SKIM (~75.5 min with ads; ~69 min content). LISTEN: memory wall + DRAM-on-logic stacking `00:16:09`-`00:22:39`; inference is everything, 10,000-agent swarm, no dark GPUs `00:41:47`-`00:49:43`. Also good: mixed Groq+GPU data centers strand capacity / Groq insurance `00:55:35`-`01:00:50`; Nvidia $10T + 'priced in exuberance' `01:09:40`-`01:11:06`. Skim: vertical integration, commoditization, neo clouds, FluidStack `00:04:03`-`00:16:09`; production, Broadcom Lego model, tape-out, land and power, China energy `00:27:37`-`00:41:47`. Optional: token cost, Satya, orchestration `00:49:43`-`00:55:35`; inference providers, $720M round, TSMC/Inherent/d-Matrix `01:00:50`-`01:09:40`. Skip ads `00:00:57`-`00:04:00`, `01:12:43`-end.</description>
+<itunes:summary>Andrew and Ava brief 20VC's in-studio conversation between Harry Stebbings and Walter Goodwin, founder and CEO of Fractile, the British chipmaker taking on Nvidia at fast AI inference after a $720M Series C: why frontier intelligence isn't commoditizing but neo clouds are; the memory wall (math up a million times in 25 years, memory bandwidth only about 40) and Fractile's bet on stacking DRAM on top of the chip; why long-running agents need speed and capacity at once; who's actually shipping; why land and power are now the bottleneck; why he calls the AI build-out entirely justified with no dark GPUs; why mixed Groq-plus-GPU data centers strand capacity; and why he says Nvidia hits $10 trillion. Listen from 16:09 to 22:39 for the memory wall and 41:47 to 49:43 for the inference argument.
+
+Listen verdict: SKIM (~75.5 min with ads; ~69 min content). LISTEN: memory wall + DRAM-on-logic stacking `00:16:09`-`00:22:39`; inference is everything, 10,000-agent swarm, no dark GPUs `00:41:47`-`00:49:43`. Also good: mixed Groq+GPU data centers strand capacity / Groq insurance `00:55:35`-`01:00:50`; Nvidia $10T + 'priced in exuberance' `01:09:40`-`01:11:06`. Skim: vertical integration, commoditization, neo clouds, FluidStack `00:04:03`-`00:16:09`; production, Broadcom Lego model, tape-out, land and power, China energy `00:27:37`-`00:41:47`. Optional: token cost, Satya, orchestration `00:49:43`-`00:55:35`; inference providers, $720M round, TSMC/Inherent/d-Matrix `01:00:50`-`01:09:40`. Skip ads `00:00:57`-`00:04:00`, `01:12:43`-end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-fractile-goodwin.mp3" length="20680364" type="audio/mpeg"/>
+<itunes:duration>21:32</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots #311 — Jensen's Departure: Alex's Export-Control Theory / Who Runs Nvidia / Christiano's AI-Takeover Warning &amp; the Pushback / Demis on Closed-Loop RSI / Solve-All-Disease Grand Bargain — with Emad Mostaque (Conversational)</title>
 <itunes:title>Moonshots #311 — Jensen's Departure: Alex's Export-Control Theory / Who Runs Nvidia / Christiano's AI-Takeover Warning &amp; the Pushback / Demis on Closed-Loop RSI / Solve-All-Disease Grand Bargain — with Emad Mostaque (Conversational)</itunes:title>
