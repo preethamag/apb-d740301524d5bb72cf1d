@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 14 Nov 2026 16:25:43 GMT</lastBuildDate>
-<pubDate>Sat, 14 Nov 2026 16:21:26 GMT</pubDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:11:34 GMT</lastBuildDate>
+<pubDate>Sun, 15 Nov 2026 16:11:20 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Lenny's Podcast — Meta's Muse with Mona Sarantakos: The OpenClaw Weekend That Started It / Why It Waited Seven Months / Jolly / Agent Swarms and Handwritten System Prompts / Main Chat vs Side Chat / Taste Is the New PM Bar (Conversational)</title>
+<itunes:title>Lenny's Podcast — Meta's Muse with Mona Sarantakos: The OpenClaw Weekend That Started It / Why It Waited Seven Months / Jolly / Agent Swarms and Handwritten System Prompts / Main Chat vs Side Chat / Taste Is the New PM Bar (Conversational)</itunes:title>
+<guid isPermaLink="false">lenny-mona-sarantakos</guid>
+<pubDate>Sun, 15 Nov 2026 16:11:20 GMT</pubDate>
+<description>Andrew and Ava brief Lenny's Podcast with Mona Sarantakos, Meta's head of product for Muse, in her first podcast interview: the weekend with OpenClaw on a Raspberry Pi that started it; why Muse waited seven months to launch ("trust is a must"); what Nat Friedman, Alex Wang and Mark Zuckerberg each shaped; how Jolly, a placeholder mascot, survived; the shopping surprise; agent swarms and synthetic data; an eval hierarchy with a handwritten system prompt; activation through word of mouth; chat bubbles and the main-chat fight; and why product taste is now the PM bar. Listen from 2:33 to 8:08 for the origin story and 38:03 to 45:48 for swarms and evals.
+
+Listen verdict: LISTEN-worthy for agent builders (~87 min; ads 08:08-09:08, 45:48-46:37). LISTEN: Nat's OpenClaw ping, Raspberry Pi weekend, school-newsletter moment `00:02:33`-`00:08:08`; agent swarms + synthetic data, eval hierarchy, handwritten system prompt `00:38:03`-`00:45:48`. Also good: activation (word of mouth, first-prompt freeze, tiered onboarding), chat bubbles, main chat vs side chat `00:46:37`-`00:57:04`; PM job changed, taste is the bar `01:02:19`-`01:06:44`. Skim: seven months / trust is a must / the claw is the law `00:09:43`-`00:15:45`; Nat, Alex Wang, Mark; Jolly `00:16:10`-`00:29:53`; shopping surprise, agentic commerce `00:29:53`-`00:38:03`; Alex Cornell, board-meeting near miss, team `01:06:44`-`01:17:41`. Optional: anxiety, non-determinism, ambient future `01:17:41`-`01:26:38`. Skip ads.</description>
+<itunes:summary>Andrew and Ava brief Lenny's Podcast with Mona Sarantakos, Meta's head of product for Muse, in her first podcast interview: the weekend with OpenClaw on a Raspberry Pi that started it; why Muse waited seven months to launch ("trust is a must"); what Nat Friedman, Alex Wang and Mark Zuckerberg each shaped; how Jolly, a placeholder mascot, survived; the shopping surprise; agent swarms and synthetic data; an eval hierarchy with a handwritten system prompt; activation through word of mouth; chat bubbles and the main-chat fight; and why product taste is now the PM bar. Listen from 2:33 to 8:08 for the origin story and 38:03 to 45:48 for swarms and evals.
+
+Listen verdict: LISTEN-worthy for agent builders (~87 min; ads 08:08-09:08, 45:48-46:37). LISTEN: Nat's OpenClaw ping, Raspberry Pi weekend, school-newsletter moment `00:02:33`-`00:08:08`; agent swarms + synthetic data, eval hierarchy, handwritten system prompt `00:38:03`-`00:45:48`. Also good: activation (word of mouth, first-prompt freeze, tiered onboarding), chat bubbles, main chat vs side chat `00:46:37`-`00:57:04`; PM job changed, taste is the bar `01:02:19`-`01:06:44`. Skim: seven months / trust is a must / the claw is the law `00:09:43`-`00:15:45`; Nat, Alex Wang, Mark; Jolly `00:16:10`-`00:29:53`; shopping surprise, agentic commerce `00:29:53`-`00:38:03`; Alex Cornell, board-meeting near miss, team `01:06:44`-`01:17:41`. Optional: anxiety, non-determinism, ambient future `01:17:41`-`01:26:38`. Skip ads.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-mona-sarantakos.mp3" length="21240620" type="audio/mpeg"/>
+<itunes:duration>22:08</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Taking On Nvidia: Fractile's Walter Goodwin on the Memory Wall / Stacking DRAM on Logic / Why Inference Is Where the Money Goes / 'No Dark GPUs' and the Capex Debate / Neo Clouds vs Inference Providers / Nvidia at $10T (Conversational)</title>
 <itunes:title>20VC — Taking On Nvidia: Fractile's Walter Goodwin on the Memory Wall / Stacking DRAM on Logic / Why Inference Is Where the Money Goes / 'No Dark GPUs' and the Capex Debate / Neo Clouds vs Inference Providers / Nvidia at $10T (Conversational)</itunes:title>
