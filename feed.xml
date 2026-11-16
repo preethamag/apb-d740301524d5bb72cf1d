@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 16 Nov 2026 16:13:35 GMT</lastBuildDate>
-<pubDate>Mon, 16 Nov 2026 16:13:28 GMT</pubDate>
+<lastBuildDate>Mon, 16 Nov 2026 19:14:15 GMT</lastBuildDate>
+<pubDate>Mon, 16 Nov 2026 19:11:02 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots — Figure AI's Brett Adcock on Helix 3 'Baby AGI' / The First Humanoid Scaling Laws / The World Ran Out of Compute / Figure 4's Hands / China vs Tesla / Robots, Not Meat Puppets / Hark and the OpenAI Breakup (Conversational)</title>
+<itunes:title>Moonshots — Figure AI's Brett Adcock on Helix 3 'Baby AGI' / The First Humanoid Scaling Laws / The World Ran Out of Compute / Figure 4's Hands / China vs Tesla / Robots, Not Meat Puppets / Hark and the OpenAI Breakup (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-figure-adcock</guid>
+<pubDate>Mon, 16 Nov 2026 19:11:02 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots' visit to Figure AI, where Peter Diamandis and Dave Blundin sit down with founder and CEO Brett Adcock: why Figure won't ship a home robot until it works with no remote operator, the Helix 3 "baby AGI" they saw in Figure's secret Black Box lab, the K-cup demo and the $500M Post-it, the first data scaling laws for humanoid robots, why all inference runs on the robot, the 100,000-GPU deal and his claim that "the world ran out of compute" in September 2026, Figure 4 and its near-human hands at a $300 to $500 a month lease, lights-out manufacturing at BotQ, why he says robots, not "meat puppets," should do the physical work for superintelligent AI, his take on China, Tesla and Unitree, and Hark's growth, the OpenAI breakup and why he thinks the iPhone goes away. Listen from 10:26 to 15:32 for the K-cup story and 1:15:08 to 1:18:15 for the meat puppets argument.
+
+Listen verdict: SKIM-PLUS (~2h13m; ~2h05m content). LISTEN `00:03:13`–`00:09:21` (home timeline, Helix 3 'two-year-old in an adult body'); `00:10:26`–`00:15:32` (four chapters, K-cup + $500M Post-it); `00:29:18`–`00:31:24` (humanoid data scaling laws, Black Box); `01:15:08`–`01:18:15` (robots not 'meat puppets'); `01:42:04`–`01:47:11` ('the world ran out of compute'); `01:58:53`–`02:02:04` (OpenAI 'we fired them', iPhone going away). Good: `00:19:46`–`00:24:03`, `00:31:24`–`00:40:47`, `01:00:39`–`01:05:49`, `01:20:19`–`01:24:23`, `01:27:32`–`01:31:46`, `01:47:11`–`01:52:30`. Skim: `00:40:47`–`00:57:32`, `01:24:23`–`01:27:32`, `01:33:49`–`01:42:04`, `02:03:05`–`02:11:31`. Skip `00:00:00`–`00:01:14`, ads (`00:57:50`–`00:58:55`, `01:31:50`–`01:33:50`), `02:11:31`–end.</description>
+<itunes:summary>Andrew and Ava brief Moonshots' visit to Figure AI, where Peter Diamandis and Dave Blundin sit down with founder and CEO Brett Adcock: why Figure won't ship a home robot until it works with no remote operator, the Helix 3 "baby AGI" they saw in Figure's secret Black Box lab, the K-cup demo and the $500M Post-it, the first data scaling laws for humanoid robots, why all inference runs on the robot, the 100,000-GPU deal and his claim that "the world ran out of compute" in September 2026, Figure 4 and its near-human hands at a $300 to $500 a month lease, lights-out manufacturing at BotQ, why he says robots, not "meat puppets," should do the physical work for superintelligent AI, his take on China, Tesla and Unitree, and Hark's growth, the OpenAI breakup and why he thinks the iPhone goes away. Listen from 10:26 to 15:32 for the K-cup story and 1:15:08 to 1:18:15 for the meat puppets argument.
+
+Listen verdict: SKIM-PLUS (~2h13m; ~2h05m content). LISTEN `00:03:13`–`00:09:21` (home timeline, Helix 3 'two-year-old in an adult body'); `00:10:26`–`00:15:32` (four chapters, K-cup + $500M Post-it); `00:29:18`–`00:31:24` (humanoid data scaling laws, Black Box); `01:15:08`–`01:18:15` (robots not 'meat puppets'); `01:42:04`–`01:47:11` ('the world ran out of compute'); `01:58:53`–`02:02:04` (OpenAI 'we fired them', iPhone going away). Good: `00:19:46`–`00:24:03`, `00:31:24`–`00:40:47`, `01:00:39`–`01:05:49`, `01:20:19`–`01:24:23`, `01:27:32`–`01:31:46`, `01:47:11`–`01:52:30`. Skim: `00:40:47`–`00:57:32`, `01:24:23`–`01:27:32`, `01:33:49`–`01:42:04`, `02:03:05`–`02:11:31`. Skip `00:00:00`–`00:01:14`, ads (`00:57:50`–`00:58:55`, `01:31:50`–`01:33:50`), `02:11:31`–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-figure-adcock.mp3" length="35594924" type="audio/mpeg"/>
+<itunes:duration>37:05</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — Claire Vo on Token Fraud: Six Abuse Patterns / Why Free Trials Are Over / AI Gateways, Radar &amp; Bot ID / A Jev Fraud Classifier / If You Sell AI, You Sell Compute (Conversational)</title>
 <itunes:title>How I AI — Claire Vo on Token Fraud: Six Abuse Patterns / Why Free Trials Are Over / AI Gateways, Radar &amp; Bot ID / A Jev Fraud Classifier / If You Sell AI, You Sell Compute (Conversational)</itunes:title>
