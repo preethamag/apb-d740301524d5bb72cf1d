@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sun, 15 Nov 2026 16:11:34 GMT</lastBuildDate>
-<pubDate>Sun, 15 Nov 2026 16:11:20 GMT</pubDate>
+<lastBuildDate>Mon, 16 Nov 2026 16:11:09 GMT</lastBuildDate>
+<pubDate>Mon, 16 Nov 2026 16:06:29 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Jev's Creator Diogo Almeida on Reliability as AI's Bottleneck / Why Data Beats Compute / Why OpenAI Won't Copy Jev / Owning Your Intelligence Is a Horseless Carriage / Open Source vs China / The Bubble and the $750M Round (Conversational)</title>
+<itunes:title>20VC — Jev's Creator Diogo Almeida on Reliability as AI's Bottleneck / Why Data Beats Compute / Why OpenAI Won't Copy Jev / Owning Your Intelligence Is a Horseless Carriage / Open Source vs China / The Bubble and the $750M Round (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-diogo-almeida</guid>
+<pubDate>Mon, 16 Nov 2026 16:06:29 GMT</pubDate>
+<description>Andrew and Ava brief 20VC's conversation between Harry Stebbings and Diogo Almeida, co-founder and CEO of TypeSafe AI, the company behind Jev, the decision model that lets software make calls on its own and say how confident it is: why reliability, not raw smarts, is the bottleneck to automation ("Einstein 95% of the time, Mr. Bean the other 5%"); his "bitterest lesson" that the right task and data matter more than compute; why he says OpenAI won't simply copy Jev and how optimizing for monthly users produced sycophancy; owning your own intelligence as the horseless carriage of AI; who misleads most on benchmarks; whether American open models catch China; why he calls AI a bubble and still expects a mega Jevons paradox; and the $750M round with no deck. Listen from 5:55 to 10:25 for reliability and 49:40 to 54:25 for the bubble and the Jevons math.
+
+Listen verdict: SKIM-PLUS / LISTEN to key stretches (~73.7 min with ads; ~66 min content). LISTEN: reliability, Einstein vs Mr. Bean, bitterest lesson `00:05:55`–`00:10:25`; why OpenAI won't copy + sycophancy from optimizing MAU `00:22:00`–`00:24:45`; owning intelligence as a horseless carriage `00:32:22`–`00:37:54`; bubble + Jevons mechanics + "all tied at roughly 0%" `00:49:40`–`00:54:25`. Good: right task &gt; data `00:12:05`–`00:14:50`; who misleads on benchmarks + open source vs China `00:42:23`–`00:48:45`; why not hire from OpenAI `01:07:04`–`01:08:24`. Skim: data vendors/neolabs `00:15:11`–`00:18:53`; round/investors/hiring `00:56:09`–`01:05:44`. Skip ads `00:01:34`–`00:04:30`, `01:10:44`–end.</description>
+<itunes:summary>Andrew and Ava brief 20VC's conversation between Harry Stebbings and Diogo Almeida, co-founder and CEO of TypeSafe AI, the company behind Jev, the decision model that lets software make calls on its own and say how confident it is: why reliability, not raw smarts, is the bottleneck to automation ("Einstein 95% of the time, Mr. Bean the other 5%"); his "bitterest lesson" that the right task and data matter more than compute; why he says OpenAI won't simply copy Jev and how optimizing for monthly users produced sycophancy; owning your own intelligence as the horseless carriage of AI; who misleads most on benchmarks; whether American open models catch China; why he calls AI a bubble and still expects a mega Jevons paradox; and the $750M round with no deck. Listen from 5:55 to 10:25 for reliability and 49:40 to 54:25 for the bubble and the Jevons math.
+
+Listen verdict: SKIM-PLUS / LISTEN to key stretches (~73.7 min with ads; ~66 min content). LISTEN: reliability, Einstein vs Mr. Bean, bitterest lesson `00:05:55`–`00:10:25`; why OpenAI won't copy + sycophancy from optimizing MAU `00:22:00`–`00:24:45`; owning intelligence as a horseless carriage `00:32:22`–`00:37:54`; bubble + Jevons mechanics + "all tied at roughly 0%" `00:49:40`–`00:54:25`. Good: right task &gt; data `00:12:05`–`00:14:50`; who misleads on benchmarks + open source vs China `00:42:23`–`00:48:45`; why not hire from OpenAI `01:07:04`–`01:08:24`. Skim: data vendors/neolabs `00:15:11`–`00:18:53`; round/investors/hiring `00:56:09`–`01:05:44`. Skip ads `00:01:34`–`00:04:30`, `01:10:44`–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-diogo-almeida.mp3" length="21030572" type="audio/mpeg"/>
+<itunes:duration>21:54</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Lenny's Podcast — Meta's Muse with Mona Sarantakos: The OpenClaw Weekend That Started It / Why It Waited Seven Months / Jolly / Agent Swarms and Handwritten System Prompts / Main Chat vs Side Chat / Taste Is the New PM Bar (Conversational)</title>
 <itunes:title>Lenny's Podcast — Meta's Muse with Mona Sarantakos: The OpenClaw Weekend That Started It / Why It Waited Seven Months / Jolly / Agent Swarms and Handwritten System Prompts / Main Chat vs Side Chat / Taste Is the New PM Bar (Conversational)</itunes:title>
