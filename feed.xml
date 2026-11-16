@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 16 Nov 2026 16:11:09 GMT</lastBuildDate>
-<pubDate>Mon, 16 Nov 2026 16:06:29 GMT</pubDate>
+<lastBuildDate>Mon, 16 Nov 2026 16:13:35 GMT</lastBuildDate>
+<pubDate>Mon, 16 Nov 2026 16:13:28 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — Claire Vo on Token Fraud: Six Abuse Patterns / Why Free Trials Are Over / AI Gateways, Radar &amp; Bot ID / A Jev Fraud Classifier / If You Sell AI, You Sell Compute (Conversational)</title>
+<itunes:title>How I AI — Claire Vo on Token Fraud: Six Abuse Patterns / Why Free Trials Are Over / AI Gateways, Radar &amp; Bot ID / A Jev Fraud Classifier / If You Sell AI, You Sell Compute (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-token-fraud</guid>
+<pubDate>Mon, 16 Nov 2026 16:13:28 GMT</pubDate>
+<description>Andrew and Ava brief Claire Vo's solo How I AI episode on token fraud, the people who aren't real customers using an AI product to burn its paid model calls, which she says cost her bootstrapped ChatPRD tens of thousands of dollars this past year: the six abuse patterns (trial farming, promo-code resale, bad cards, relays, a "monster" custom MCP running as a 24/7 worker, model probing); who the abusers are, from a Roblox and Fortnite map studio to sympathetic users in high-cost countries; why she killed free trials; the business and technical controls (AI gateway, hourly spend alerts, Stripe Radar, Bot ID, firewall, auth bot protection); the four AI loops that watch the bots, including a Jev fraud classifier and why your AI support desk is an attack vector; and her rule, if you sell AI, you sell compute. Listen from 5:25 to 11:24 and 30:25 to 38:00.
+
+Listen verdict: SKIM (39:46; ~37 min content; solo talk with no guest). LISTEN if you run any AI product with sign-ups: six abuse patterns incl. the 24/7 MCP worker `00:05:25`–`00:11:24`; bots that watch the bots (Jev classifier, hourly agent, support-desk attack vector) `00:30:25`–`00:35:30`; takeaways `00:35:30`–`00:38:00`. Skim: abuser types `00:11:24`–`00:13:45`; business controls `00:15:00`–`00:20:20`; technical defenses `00:20:53`–`00:30:25` (useful checklist if you build). Skip ads `00:00:54`–`00:02:05`, `00:20:20`–`00:20:53`, outro `00:39:18`–end.</description>
+<itunes:summary>Andrew and Ava brief Claire Vo's solo How I AI episode on token fraud, the people who aren't real customers using an AI product to burn its paid model calls, which she says cost her bootstrapped ChatPRD tens of thousands of dollars this past year: the six abuse patterns (trial farming, promo-code resale, bad cards, relays, a "monster" custom MCP running as a 24/7 worker, model probing); who the abusers are, from a Roblox and Fortnite map studio to sympathetic users in high-cost countries; why she killed free trials; the business and technical controls (AI gateway, hourly spend alerts, Stripe Radar, Bot ID, firewall, auth bot protection); the four AI loops that watch the bots, including a Jev fraud classifier and why your AI support desk is an attack vector; and her rule, if you sell AI, you sell compute. Listen from 5:25 to 11:24 and 30:25 to 38:00.
+
+Listen verdict: SKIM (39:46; ~37 min content; solo talk with no guest). LISTEN if you run any AI product with sign-ups: six abuse patterns incl. the 24/7 MCP worker `00:05:25`–`00:11:24`; bots that watch the bots (Jev classifier, hourly agent, support-desk attack vector) `00:30:25`–`00:35:30`; takeaways `00:35:30`–`00:38:00`. Skim: abuser types `00:11:24`–`00:13:45`; business controls `00:15:00`–`00:20:20`; technical defenses `00:20:53`–`00:30:25` (useful checklist if you build). Skip ads `00:00:54`–`00:02:05`, `00:20:20`–`00:20:53`, outro `00:39:18`–end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-token-fraud.mp3" length="11866796" type="audio/mpeg"/>
+<itunes:duration>12:22</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Jev's Creator Diogo Almeida on Reliability as AI's Bottleneck / Why Data Beats Compute / Why OpenAI Won't Copy Jev / Owning Your Intelligence Is a Horseless Carriage / Open Source vs China / The Bubble and the $750M Round (Conversational)</title>
 <itunes:title>20VC — Jev's Creator Diogo Almeida on Reliability as AI's Bottleneck / Why Data Beats Compute / Why OpenAI Won't Copy Jev / Owning Your Intelligence Is a Horseless Carriage / Open Source vs China / The Bubble and the $750M Round (Conversational)</itunes:title>
