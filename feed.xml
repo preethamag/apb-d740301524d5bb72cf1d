@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 17 Nov 2026 01:13:52 GMT</lastBuildDate>
-<pubDate>Tue, 17 Nov 2026 01:13:46 GMT</pubDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:12:43 GMT</lastBuildDate>
+<pubDate>Tue, 17 Nov 2026 16:10:50 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Gary Marcus: Why the Anthropic IPO Will Fail / $900B in Commitments / Token Maxing and the Trillion-Pound Baby / Alex's Rebuttals / Where AI Is Stuck (Conversation)</title>
+<itunes:title>Big Technology — Gary Marcus: Why the Anthropic IPO Will Fail / $900B in Commitments / Token Maxing and the Trillion-Pound Baby / Alex's Rebuttals / Where AI Is Stuck (Conversation)</itunes:title>
+<guid isPermaLink="false">big-technology-gary-marcus-anthropic-ipo</guid>
+<pubDate>Tue, 17 Nov 2026 16:10:50 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's pessimist episode for Anthropic's IPO week: Alex Kantrowitz debates Gary Marcus (NYU professor emeritus, Marcus on AI) on his "Just say no to Anthropic's IPO" case. They cover why Gary calls Claude Code neurosymbolic AI, meaning a language model wrapped in loops, conditionals and tools, yet still calls Anthropic a bad business: a valuation of up to $1.4 trillion against nearly $900 billion in future liabilities and no steady profit. Also: the end of token maxing and his "trillion-pound baby" warning about extrapolating growth; why Anthropic needs to keep growing like a rocket; why he thinks a sale is more likely than bankruptcy. Then Alex argues back: the oversubscribed IPO, revenue up 10x in a year, revenue per compute dollar rising from 40 cents to $1.72, the distillation and Jensen export-control argument Gary calls Alex's best, 11,900 customers paying $100K or more, Claude Sheets, and "they proved the doubters wrong." Gary explains why AI works where answers can be checked, like math with Lean or code with tests, but not for open-ended planning, and gives his AGI timeline: sometime next decade. Listen from 46:36 to 56:15 and from 31:18 to 40:07.
+
+Listen verdict: LISTEN 00:46:36-00:56:15 (why math/code work and planning doesn't; neurosymbolic explainer; Claude Code credit) and 00:31:18-00:40:07 (10x revenue vs 'miss a couple of quarters', compute efficiency, distillation/Jensen). Good 00:04:45-00:15:59. Skim 00:16:08-00:23:59 and 00:56:15-end. Skip ads 00:23:59-00:27:44 (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Big Technology's pessimist episode for Anthropic's IPO week: Alex Kantrowitz debates Gary Marcus (NYU professor emeritus, Marcus on AI) on his "Just say no to Anthropic's IPO" case. They cover why Gary calls Claude Code neurosymbolic AI, meaning a language model wrapped in loops, conditionals and tools, yet still calls Anthropic a bad business: a valuation of up to $1.4 trillion against nearly $900 billion in future liabilities and no steady profit. Also: the end of token maxing and his "trillion-pound baby" warning about extrapolating growth; why Anthropic needs to keep growing like a rocket; why he thinks a sale is more likely than bankruptcy. Then Alex argues back: the oversubscribed IPO, revenue up 10x in a year, revenue per compute dollar rising from 40 cents to $1.72, the distillation and Jensen export-control argument Gary calls Alex's best, 11,900 customers paying $100K or more, Claude Sheets, and "they proved the doubters wrong." Gary explains why AI works where answers can be checked, like math with Lean or code with tests, but not for open-ended planning, and gives his AGI timeline: sometime next decade. Listen from 46:36 to 56:15 and from 31:18 to 40:07.
+
+Listen verdict: LISTEN 00:46:36-00:56:15 (why math/code work and planning doesn't; neurosymbolic explainer; Claude Code credit) and 00:31:18-00:40:07 (10x revenue vs 'miss a couple of quarters', compute efficiency, distillation/Jensen). Good 00:04:45-00:15:59. Skim 00:16:08-00:23:59 and 00:56:15-end. Skip ads 00:23:59-00:27:44 (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-gary-marcus-anthropic-ipo.mp3" length="16982444" type="audio/mpeg"/>
+<itunes:duration>17:41</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Atlassian's Mike Cannon-Brookes on How Humans Will Work With AI Agents / Jobs Change, Not Vanish / Four Ways to Work With Agents / The Teamwork Graph / Headless Is Brainless (Conversational)</title>
 <itunes:title>Big Technology — Atlassian's Mike Cannon-Brookes on How Humans Will Work With AI Agents / Jobs Change, Not Vanish / Four Ways to Work With Agents / The Teamwork Graph / Headless Is Brainless (Conversational)</itunes:title>
