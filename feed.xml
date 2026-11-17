@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 16 Nov 2026 22:21:45 GMT</lastBuildDate>
-<pubDate>Mon, 16 Nov 2026 19:11:02 GMT</pubDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:13:52 GMT</lastBuildDate>
+<pubDate>Tue, 17 Nov 2026 01:13:46 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Atlassian's Mike Cannon-Brookes on How Humans Will Work With AI Agents / Jobs Change, Not Vanish / Four Ways to Work With Agents / The Teamwork Graph / Headless Is Brainless (Conversational)</title>
+<itunes:title>Big Technology — Atlassian's Mike Cannon-Brookes on How Humans Will Work With AI Agents / Jobs Change, Not Vanish / Four Ways to Work With Agents / The Teamwork Graph / Headless Is Brainless (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-cannon-brookes</guid>
+<pubDate>Tue, 17 Nov 2026 01:13:46 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's live Web Summit interview with Atlassian CEO Mike Cannon-Brookes (Jira, Confluence, Loom), hosted by Alex Kantrowitz: why AI's efficiency gains are still smaller than people hoped; why he thinks layoffs blamed on AI are mostly restructuring, and his bank-branch analogy for how jobs change; why he says better models haven't turned into better company output without new interface design (and Atlassian's AMP); the four ways people and agents work together, from chat to delegation, multiplayer collaboration and pairing; the teamwork graph that learns from your agent sessions; why models aren't commodities but matter less than people think; whether the AI labs moving into apps threatens software companies; and why "headless is brainless," plus his nod to dynamic interfaces built on Jev. Listen from 10:20 to 15:13 and from 20:17 to 22:45.
+
+Listen verdict: SKIM (~22 min content; heavy overlap with his 20VC interview on Oct 12). LISTEN `00:10:20`-`00:15:13` (four modes of human+agent work; teamwork graph learning from agent sessions) and `00:20:17`-`00:22:45` (headless is brainless; Jev dynamic UI). Good: `00:03:05`-`00:06:17` (jobs, bank branches) and `00:15:13`-`00:17:38` (models vs harness, model blending). Skim `00:01:00`-`00:03:05`, `00:06:17`-`00:10:20`, `00:17:38`-`00:20:17`. Skip ads `00:00:00`-`00:01:00`, `00:22:58`-end.</description>
+<itunes:summary>Andrew and Ava brief Big Technology's live Web Summit interview with Atlassian CEO Mike Cannon-Brookes (Jira, Confluence, Loom), hosted by Alex Kantrowitz: why AI's efficiency gains are still smaller than people hoped; why he thinks layoffs blamed on AI are mostly restructuring, and his bank-branch analogy for how jobs change; why he says better models haven't turned into better company output without new interface design (and Atlassian's AMP); the four ways people and agents work together, from chat to delegation, multiplayer collaboration and pairing; the teamwork graph that learns from your agent sessions; why models aren't commodities but matter less than people think; whether the AI labs moving into apps threatens software companies; and why "headless is brainless," plus his nod to dynamic interfaces built on Jev. Listen from 10:20 to 15:13 and from 20:17 to 22:45.
+
+Listen verdict: SKIM (~22 min content; heavy overlap with his 20VC interview on Oct 12). LISTEN `00:10:20`-`00:15:13` (four modes of human+agent work; teamwork graph learning from agent sessions) and `00:20:17`-`00:22:45` (headless is brainless; Jev dynamic UI). Good: `00:03:05`-`00:06:17` (jobs, bank branches) and `00:15:13`-`00:17:38` (models vs harness, model blending). Skim `00:01:00`-`00:03:05`, `00:06:17`-`00:10:20`, `00:17:38`-`00:20:17`. Skip ads `00:00:00`-`00:01:00`, `00:22:58`-end.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-cannon-brookes.mp3" length="10450604" type="audio/mpeg"/>
+<itunes:duration>10:53</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots — Figure AI's Brett Adcock on Helix 3 'Baby AGI' / The First Humanoid Scaling Laws / The World Ran Out of Compute / Figure 4's Hands / China vs Tesla / Robots, Not Meat Puppets / Hark and the OpenAI Breakup (Conversational)</title>
 <itunes:title>Moonshots — Figure AI's Brett Adcock on Helix 3 'Baby AGI' / The First Humanoid Scaling Laws / The World Ran Out of Compute / Figure 4's Hands / China vs Tesla / Robots, Not Meat Puppets / Hark and the OpenAI Breakup (Conversational)</itunes:title>
