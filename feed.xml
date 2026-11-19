@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 17 Nov 2026 16:13:28 GMT</lastBuildDate>
-<pubDate>Tue, 17 Nov 2026 16:10:50 GMT</pubDate>
+<lastBuildDate>Thu, 19 Nov 2026 16:31:51 GMT</lastBuildDate>
+<pubDate>Thu, 19 Nov 2026 16:26:17 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Aaron Levie: Why the Anthropic IPO Will Succeed / Everything Goes Code-Adjacent / Your Only Limit Is Compute / Frontier Plus Cheap Models / Answering Gary Marcus (Conversation)</title>
+<itunes:title>Big Technology — Aaron Levie: Why the Anthropic IPO Will Succeed / Everything Goes Code-Adjacent / Your Only Limit Is Compute / Frontier Plus Cheap Models / Answering Gary Marcus (Conversation)</itunes:title>
+<guid isPermaLink="false">big-technology-aaron-levie-anthropic-ipo</guid>
+<pubDate>Thu, 19 Nov 2026 16:26:17 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's optimist episode for Anthropic's IPO week: Alex Kantrowitz talks with Box CEO Aaron Levie, two days after Gary Marcus made the bear case. Aaron argues everything is becoming code-adjacent, so coding's AI gains spread to cyber, manufacturing, legal and sales. He says knowledge work's time-in and value-out are now decoupled, so your only limit is how much compute you apply. Cheaper open-weight models and routing grow the pie: the frontier model orchestrates and cheap models (Aaron names Jev as one example) grind the bulk. From the S-1: revenue went from $1.4 billion to $17 billion in a year, customers paying $100K+ from 950 to 11,900, and revenue per compute dollar from 40 cents to $1.72. Also: Alex's breathing benchmark and why labs train where the money is. Aaron answers Gary's three rebuttals (the $900 billion in commitments, token maxing, diminishing returns) and concedes the duration-mismatch risk is "truly an accurate skeptical take." Plus Box Architect and whether he'd buy Anthropic shares. Listen from 15:18 to 18:30 and from 25:05 to 29:43.
+
+Listen verdict: LISTEN 00:15:18-00:18:30 (time-in/value-out decoupling; $20K agent swarm), 00:25:05-00:29:43 (frontier orchestrates, cheap models grind; Jevons; Jev name-check) and 00:46:47-00:50:54 (duration mismatch, '100% that could happen'). Good 00:23:20-00:25:05 and 00:38:10-00:46:47 (answers to Gary). Skim 00:18:30-00:23:20, 00:29:46-00:34:31, 00:51:02-end. Skip ads 00:00:12-00:00:48, 00:34:52-00:38:01 (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Big Technology's optimist episode for Anthropic's IPO week: Alex Kantrowitz talks with Box CEO Aaron Levie, two days after Gary Marcus made the bear case. Aaron argues everything is becoming code-adjacent, so coding's AI gains spread to cyber, manufacturing, legal and sales. He says knowledge work's time-in and value-out are now decoupled, so your only limit is how much compute you apply. Cheaper open-weight models and routing grow the pie: the frontier model orchestrates and cheap models (Aaron names Jev as one example) grind the bulk. From the S-1: revenue went from $1.4 billion to $17 billion in a year, customers paying $100K+ from 950 to 11,900, and revenue per compute dollar from 40 cents to $1.72. Also: Alex's breathing benchmark and why labs train where the money is. Aaron answers Gary's three rebuttals (the $900 billion in commitments, token maxing, diminishing returns) and concedes the duration-mismatch risk is "truly an accurate skeptical take." Plus Box Architect and whether he'd buy Anthropic shares. Listen from 15:18 to 18:30 and from 25:05 to 29:43.
+
+Listen verdict: LISTEN 00:15:18-00:18:30 (time-in/value-out decoupling; $20K agent swarm), 00:25:05-00:29:43 (frontier orchestrates, cheap models grind; Jevons; Jev name-check) and 00:46:47-00:50:54 (duration mismatch, '100% that could happen'). Good 00:23:20-00:25:05 and 00:38:10-00:46:47 (answers to Gary). Skim 00:18:30-00:23:20, 00:29:46-00:34:31, 00:51:02-end. Skip ads 00:00:12-00:00:48, 00:34:52-00:38:01 (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-aaron-levie-anthropic-ipo.mp3" length="17563052" type="audio/mpeg"/>
+<itunes:duration>18:18</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Gary Marcus: Why the Anthropic IPO Will Fail / $900B in Commitments / Token Maxing and the Trillion-Pound Baby / Alex's Rebuttals / Where AI Is Stuck (Conversation)</title>
 <itunes:title>Big Technology — Gary Marcus: Why the Anthropic IPO Will Fail / $900B in Commitments / Token Maxing and the Trillion-Pound Baby / Alex's Rebuttals / Where AI Is Stuck (Conversation)</itunes:title>
