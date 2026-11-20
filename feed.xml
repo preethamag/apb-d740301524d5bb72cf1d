@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 19 Nov 2026 18:56:30 GMT</lastBuildDate>
-<pubDate>Thu, 19 Nov 2026 16:34:41 GMT</pubDate>
+<lastBuildDate>Fri, 20 Nov 2026 01:03:48 GMT</lastBuildDate>
+<pubDate>Fri, 20 Nov 2026 00:59:55 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots — Anthropic's $1.4T IPO: Paper Wealth Is Nonsense / Acausal Unicorns / Offense Automated, Defense Isn't / Starship's Packet-Switched Moment / The Silicon Curtain (Conversation)</title>
+<itunes:title>Moonshots — Anthropic's $1.4T IPO: Paper Wealth Is Nonsense / Acausal Unicorns / Offense Automated, Defense Isn't / Starship's Packet-Switched Moment / The Silicon Curtain (Conversation)</itunes:title>
+<guid isPermaLink="false">moonshots-anthropic-ipo-wealth-event</guid>
+<pubDate>Fri, 20 Nov 2026 00:59:55 GMT</pubDate>
+<description>Andrew and Ava brief a live Moonshots recorded the night before Anthropic started trading. Peter Diamandis, Dave Blundin, Salim Ismail (at 1:25 AM in Bangkok) and Alex Wissner-Gross on the $1.4 trillion IPO: $70 to $78 a share, about $64 billion raised, an average Anthropic employee holding around $72 million, and why Dave calls "paper wealth" nonsense. Plus time-to-unicorn falling to about a year (Alex's "acausal unicorns"), SF's talent void, four outages in six days and the offense-versus-defense gap in cyber, Starship's first ship catch as the "packet-switched" moment for space, the silicon curtain on chips and Chinese models, Elon's four-month data centers, GPT-6.2 versus Opus 5.5 and Fable 5.2, Palmer Luckey's seastead, and the viewer Q&amp;A. Listen from 22:40 to 25:25 and 30:05 to 34:55.
+
+Listen verdict: LISTEN 00:22:40-00:25:25 (paper wealth is nonsense), 00:30:05-00:34:55 (time-to-unicorn, acausal unicorns, SF talent void), 00:45:45-00:47:45 (offense automated vs defense one port at a time). Good 00:20:35-00:22:40, 00:43:00-00:45:20, 00:50:00-00:52:20, 00:56:50-00:59:45, 01:10:55-01:15:00, 01:24:28-01:27:55. Skim 00:01:08-00:18:00 (Nvidia/Jensen/Google speculation), 00:37:10-00:40:25, 01:15:40-01:22:00, 01:28:20-01:53:30. Skip 00:00:00-00:01:08 and 01:53:30-end (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief a live Moonshots recorded the night before Anthropic started trading. Peter Diamandis, Dave Blundin, Salim Ismail (at 1:25 AM in Bangkok) and Alex Wissner-Gross on the $1.4 trillion IPO: $70 to $78 a share, about $64 billion raised, an average Anthropic employee holding around $72 million, and why Dave calls "paper wealth" nonsense. Plus time-to-unicorn falling to about a year (Alex's "acausal unicorns"), SF's talent void, four outages in six days and the offense-versus-defense gap in cyber, Starship's first ship catch as the "packet-switched" moment for space, the silicon curtain on chips and Chinese models, Elon's four-month data centers, GPT-6.2 versus Opus 5.5 and Fable 5.2, Palmer Luckey's seastead, and the viewer Q&amp;A. Listen from 22:40 to 25:25 and 30:05 to 34:55.
+
+Listen verdict: LISTEN 00:22:40-00:25:25 (paper wealth is nonsense), 00:30:05-00:34:55 (time-to-unicorn, acausal unicorns, SF talent void), 00:45:45-00:47:45 (offense automated vs defense one port at a time). Good 00:20:35-00:22:40, 00:43:00-00:45:20, 00:50:00-00:52:20, 00:56:50-00:59:45, 01:10:55-01:15:00, 01:24:28-01:27:55. Skim 00:01:08-00:18:00 (Nvidia/Jensen/Google speculation), 00:37:10-00:40:25, 01:15:40-01:22:00, 01:28:20-01:53:30. Skip 00:00:00-00:01:08 and 01:53:30-end (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-anthropic-ipo-wealth-event.mp3" length="37408556" type="audio/mpeg"/>
+<itunes:duration>38:58</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC Trio EP.83 — Will Jensen Return to Nvidia? / Anthropic's $100B With Under 6,000 People / IC: Kalshi vs Mercor vs Fractile / SMBs Buy Agents, Not SaaS / Jason's Muse vs Instinct (Conversational)</title>
 <itunes:title>20VC Trio EP.83 — Will Jensen Return to Nvidia? / Anthropic's $100B With Under 6,000 People / IC: Kalshi vs Mercor vs Fractile / SMBs Buy Agents, Not SaaS / Jason's Muse vs Instinct (Conversational)</itunes:title>
