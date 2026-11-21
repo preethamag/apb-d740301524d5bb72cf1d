@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Fri, 20 Nov 2026 01:04:17 GMT</lastBuildDate>
-<pubDate>Fri, 20 Nov 2026 00:59:55 GMT</pubDate>
+<lastBuildDate>Sat, 21 Nov 2026 01:05:38 GMT</lastBuildDate>
+<pubDate>Sat, 21 Nov 2026 01:03:54 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Ranjan Roy: Anthropic's Moment of Truth / Insiders Win, Retail Holds the Bag / The Market Falls Anyway / Nvidia in Limbo / Apple's AI Agent (Conversation)</title>
+<itunes:title>Big Technology — Ranjan Roy: Anthropic's Moment of Truth / Insiders Win, Retail Holds the Bag / The Market Falls Anyway / Nvidia in Limbo / Apple's AI Agent (Conversation)</itunes:title>
+<guid isPermaLink="false">big-technology-ranjan-anthropic-moment-of-truth</guid>
+<pubDate>Sat, 21 Nov 2026 01:03:54 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's Friday edition, recorded the day after Anthropic's first day of trading: Alex Kantrowitz and Ranjan Roy (Margins) ask whether the IPO succeeded or failed. The numbers: priced at $83 after a range in the $70s, spiked to $114, then slid back to about $86, with $93 billion raised per the show notes. The verdict: a clear win for the company, its employees and private investors, and a loss for retail buyers who got in at about $1.5 trillion. Also: Dan Niles on slowing growth, open-weight models (ones anyone can download and run) and commoditization; Ranjan's "I know even less about where AI is going"; the FT's roughly $600 billion revenue bar; and why the market kept falling into a correction anyway. On Nvidia: whether a new CEO would help, the New York Times on Alice Wang's ties to China's defense industry, leverage, Jensen Huang's insults and hardware culture. Then OpenAI's fundraising after the IPO, Dots and a wide-open consumer agent race, Anthropic's Riemann hypothesis claim, and Apple's job listing for a "proactive, agentic AI assistant" as Siri still trails Alexa Plus. Listen from 16:23 to 21:11 and from 32:54 to 40:17.
+
+Listen verdict: LISTEN 00:16:23-00:21:11 (Niles slowdown + commoditization; 'I know even less'; FT ~$600B bar) and 00:32:54-00:40:17 (new CEO wouldn't fix Nvidia; NYT on Alice Wang; leverage). Good 00:02:17-00:08:59 and 00:51:33-00:55:10. Skim 00:40:25-00:47:25 and 00:57:13-end. Skip ads 00:14-01:17, 47:48-51:29, 1:04:43-end (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Big Technology's Friday edition, recorded the day after Anthropic's first day of trading: Alex Kantrowitz and Ranjan Roy (Margins) ask whether the IPO succeeded or failed. The numbers: priced at $83 after a range in the $70s, spiked to $114, then slid back to about $86, with $93 billion raised per the show notes. The verdict: a clear win for the company, its employees and private investors, and a loss for retail buyers who got in at about $1.5 trillion. Also: Dan Niles on slowing growth, open-weight models (ones anyone can download and run) and commoditization; Ranjan's "I know even less about where AI is going"; the FT's roughly $600 billion revenue bar; and why the market kept falling into a correction anyway. On Nvidia: whether a new CEO would help, the New York Times on Alice Wang's ties to China's defense industry, leverage, Jensen Huang's insults and hardware culture. Then OpenAI's fundraising after the IPO, Dots and a wide-open consumer agent race, Anthropic's Riemann hypothesis claim, and Apple's job listing for a "proactive, agentic AI assistant" as Siri still trails Alexa Plus. Listen from 16:23 to 21:11 and from 32:54 to 40:17.
+
+Listen verdict: LISTEN 00:16:23-00:21:11 (Niles slowdown + commoditization; 'I know even less'; FT ~$600B bar) and 00:32:54-00:40:17 (new CEO wouldn't fix Nvidia; NYT on Alice Wang; leverage). Good 00:02:17-00:08:59 and 00:51:33-00:55:10. Skim 00:40:25-00:47:25 and 00:57:13-end. Skip ads 00:14-01:17, 47:48-51:29, 1:04:43-end (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ranjan-anthropic-moment-of-truth.mp3" length="17704748" type="audio/mpeg"/>
+<itunes:duration>18:27</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots — Anthropic's $1.4T IPO: Paper Wealth Is Nonsense / Acausal Unicorns / Offense Automated, Defense Isn't / Starship's Packet-Switched Moment / The Silicon Curtain (Conversation)</title>
 <itunes:title>Moonshots — Anthropic's $1.4T IPO: Paper Wealth Is Nonsense / Acausal Unicorns / Offense Automated, Defense Isn't / Starship's Packet-Switched Moment / The Silicon Curtain (Conversation)</itunes:title>
