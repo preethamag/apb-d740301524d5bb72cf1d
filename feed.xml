@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 21 Nov 2026 01:06:07 GMT</lastBuildDate>
-<pubDate>Sat, 21 Nov 2026 01:03:54 GMT</pubDate>
+<lastBuildDate>Sat, 21 Nov 2026 16:05:50 GMT</lastBuildDate>
+<pubDate>Sat, 21 Nov 2026 16:02:19 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Kush Bavaria (Ornn): The State of Compute / GPU Landlords / Why Rental Prices Keep Rising / A Brent-Style Benchmark for Compute / Who Hedges (Conversation)</title>
+<itunes:title>20VC — Kush Bavaria (Ornn): The State of Compute / GPU Landlords / Why Rental Prices Keep Rising / A Brent-Style Benchmark for Compute / Who Hedges (Conversation)</itunes:title>
+<guid isPermaLink="false">20vc-kush-bavaria-ornn</guid>
+<pubDate>Sat, 21 Nov 2026 16:02:19 GMT</pubDate>
+<description>Andrew and Ava brief 20VC: Harry Stebbings in the studio with Kush Bavaria, the 23-year-old co-founder and CEO of Ornn, which is building a financial market for AI compute (price indexes now, futures on GPU rental later). Kush's case: infrastructure investors are landlords who keep collecting rent as long as AI has tenants; GPU rental prices are rising, not falling; CoreWeave quotes late 2027 or early 2028; free renewal options have disappeared; and he wouldn't be surprised to see Nvidia's Rubin rent for $20 to $30 an hour versus about $7 to $8 today. He also gives the bear case: enterprises that never find a use for AI, defaults, and lenders stuck with chips. Then why compute needs a market: about 300 neoclouds selling nearly the same Nvidia GPU, a Brent-style benchmark built on one specific grade of compute, why Ornn had to go all the way down to controlling chips, and who will hedge (lenders exposed to neolab credit risk, and owners facing depreciation). Plus: his team runs on Grok Bot for daily tasks, Harry uses Instinct, Factory over Devin, why he picked a boutique VC over a big brand, hiring college athletes, and OpenAI over Anthropic "because they have more compute." Listen from 9:00 to 16:35 and from 28:58 to 43:50.
+
+Listen verdict: LISTEN 00:09:00-00:16:35 (landlord model, lead times, rising GPU prices, forward curve flip, Rubin $20-30 call, CoreWeave/Nebius bull vs bear) and 00:28:58-00:43:50 (why compute needs a market, Brent-style index, no-moat paradox, chip level, credit + depreciation hedging, standardization, mispriced risk). Good 00:16:35-00:25:48 (Grok Bot/Instinct/Factory stack, older GPUs, inference verticals, FOMO). Fun quickfire 01:03:31-01:08:56. Skim 00:45:45-00:50:09 and 00:54:56-01:03:31. Skip ads 01:22-04:24, 1:09:42-end (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief 20VC: Harry Stebbings in the studio with Kush Bavaria, the 23-year-old co-founder and CEO of Ornn, which is building a financial market for AI compute (price indexes now, futures on GPU rental later). Kush's case: infrastructure investors are landlords who keep collecting rent as long as AI has tenants; GPU rental prices are rising, not falling; CoreWeave quotes late 2027 or early 2028; free renewal options have disappeared; and he wouldn't be surprised to see Nvidia's Rubin rent for $20 to $30 an hour versus about $7 to $8 today. He also gives the bear case: enterprises that never find a use for AI, defaults, and lenders stuck with chips. Then why compute needs a market: about 300 neoclouds selling nearly the same Nvidia GPU, a Brent-style benchmark built on one specific grade of compute, why Ornn had to go all the way down to controlling chips, and who will hedge (lenders exposed to neolab credit risk, and owners facing depreciation). Plus: his team runs on Grok Bot for daily tasks, Harry uses Instinct, Factory over Devin, why he picked a boutique VC over a big brand, hiring college athletes, and OpenAI over Anthropic "because they have more compute." Listen from 9:00 to 16:35 and from 28:58 to 43:50.
+
+Listen verdict: LISTEN 00:09:00-00:16:35 (landlord model, lead times, rising GPU prices, forward curve flip, Rubin $20-30 call, CoreWeave/Nebius bull vs bear) and 00:28:58-00:43:50 (why compute needs a market, Brent-style index, no-moat paradox, chip level, credit + depreciation hedging, standardization, mispriced risk). Good 00:16:35-00:25:48 (Grok Bot/Instinct/Factory stack, older GPUs, inference verticals, FOMO). Fun quickfire 01:03:31-01:08:56. Skim 00:45:45-00:50:09 and 00:54:56-01:03:31. Skip ads 01:22-04:24, 1:09:42-end (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-kush-bavaria-ornn.mp3" length="20802092" type="audio/mpeg"/>
+<itunes:duration>21:40</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Ranjan Roy: Anthropic's Moment of Truth / Insiders Win, Retail Holds the Bag / The Market Falls Anyway / Nvidia in Limbo / Apple's AI Agent (Conversation)</title>
 <itunes:title>Big Technology — Ranjan Roy: Anthropic's Moment of Truth / Insiders Win, Retail Holds the Bag / The Market Falls Anyway / Nvidia in Limbo / Apple's AI Agent (Conversation)</itunes:title>
