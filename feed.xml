@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 21 Nov 2026 16:06:15 GMT</lastBuildDate>
-<pubDate>Sat, 21 Nov 2026 16:02:19 GMT</pubDate>
+<lastBuildDate>Sat, 21 Nov 2026 19:19:50 GMT</lastBuildDate>
+<pubDate>Sat, 21 Nov 2026 19:19:23 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots EP #314 — Steve Jurvetson: The SpaceX Deal That Almost Didn't Happen / The Only Singularity We'll Ever Have / Is OpenAI a Survivor? / SpaceX's Compute Machine / Voyager at One Light-Day (Conversation)</title>
+<itunes:title>Moonshots EP #314 — Steve Jurvetson: The SpaceX Deal That Almost Didn't Happen / The Only Singularity We'll Ever Have / Is OpenAI a Survivor? / SpaceX's Compute Machine / Voyager at One Light-Day (Conversation)</itunes:title>
+<guid isPermaLink="false">moonshots-jurvetson-spacex</guid>
+<pubDate>Sat, 21 Nov 2026 19:19:23 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots EP #314: Peter Diamandis, Dave Blundin, Salim Ismail, Alex Wissner-Gross and Emad Mostaque with venture capitalist Steve Jurvetson (Future Ventures, SpaceX board). The SpaceX deal that almost didn't happen: in late 2008 Steve's partnership formally voted him down for the only time in his career, and it took two weeks and some 2x downside protections (anti-dilution, a minimum 2x at IPO, a 2x liquidation preference, a 2x redemption right) to get skeptical partners to yes at a $150M valuation. Elon shrugged them off. Plus the reply-all email warning against "personal passions," and Steve's investing rule after pantyhose-on-the-web: back things unlike anything he's seen but adjacent to where he's been. Then the Anthropic IPO and why Wall Street can't digest it yet, "peak fear" over AI cyberattacks, Steve on the "only singularity we'll ever have" (an unbounded bet set by IPO demand), why he's not sure OpenAI survives, Gemini 4 Neon and Google's 8 million TPUs, SpaceX adding 500 MW of compute a month, Dave's dream and nightmare scenarios for Elon (inference-time training), TerraFab and memory, what really drives Elon, Starlink lasers, Optimus for mining, and Voyager 1 passing one light-day. Emad also names Grok Bot. Listen from 2:46 to 10:40, 25:40 to 31:26, and 1:15:11 to 1:21:32.
+
+Listen verdict: LISTEN 00:02:46-00:10:40 (SpaceX deal: vote-down, 2x structure, passions email, Gazelle/pantyhose rule), 00:25:40-00:31:26 (Steve on IPO scale, 'mortgage the future', the AI that will scold you), 01:07:10-01:11:33 (how SpaceX builds the machine), 01:15:11-01:21:32 (Dave's dream/nightmare + inference-time training + Steve's no-ceiling demand), 01:42:52-01:47:05 (what drives Elon). Good 00:33:40-00:37:20 (survivors/Meta/culture), 01:35:09-01:42:52 (TerraFab, DRAM boom-bust, hardware fear), 02:00:50-02:09:06 (Voyager, Moon-base beacon). Skim peak fear 00:17:48-00:25:40, Altman/OpenAI IPO/AI board 00:38:48-00:52:15, Gemini 00:52:15-01:06:40, Starlink 01:28:45-01:35:09. Skip ads 11:23-11:58, 1:27:29-1:29:04, 1:46:54-1:49:02, 2:10:26-end (Mini-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Moonshots EP #314: Peter Diamandis, Dave Blundin, Salim Ismail, Alex Wissner-Gross and Emad Mostaque with venture capitalist Steve Jurvetson (Future Ventures, SpaceX board). The SpaceX deal that almost didn't happen: in late 2008 Steve's partnership formally voted him down for the only time in his career, and it took two weeks and some 2x downside protections (anti-dilution, a minimum 2x at IPO, a 2x liquidation preference, a 2x redemption right) to get skeptical partners to yes at a $150M valuation. Elon shrugged them off. Plus the reply-all email warning against "personal passions," and Steve's investing rule after pantyhose-on-the-web: back things unlike anything he's seen but adjacent to where he's been. Then the Anthropic IPO and why Wall Street can't digest it yet, "peak fear" over AI cyberattacks, Steve on the "only singularity we'll ever have" (an unbounded bet set by IPO demand), why he's not sure OpenAI survives, Gemini 4 Neon and Google's 8 million TPUs, SpaceX adding 500 MW of compute a month, Dave's dream and nightmare scenarios for Elon (inference-time training), TerraFab and memory, what really drives Elon, Starlink lasers, Optimus for mining, and Voyager 1 passing one light-day. Emad also names Grok Bot. Listen from 2:46 to 10:40, 25:40 to 31:26, and 1:15:11 to 1:21:32.
+
+Listen verdict: LISTEN 00:02:46-00:10:40 (SpaceX deal: vote-down, 2x structure, passions email, Gazelle/pantyhose rule), 00:25:40-00:31:26 (Steve on IPO scale, 'mortgage the future', the AI that will scold you), 01:07:10-01:11:33 (how SpaceX builds the machine), 01:15:11-01:21:32 (Dave's dream/nightmare + inference-time training + Steve's no-ceiling demand), 01:42:52-01:47:05 (what drives Elon). Good 00:33:40-00:37:20 (survivors/Meta/culture), 01:35:09-01:42:52 (TerraFab, DRAM boom-bust, hardware fear), 02:00:50-02:09:06 (Voyager, Moon-base beacon). Skim peak fear 00:17:48-00:25:40, Altman/OpenAI IPO/AI board 00:38:48-00:52:15, Gemini 00:52:15-01:06:40, Starlink 01:28:45-01:35:09. Skip ads 11:23-11:58, 1:27:29-1:29:04, 1:46:54-1:49:02, 2:10:26-end (Mini-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-jurvetson-spacex.mp3" length="38658476" type="audio/mpeg"/>
+<itunes:duration>40:16</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC — Kush Bavaria (Ornn): The State of Compute / GPU Landlords / Why Rental Prices Keep Rising / A Brent-Style Benchmark for Compute / Who Hedges (Conversation)</title>
 <itunes:title>20VC — Kush Bavaria (Ornn): The State of Compute / GPU Landlords / Why Rental Prices Keep Rising / A Brent-Style Benchmark for Compute / Who Hedges (Conversation)</itunes:title>
