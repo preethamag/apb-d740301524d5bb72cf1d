@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 21 Nov 2026 19:19:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 19:20:22 GMT</lastBuildDate>
 <pubDate>Sat, 21 Nov 2026 19:19:23 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -1001,94 +1001,6 @@ Sticky insights:
 - Unilever pattern: start on a frontier model, write the evals, move to a cheaper MAI model trained on your traces, hand it to IT; one integrated stack winner is 'unlikely' — five-six closed + five-six open models, routers, many winners per layer</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-satya-nadella.mp3" length="7339052" type="audio/mpeg"/>
 <itunes:duration>7:39</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Lenny's — Rob Snyder (The Power of Pull): Find a Stuck Person, Not a Market — PULL, the Two-Slide Test, the Hail Mary &amp; the Case Study Factory (Conversational)</title>
-<itunes:title>Lenny's — Rob Snyder (The Power of Pull): Find a Stuck Person, Not a Market — PULL, the Two-Slide Test, the Hail Mary &amp; the Case Study Factory (Conversational)</itunes:title>
-<guid isPermaLink="false">lenny-rob-snyder</guid>
-<pubDate>Sun, 25 Oct 2026 15:33:46 GMT</pubDate>
-<description>Atlas Podme Briefing — Lenny's Podcast with Rob Snyder, author of The Power of Pull.
-
-A practical walk through finding product-market fit: the PULL framework (Project, Unavoidable, List of options, Limitations) and why all four must exist (Jump's AI note-taker for financial advisors vs. insurance agents), why pull is discovered rather than created and lives in a person, getting ideas from firsthand experience, the two-slide pull test, real buying intent vs. "send more information," the Hail Mary question, why he skips design partners and pilots, "founder magic" cold outreach with LinkedIn benchmarks, running the first sales call, pricing from the alternatives, goblin mode, "guaranteed to churn until X," and the case study factory.
-
-Conversational Andrew and Ava. Skip the WorkOS and DX ads.
-
-Source: https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf
-
-Listen verdict: SKIM, with sections worth hearing if you're selling something new: pull + acronym + Jump/insurance near miss 04:06–13:53 (skip WorkOS 06:22–07:31) · two slides + buying intent 22:34–27:24 · first sales call 41:27–49:57 · closing, price anchors, design partners 54:08–1:02:22 · weird-to-churn + case study factory 1:06:56–1:16:15. Optional: firsthand ideas 17:13–22:34; outreach + LinkedIn benchmarks 34:46–40:37; goblin mode 1:02:22–1:06:56; bigger companies 1:16:15–1:20:03. Skip teaser 00:00–01:12, DX 40:37–41:27, lightning round 1:21:35–end (Muse mention at 1:22:26).
-
-Sticky insights:
-- PULL = a specific person with a Project that's Unavoidable now, whose List of options all have Limitations; all four must exist — insurance agents had Jump's P but no U ('not taking notes' was fine)
-- Pull is discovered, not created, and lives in a person ('you're selling to the head of legal at SpaceX'); test with two slides and watch for them trying to buy before there's a product ('if you can do that, I will pay you right now')
-- Skip design partners/pilots (a 'negative signal to people who actually have pull'); when lukewarm, throw the Hail Mary: 'anything on your to-do list you'd pay me to do right now?'
-- Outreach benchmarks: ~20 LinkedIn adds a day (up to 150/week), 30–40% accept, 30–50% reply; AI-personalized cold messages read like 'Claude wrote it'
-- Everyone is 'guaranteed to churn until X' — build a bullet train to X; a startup 'repeats one case study infinite times'; price from the alternatives ($50K/year consultants → $50K/year)</description>
-<itunes:summary>Atlas Podme Briefing — Lenny's Podcast with Rob Snyder, author of The Power of Pull.
-
-A practical walk through finding product-market fit: the PULL framework (Project, Unavoidable, List of options, Limitations) and why all four must exist (Jump's AI note-taker for financial advisors vs. insurance agents), why pull is discovered rather than created and lives in a person, getting ideas from firsthand experience, the two-slide pull test, real buying intent vs. "send more information," the Hail Mary question, why he skips design partners and pilots, "founder magic" cold outreach with LinkedIn benchmarks, running the first sales call, pricing from the alternatives, goblin mode, "guaranteed to churn until X," and the case study factory.
-
-Conversational Andrew and Ava. Skip the WorkOS and DX ads.
-
-Source: https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf
-
-Listen verdict: SKIM, with sections worth hearing if you're selling something new: pull + acronym + Jump/insurance near miss 04:06–13:53 (skip WorkOS 06:22–07:31) · two slides + buying intent 22:34–27:24 · first sales call 41:27–49:57 · closing, price anchors, design partners 54:08–1:02:22 · weird-to-churn + case study factory 1:06:56–1:16:15. Optional: firsthand ideas 17:13–22:34; outreach + LinkedIn benchmarks 34:46–40:37; goblin mode 1:02:22–1:06:56; bigger companies 1:16:15–1:20:03. Skip teaser 00:00–01:12, DX 40:37–41:27, lightning round 1:21:35–end (Muse mention at 1:22:26).
-
-Sticky insights:
-- PULL = a specific person with a Project that's Unavoidable now, whose List of options all have Limitations; all four must exist — insurance agents had Jump's P but no U ('not taking notes' was fine)
-- Pull is discovered, not created, and lives in a person ('you're selling to the head of legal at SpaceX'); test with two slides and watch for them trying to buy before there's a product ('if you can do that, I will pay you right now')
-- Skip design partners/pilots (a 'negative signal to people who actually have pull'); when lukewarm, throw the Hail Mary: 'anything on your to-do list you'd pay me to do right now?'
-- Outreach benchmarks: ~20 LinkedIn adds a day (up to 150/week), 30–40% accept, 30–50% reply; AI-personalized cold messages read like 'Claude wrote it'
-- Everyone is 'guaranteed to churn until X' — build a bullet train to X; a startup 'repeats one case study infinite times'; price from the alternatives ($50K/year consultants → $50K/year)</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-rob-snyder.mp3" length="21143852" type="audio/mpeg"/>
-<itunes:duration>22:01</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — Naveen Rao (Unconventional AI): Robotics 100x Coding Agents / Inference a $10T Market / Why Software Investors Are in Trouble (Conversational)</title>
-<itunes:title>20VC — Naveen Rao (Unconventional AI): Robotics 100x Coding Agents / Inference a $10T Market / Why Software Investors Are in Trouble (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-naveen-rao</guid>
-<pubDate>Sat, 24 Oct 2026 18:28:51 GMT</pubDate>
-<description>Atlas Podme Briefing — 20VC with Harry Stebbings and Naveen Rao, founder of Unconventional AI (and of MosaicML, sold to Databricks for $1.3 billion). Published Oct 24, 2026.
-
-Why energy is AI's real bottleneck — about $50 billion per gigawatt, the grid's spare capacity running out, China building six times faster for twenty years — and why he calls this a blip, not a bubble; why the next efficiency gains come from designing the model and the chip together; specialized chips versus NVIDIA, and why chips won't become commodities; AI slop and the shift from producing to verifying; why we shouldn't trust agents more than humans yet; why "if you're a pure software investor, you're kind of" in trouble, and Harry's pushback; inference as a $10 trillion market within ten years; why robotics will be 100 times bigger than agentic coding; and why coding agents are the most overrated AI market, because the value moves to the model.
-
-Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev, Muse and Dots are not named; xAI's Grok comes up once in a list of AI labs.
-
-Source: 20VC, "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional" (published Oct 24, 2026).
-
-Listen verdict: LISTEN 50:16–55:45 (Harry vs Naveen on robotics, 'inference market… unbounded', $1T models / $10T inference in 10 years, Jevons, robotics 100x agentic coding, price 'almost irrelevant') and 57:07–1:01:04 (quick-fire: market validation, own fabs, agentic coding overrated because value moves to the model, 80% open tokens / 50-50 spend). SKIM: software investors / commoditization 38:55–50:16; energy 04:50–11:20; compute + chips + NVIDIA 11:22–24:58; slop/verification/trust/data/RL/transformers 24:58–38:55. Optional 55:45–57:07, 1:01:04–1:06:30. Skip ads 01:25–04:26, 1:06:33–end.
-
-Sticky insights:
-- Agentic coding is 'quite overrated' as a market because value 'moves to the model provider'; harness/IDE 'not super sticky' — people in his company switch fluidly; Cursor 'had a great exit'
-- Inference 'unbounded': AI models a $1T market in the next few years, inference a $10T market within 10 years; 10x cheaper tokens ~10x the market (Jevons); robotics '100 times larger than agentic coding'
-- 'If you're a pure software investor, you're kind of fucked' — SaaS sugar high over; concedes to Harry's Legora pushback; hardware 'the place to be over the next 10 years'; NVIDIA takes 'the lion's share' of margin
-- Energy ceiling: ~$50B per gigawatt vs $20–30B fab; US grid ~900 GW average vs 1.2–1.3 TW peak; 'out of energy pretty soon'; 40 GW/year 'no way', maybe 10 (~half a trillion dollars); China 6x faster for 20 years
-- 'We've moved the problem from producing to verification'; don't trust agent decisions over humans 'just yet'; 80% of tokens open in 3 years, ~50-50 on spend</description>
-<itunes:summary>Atlas Podme Briefing — 20VC with Harry Stebbings and Naveen Rao, founder of Unconventional AI (and of MosaicML, sold to Databricks for $1.3 billion). Published Oct 24, 2026.
-
-Why energy is AI's real bottleneck — about $50 billion per gigawatt, the grid's spare capacity running out, China building six times faster for twenty years — and why he calls this a blip, not a bubble; why the next efficiency gains come from designing the model and the chip together; specialized chips versus NVIDIA, and why chips won't become commodities; AI slop and the shift from producing to verifying; why we shouldn't trust agents more than humans yet; why "if you're a pure software investor, you're kind of" in trouble, and Harry's pushback; inference as a $10 trillion market within ten years; why robotics will be 100 times bigger than agentic coding; and why coding agents are the most overrated AI market, because the value moves to the model.
-
-Conversational Andrew and Ava (tone v2). Instinct, Town, Grok Bot, Jev, Muse and Dots are not named; xAI's Grok comes up once in a list of AI labs.
-
-Source: 20VC, "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional" (published Oct 24, 2026).
-
-Listen verdict: LISTEN 50:16–55:45 (Harry vs Naveen on robotics, 'inference market… unbounded', $1T models / $10T inference in 10 years, Jevons, robotics 100x agentic coding, price 'almost irrelevant') and 57:07–1:01:04 (quick-fire: market validation, own fabs, agentic coding overrated because value moves to the model, 80% open tokens / 50-50 spend). SKIM: software investors / commoditization 38:55–50:16; energy 04:50–11:20; compute + chips + NVIDIA 11:22–24:58; slop/verification/trust/data/RL/transformers 24:58–38:55. Optional 55:45–57:07, 1:01:04–1:06:30. Skip ads 01:25–04:26, 1:06:33–end.
-
-Sticky insights:
-- Agentic coding is 'quite overrated' as a market because value 'moves to the model provider'; harness/IDE 'not super sticky' — people in his company switch fluidly; Cursor 'had a great exit'
-- Inference 'unbounded': AI models a $1T market in the next few years, inference a $10T market within 10 years; 10x cheaper tokens ~10x the market (Jevons); robotics '100 times larger than agentic coding'
-- 'If you're a pure software investor, you're kind of fucked' — SaaS sugar high over; concedes to Harry's Legora pushback; hardware 'the place to be over the next 10 years'; NVIDIA takes 'the lion's share' of margin
-- Energy ceiling: ~$50B per gigawatt vs $20–30B fab; US grid ~900 GW average vs 1.2–1.3 TW peak; 'out of energy pretty soon'; 40 GW/year 'no way', maybe 10 (~half a trillion dollars); China 6x faster for 20 years
-- 'We've moved the problem from producing to verification'; don't trust agent decisions over humans 'just yet'; 80% of tokens open in 3 years, ~50-50 on spend</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-naveen-rao.mp3" length="17928236" type="audio/mpeg"/>
-<itunes:duration>18:40</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
