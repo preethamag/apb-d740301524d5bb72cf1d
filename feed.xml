@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sun, 22 Nov 2026 16:28:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 16:29:18 GMT</lastBuildDate>
 <pubDate>Sun, 22 Nov 2026 16:18:07 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -921,36 +921,6 @@ Sticky insights:
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>How I AI — Blair Metcalf (Reddit Proto): Build Your Own AI Prototyping Rig — Real Signed-In Data, Point-and-Annotate Edits in Cursor, Feature Capsules &amp; a Design-System Map the AI Can Read (Conversational)</title>
-<itunes:title>How I AI — Blair Metcalf (Reddit Proto): Build Your Own AI Prototyping Rig — Real Signed-In Data, Point-and-Annotate Edits in Cursor, Feature Capsules &amp; a Design-System Map the AI Can Read (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-reddit-blair-metcalf</guid>
-<pubDate>Mon, 26 Oct 2026 21:09:28 GMT</pubDate>
-<description>Atlas Podme Briefing — How I AI with Claire Vo and Blair Metcalf, principal UX engineer at Reddit.
-
-How Reddit built Reddit Proto, its in-house AI prototyping tool: a launch pad that hides Git and starts every project from the whole Reddit app, prototypes on your real signed-in feed instead of mocks, annotations you pin on the screen and send to Cursor, deploying to Reddit's own servers and sharing by Slack link or scan-to-phone PWA, 150+ users and about 700 prototypes, 'instant alignment' with leadership, the feature capsule (Figma frame to PRD to draft code for engineers), Proto MCP Ultra and the 'Rosetta Stone' design-system map, why designers and animators make great 'directors', and his fix when the AI won't listen: take a day and get more vague.
-
-Conversational Andrew and Ava. Skip the cold open and the Firecrawl ads.
-
-Source: https://podcasters.spotify.com/pod/show/pen-name/episodes/Why-Reddit-built-its-own-AI-prototyping-tool--Blair-Metcalf-e3qtst2
-
-Listen verdict: SKIM-PLUS: demo-heavy; the briefing carries the ideas, but the screen share is worth watching on YouTube if you're building a prototyping rig. Priority: real data + annotations 05:56–10:42 · feature capsule and Rosetta Stone map 15:53–24:55. Optional: sharing/adoption 10:42–13:28; leadership review 14:13–15:53; lightning round 25:43–28:30. Skip: cold open 00:00–01:16, Firecrawl ads 01:48–02:31 and 13:28–14:13, outro 28:30–end.</description>
-<itunes:summary>Atlas Podme Briefing — How I AI with Claire Vo and Blair Metcalf, principal UX engineer at Reddit.
-
-How Reddit built Reddit Proto, its in-house AI prototyping tool: a launch pad that hides Git and starts every project from the whole Reddit app, prototypes on your real signed-in feed instead of mocks, annotations you pin on the screen and send to Cursor, deploying to Reddit's own servers and sharing by Slack link or scan-to-phone PWA, 150+ users and about 700 prototypes, 'instant alignment' with leadership, the feature capsule (Figma frame to PRD to draft code for engineers), Proto MCP Ultra and the 'Rosetta Stone' design-system map, why designers and animators make great 'directors', and his fix when the AI won't listen: take a day and get more vague.
-
-Conversational Andrew and Ava. Skip the cold open and the Firecrawl ads.
-
-Source: https://podcasters.spotify.com/pod/show/pen-name/episodes/Why-Reddit-built-its-own-AI-prototyping-tool--Blair-Metcalf-e3qtst2
-
-Listen verdict: SKIM-PLUS: demo-heavy; the briefing carries the ideas, but the screen share is worth watching on YouTube if you're building a prototyping rig. Priority: real data + annotations 05:56–10:42 · feature capsule and Rosetta Stone map 15:53–24:55. Optional: sharing/adoption 10:42–13:28; leadership review 14:13–15:53; lightning round 25:43–28:30. Skip: cold open 00:00–01:16, Firecrawl ads 01:48–02:31 and 13:28–14:13, outro 28:30–end.</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-reddit-blair-metcalf.mp3" length="7620908" type="audio/mpeg"/>
-<itunes:duration>7:56</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</title>
 <itunes:title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</itunes:title>
 <guid isPermaLink="false">big-technology-anthropic-s1-primack</guid>
@@ -975,50 +945,6 @@ Source: Big Technology Podcast — "Emergency Pod: Anthropic's S-1 IPO Filing �
 Listen verdict: LISTEN if you're tracking AI financing; it's short (28 min). Core: capacity test 03:56–07:57 · cash flow vs commitments 07:57–11:44 · growth, revenue per employee, customers 12:40–17:34 · compute efficiency + cash 17:34–20:35 · risk factors 20:35–23:21 · OpenAI, cold feet, venture opacity 23:21–27:41. Skip: ads 00:00–01:06, outro 27:41–end.</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-anthropic-s1-primack.mp3" length="7889708" type="audio/mpeg"/>
 <itunes:duration>8:13</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC — Satya Nadella (Microsoft): Assume the Model Is Compromised — Zero-Trust Agents, Commodity Tokens, Own Your Intelligence with Private Evals &amp; Many Winners per Layer (Conversational)</title>
-<itunes:title>20VC — Satya Nadella (Microsoft): Assume the Model Is Compromised — Zero-Trust Agents, Commodity Tokens, Own Your Intelligence with Private Evals &amp; Many Winners per Layer (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-satya-nadella</guid>
-<pubDate>Mon, 26 Oct 2026 18:44:29 GMT</pubDate>
-<description>Atlas Podme Briefing — 20VC with Harry Stebbings and Satya Nadella, CEO of Microsoft.
-
-Why Satya now says "assume the model is compromised" (alignment didn't fall out of scaling), the zero-trust layer around agents in Agent 365 (agent identity, tamper-proof logs), why chain of thought can be unfaithful and should be auditable, Chinese open-weight models and Microsoft's "licensed weights," his two-year forecast that most tokens become commodity, why every company must own its intelligence (Hayek, the reverse Arrow information paradox, private eval benchmarks as core IP), "AI native" turning passé in five years, the Unilever order-to-cash story, horizontal layers with many winners, $100B training runs vs world GDP growth, the NHS and chip-design bull case, and his "one happy family" change of mind.
-
-Conversational Andrew and Ava. Skip the intro and the Base44 / Larridin ads.
-
-Source: https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more
-
-Listen verdict: SKIM, with sections worth hearing: zero-trust + chain of thought + open vs closed 03:25–10:27 · own your intelligence / private evals 10:27–12:32 · Unilever implementation story 14:24–15:32. Optional: verticalisation 15:32–17:14; $100B runs + GDP 17:14–20:00; quickfire 21:34–24:07 (the 'one happy family' alignment answer at 22:19). Skip intro + ads 00:00–03:10, repeated ads 24:11–end.
-
-Sticky insights:
-- Assume the model is compromised: alignment didn't 'just fall out of scaling', so keep AI safety in training and build an engineered zero-trust layer — Agent 365 gives every agent an identity and logs every tool/model call tamper-proof ('you can't have the agent go modify its own logs')
-- Chain of thought 'can be unfaithful' and is worse hidden; he wants it in English and auditable by trusted partners, which 'may even drive more open weights' — while Microsoft's own MAI models are 'licensed weights' in 'a simple straightforward software business'
-- In two years most tasks saturate and 'predominantly token usage will be commodity token usage'; pay for frontier only where your eval keeps moving
-- Own your intelligence: Hayek's local knowledge + the reverse Arrow paradox (now the buyer needs protection, even thumbs up/down leaks value); 'every firm will have a private eval benchmark, which is their core IP'
-- Unilever pattern: start on a frontier model, write the evals, move to a cheaper MAI model trained on your traces, hand it to IT; one integrated stack winner is 'unlikely' — five-six closed + five-six open models, routers, many winners per layer</description>
-<itunes:summary>Atlas Podme Briefing — 20VC with Harry Stebbings and Satya Nadella, CEO of Microsoft.
-
-Why Satya now says "assume the model is compromised" (alignment didn't fall out of scaling), the zero-trust layer around agents in Agent 365 (agent identity, tamper-proof logs), why chain of thought can be unfaithful and should be auditable, Chinese open-weight models and Microsoft's "licensed weights," his two-year forecast that most tokens become commodity, why every company must own its intelligence (Hayek, the reverse Arrow information paradox, private eval benchmarks as core IP), "AI native" turning passé in five years, the Unilever order-to-cash story, horizontal layers with many winners, $100B training runs vs world GDP growth, the NHS and chip-design bull case, and his "one happy family" change of mind.
-
-Conversational Andrew and Ava. Skip the intro and the Base44 / Larridin ads.
-
-Source: https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more
-
-Listen verdict: SKIM, with sections worth hearing: zero-trust + chain of thought + open vs closed 03:25–10:27 · own your intelligence / private evals 10:27–12:32 · Unilever implementation story 14:24–15:32. Optional: verticalisation 15:32–17:14; $100B runs + GDP 17:14–20:00; quickfire 21:34–24:07 (the 'one happy family' alignment answer at 22:19). Skip intro + ads 00:00–03:10, repeated ads 24:11–end.
-
-Sticky insights:
-- Assume the model is compromised: alignment didn't 'just fall out of scaling', so keep AI safety in training and build an engineered zero-trust layer — Agent 365 gives every agent an identity and logs every tool/model call tamper-proof ('you can't have the agent go modify its own logs')
-- Chain of thought 'can be unfaithful' and is worse hidden; he wants it in English and auditable by trusted partners, which 'may even drive more open weights' — while Microsoft's own MAI models are 'licensed weights' in 'a simple straightforward software business'
-- In two years most tasks saturate and 'predominantly token usage will be commodity token usage'; pay for frontier only where your eval keeps moving
-- Own your intelligence: Hayek's local knowledge + the reverse Arrow paradox (now the buyer needs protection, even thumbs up/down leaks value); 'every firm will have a private eval benchmark, which is their core IP'
-- Unilever pattern: start on a frontier model, write the evals, move to a cheaper MAI model trained on your traces, hand it to IT; one integrated stack winner is 'unlikely' — five-six closed + five-six open models, routers, many winners per layer</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-satya-nadella.mp3" length="7339052" type="audio/mpeg"/>
-<itunes:duration>7:39</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
