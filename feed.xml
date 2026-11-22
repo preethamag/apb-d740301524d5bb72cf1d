@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sat, 21 Nov 2026 19:20:22 GMT</lastBuildDate>
-<pubDate>Sat, 21 Nov 2026 19:19:23 GMT</pubDate>
+<lastBuildDate>Sun, 22 Nov 2026 16:28:50 GMT</lastBuildDate>
+<pubDate>Sun, 22 Nov 2026 16:18:07 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Lenny's Podcast — Sherif Mansour (Atlassian): Great PMs Fill Context / Artist, Scientist, GM / Direction Over Throughput / Hire Juniors / Bolt AI On (Conversation)</title>
+<itunes:title>Lenny's Podcast — Sherif Mansour (Atlassian): Great PMs Fill Context / Artist, Scientist, GM / Direction Over Throughput / Hire Juniors / Bolt AI On (Conversation)</itunes:title>
+<guid isPermaLink="false">lenny-sherif-mansour</guid>
+<pubDate>Sun, 22 Nov 2026 16:18:07 GMT</pubDate>
+<description>Andrew and Ava brief Lenny's Podcast: Lenny Rachitsky with Sherif Mansour, Head of AI and Product Craft at Atlassian (Jira, Confluence) and its first Confluence PM. Sherif's case: a great PM's main job is filling context so the team shares one "brain," not making every decision (run away from your Jira backlog; never interview a customer without an engineer). The PM craft triangle of general manager, scientist and artist, and why you should run toward your strengths. Atlassian's AI-builder experiment: squads with no PM or designer felt faster for a few weeks, then everyone went back to their roles because "throughput's not our problem, direction's our problem." Lenny's data says PMs now have the most open roles of any job. Plus: why taste and artist PMs are rising, why Atlassian is hiring more juniors (who skip the old habits while seniors catch AI slop), when to start with the solution, why bolting AI onto existing workflows is often right (nearly 10 million agents run in loops in Jira and Confluence each month), and how to work with visionary founders. Listen from 23:42 to 38:00 and from 46:05 to 56:00.
+
+Listen verdict: LISTEN 00:02:12-00:06:10 (filling context, shared brain, run away from your Jira backlog), 00:23:42-00:35:39 (AI builder squad experiment, direction over throughput, Balsamiq lesson, what PMs do with AI, hiring trends incl. juniors) and 00:46:05-00:56:01 (start with the solution, Rovo canvas, ~10M agents in loops, bolt AI onto workflows). Good 00:11:25-00:18:09 (GM/scientist/artist triangle) and 01:04:05-01:10:51 (visionary founders, disagreement). Fun lightning round 01:11:37-01:21:14. Skim 00:18:09-00:22:19 and 00:56:01-01:04:05. Skip ads ~00:06:10-00:07:09 and ~00:35:39-00:36:27 (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Lenny's Podcast: Lenny Rachitsky with Sherif Mansour, Head of AI and Product Craft at Atlassian (Jira, Confluence) and its first Confluence PM. Sherif's case: a great PM's main job is filling context so the team shares one "brain," not making every decision (run away from your Jira backlog; never interview a customer without an engineer). The PM craft triangle of general manager, scientist and artist, and why you should run toward your strengths. Atlassian's AI-builder experiment: squads with no PM or designer felt faster for a few weeks, then everyone went back to their roles because "throughput's not our problem, direction's our problem." Lenny's data says PMs now have the most open roles of any job. Plus: why taste and artist PMs are rising, why Atlassian is hiring more juniors (who skip the old habits while seniors catch AI slop), when to start with the solution, why bolting AI onto existing workflows is often right (nearly 10 million agents run in loops in Jira and Confluence each month), and how to work with visionary founders. Listen from 23:42 to 38:00 and from 46:05 to 56:00.
+
+Listen verdict: LISTEN 00:02:12-00:06:10 (filling context, shared brain, run away from your Jira backlog), 00:23:42-00:35:39 (AI builder squad experiment, direction over throughput, Balsamiq lesson, what PMs do with AI, hiring trends incl. juniors) and 00:46:05-00:56:01 (start with the solution, Rovo canvas, ~10M agents in loops, bolt AI onto workflows). Good 00:11:25-00:18:09 (GM/scientist/artist triangle) and 01:04:05-01:10:51 (visionary founders, disagreement). Fun lightning round 01:11:37-01:21:14. Skim 00:18:09-00:22:19 and 00:56:01-01:04:05. Skip ads ~00:06:10-00:07:09 and ~00:35:39-00:36:27 (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/lenny-sherif-mansour.mp3" length="24544556" type="audio/mpeg"/>
+<itunes:duration>25:34</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots EP #314 — Steve Jurvetson: The SpaceX Deal That Almost Didn't Happen / The Only Singularity We'll Ever Have / Is OpenAI a Survivor? / SpaceX's Compute Machine / Voyager at One Light-Day (Conversation)</title>
 <itunes:title>Moonshots EP #314 — Steve Jurvetson: The SpaceX Deal That Almost Didn't Happen / The Only Singularity We'll Ever Have / Is OpenAI a Survivor? / SpaceX's Compute Machine / Voyager at One Light-Day (Conversation)</itunes:title>
