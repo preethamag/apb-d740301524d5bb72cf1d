@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 23 Nov 2026 16:23:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 16:24:08 GMT</lastBuildDate>
 <pubDate>Mon, 23 Nov 2026 16:13:58 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -851,50 +851,6 @@ Sticky insights:
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>Big Technology — Ethan Mollick: Single-Player AI in a Multiplayer Company — the ROI Fight, the Overhang, Claw-Likes &amp; Your Privacy (Conversational)</title>
-<itunes:title>Big Technology — Ethan Mollick: Single-Player AI in a Multiplayer Company — the ROI Fight, the Overhang, Claw-Likes &amp; Your Privacy (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-ethan-mollick</guid>
-<pubDate>Wed, 28 Oct 2026 15:28:36 GMT</pubDate>
-<description>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Ethan Mollick, Wharton professor and author of Coexistence: The Next Phase of AI.
-
-Why AI's big individual gains haven't shown up in productivity stats yet: AI is "single player" while companies are multiplayer. Alex pushes on ROI and token spending; Ethan answers with the Wharton survey (85% of $1B+ companies report positive ROI), why the "95% of pilots fail" study is famously bad, and what real reorganization looks like (a $200M mainframe migration heading toward $2M). Also: the capability overhang, "claw-like" personal agents such as Muse and Dot, why the labs aren't surprised by progress, reasoning and harnesses, the privacy price of personal agents and prompt injection by email, model personalities, AI tutors vs shortcuts, jobs, and two tweets on agent-driven "legal DDoS" of customer service and the cost of locking in today's AI.
-
-Conversational Andrew and Ava. Skip the ad breaks at the start and around 50:30.
-
-Source: Big Technology Podcast, "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick" (Oct 28, 2026)
-
-Listen verdict: LISTEN if you have the hour — a spirited, well-argued pushback conversation. Otherwise hear: productivity/ROI debate + org change 01:18–18:51 · 'real economy' (Frito-Lay, Walmart) 18:51–24:12 · personal agents + privacy/prompt injection 42:04–45:25 · token prices + the two tweets 1:02:35–1:06:35. Optional: overhang/claw-likes 24:12–29:08; labs vs forecasters + the wall 32:20–37:56; reasoning + harness 37:56–42:04; education 52:53–57:00. Skip ads 00:00–01:18 and 50:28–52:53.
-
-Sticky insights:
-- AI is 'single player'; companies are multiplayer — individual 100x gains (e.g. ~20x more code) yield ~30% more products shipped until the org is rebuilt
-- ROI is not the question anymore (85% of $1B+ firms positive, Wharton, last November); transformation is — and the loudest spend-cutters (Microsoft, Meta, Palantir on Claude) sell competing AI
-- Pull teams apart and give them 'impossible projects': a $200M mainframe migration → $20M → CTO eyeing $2M in months
-- The overhang: today's models are barely used; locking in a 'good enough' stack (2024 RAG on Llama) is the expensive mistake — exploit and explore
-- Personal agents are 'a guardian angel at the small price of your entire privacy'; prompt injection via inbound email: 'we have no idea'</description>
-<itunes:summary>Atlas Podme Briefing — Big Technology Podcast: Alex Kantrowitz with Ethan Mollick, Wharton professor and author of Coexistence: The Next Phase of AI.
-
-Why AI's big individual gains haven't shown up in productivity stats yet: AI is "single player" while companies are multiplayer. Alex pushes on ROI and token spending; Ethan answers with the Wharton survey (85% of $1B+ companies report positive ROI), why the "95% of pilots fail" study is famously bad, and what real reorganization looks like (a $200M mainframe migration heading toward $2M). Also: the capability overhang, "claw-like" personal agents such as Muse and Dot, why the labs aren't surprised by progress, reasoning and harnesses, the privacy price of personal agents and prompt injection by email, model personalities, AI tutors vs shortcuts, jobs, and two tweets on agent-driven "legal DDoS" of customer service and the cost of locking in today's AI.
-
-Conversational Andrew and Ava. Skip the ad breaks at the start and around 50:30.
-
-Source: Big Technology Podcast, "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick" (Oct 28, 2026)
-
-Listen verdict: LISTEN if you have the hour — a spirited, well-argued pushback conversation. Otherwise hear: productivity/ROI debate + org change 01:18–18:51 · 'real economy' (Frito-Lay, Walmart) 18:51–24:12 · personal agents + privacy/prompt injection 42:04–45:25 · token prices + the two tweets 1:02:35–1:06:35. Optional: overhang/claw-likes 24:12–29:08; labs vs forecasters + the wall 32:20–37:56; reasoning + harness 37:56–42:04; education 52:53–57:00. Skip ads 00:00–01:18 and 50:28–52:53.
-
-Sticky insights:
-- AI is 'single player'; companies are multiplayer — individual 100x gains (e.g. ~20x more code) yield ~30% more products shipped until the org is rebuilt
-- ROI is not the question anymore (85% of $1B+ firms positive, Wharton, last November); transformation is — and the loudest spend-cutters (Microsoft, Meta, Palantir on Claude) sell competing AI
-- Pull teams apart and give them 'impossible projects': a $200M mainframe migration → $20M → CTO eyeing $2M in months
-- The overhang: today's models are barely used; locking in a 'good enough' stack (2024 RAG on Llama) is the expensive mistake — exploit and explore
-- Personal agents are 'a guardian angel at the small price of your entire privacy'; prompt injection via inbound email: 'we have no idea'</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ethan-mollick.mp3" length="17327276" type="audio/mpeg"/>
-<itunes:duration>18:03</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</title>
 <itunes:title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</itunes:title>
 <guid isPermaLink="false">how-i-ai-assistant-showdown</guid>
@@ -933,36 +889,6 @@ Sticky insights:
 - Safety style is product: Claude Duet asked permission 4x (others once) and was slowest; she likes Muse's permission sidebar</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-assistant-showdown.mp3" length="9408812" type="audio/mpeg"/>
 <itunes:duration>9:48</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</title>
-<itunes:title>Big Technology — Anthropic's S-1 with Dan Primack (Axios): The Money Is There, Efficiency Is the Ball Game — $16.3B First-Half Revenue, $2.08 per Compute Dollar, 80 Risk Factors &amp; What It Means for OpenAI's IPO (Conversational)</itunes:title>
-<guid isPermaLink="false">big-technology-anthropic-s1-primack</guid>
-<pubDate>Mon, 26 Oct 2026 21:09:28 GMT</pubDate>
-<description>Atlas Podme Briefing — Big Technology Podcast with Alex Kantrowitz and Dan Primack, business editor at Axios.
-
-Anthropic's S-1: whether Wall Street can fund a ~$100B raise at a ~$2T valuation the same day as SpaceX's $40B debt and Meta's up to $95B stock sale, why Dan says the forward compute commitments matter more than $3.4B in first-half free cash flow, revenue from $41M three years ago to $16.3B in the first half, $6.6M revenue per employee, Claude Code and Cowork, a diversified customer base routed 48% through cloud marketplaces, revenue per compute dollar from 40 cents to $2.08, $112B in cash, 80 risk factors (including existential risk: 'I don't think Oppenheimer went public'), why Anthropic's price sets the bar for OpenAI's IPO, and how little the filing says about past investors.
-
-Conversational Andrew and Ava. Skip the opening ads.
-
-Source: Big Technology Podcast — "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack" (Mon Oct 26, 2026)
-
-Listen verdict: LISTEN if you're tracking AI financing; it's short (28 min). Core: capacity test 03:56–07:57 · cash flow vs commitments 07:57–11:44 · growth, revenue per employee, customers 12:40–17:34 · compute efficiency + cash 17:34–20:35 · risk factors 20:35–23:21 · OpenAI, cold feet, venture opacity 23:21–27:41. Skip: ads 00:00–01:06, outro 27:41–end.</description>
-<itunes:summary>Atlas Podme Briefing — Big Technology Podcast with Alex Kantrowitz and Dan Primack, business editor at Axios.
-
-Anthropic's S-1: whether Wall Street can fund a ~$100B raise at a ~$2T valuation the same day as SpaceX's $40B debt and Meta's up to $95B stock sale, why Dan says the forward compute commitments matter more than $3.4B in first-half free cash flow, revenue from $41M three years ago to $16.3B in the first half, $6.6M revenue per employee, Claude Code and Cowork, a diversified customer base routed 48% through cloud marketplaces, revenue per compute dollar from 40 cents to $2.08, $112B in cash, 80 risk factors (including existential risk: 'I don't think Oppenheimer went public'), why Anthropic's price sets the bar for OpenAI's IPO, and how little the filing says about past investors.
-
-Conversational Andrew and Ava. Skip the opening ads.
-
-Source: Big Technology Podcast — "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack" (Mon Oct 26, 2026)
-
-Listen verdict: LISTEN if you're tracking AI financing; it's short (28 min). Core: capacity test 03:56–07:57 · cash flow vs commitments 07:57–11:44 · growth, revenue per employee, customers 12:40–17:34 · compute efficiency + cash 17:34–20:35 · risk factors 20:35–23:21 · OpenAI, cold feet, venture opacity 23:21–27:41. Skip: ads 00:00–01:06, outro 27:41–end.</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-anthropic-s1-primack.mp3" length="7889708" type="audio/mpeg"/>
-<itunes:duration>8:13</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
