@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Sun, 22 Nov 2026 16:29:18 GMT</lastBuildDate>
-<pubDate>Sun, 22 Nov 2026 16:18:07 GMT</pubDate>
+<lastBuildDate>Mon, 23 Nov 2026 16:23:08 GMT</lastBuildDate>
+<pubDate>Mon, 23 Nov 2026 16:13:58 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC — Anjney Midha: AI Is an Energy Business / Stranded Power and Goodput / Fire the Bankers / Tranches as a House of Cards / Inference Is a Feature (Conversation)</title>
+<itunes:title>20VC — Anjney Midha: AI Is an Energy Business / Stranded Power and Goodput / Fire the Bankers / Tranches as a House of Cards / Inference Is a Feature (Conversation)</itunes:title>
+<guid isPermaLink="false">20vc-anjney-midha</guid>
+<pubDate>Mon, 23 Nov 2026 16:13:58 GMT</pubDate>
+<description>Andrew and Ava brief 20VC: Harry Stebbings with Anjney "Anj" Midha, one of Anthropic's earliest angel investors, recorded the day after Anthropic's IPO. Anj's case: frontier AI is an energy business ("buying megawatts and turning them into tokens"), the US has over 100 gigawatts of stranded power, and reinforcement learning can run on modular 5–10 MW pods plugged into it. Why on-demand compute at $12 an hour can beat a $3–4 lease once you price "goodput" (completed work). Then the rant: "glorified bankers" on Sand Hill Road, marks that "are not real," tranched rounds as a "house of cards" ("fire the bankers, bring in the scientists"). Plus: specialized chips 1000x more efficient for one stable model, Codex ultra-fast mode and monitoring agents from his phone, why enterprises will run local models (Mistral, Black Forest Labs, Red Hat for AI), Chinese labs locking up US clusters, his defense of Nvidia CFO Colette Kress, Elon as "a glorified compute reseller," and why inference is "a feature, not a standalone service." He does not answer the title's "Is Anthropic the real winner?" Listen from 5:00 to 18:00 and from 20:40 to 32:00.
+
+Listen verdict: LISTEN 00:05:05-00:18:05 (energy business, Periodic superconductor, China 500 GW, 100 GW stranded power, RL on 5-10 MW pods, $12/hr vs $3-4 lease, Borg, goodput) and 00:20:40-00:27:10 (glorified bankers, marks not real, Harry's 'do they get a pass?', tranches + OpenRouter, fire the bankers). Good 00:27:10-00:35:55 (specialized chips, Codex ultra-fast, agents on the phone, local/sovereign models, Mistral/BFL/Cloud Act) and 00:47:20-00:53:15 (neoclouds + Elon, inference is a feature, Arena vs junk-food data, own your understanding). Skim 00:35:55-00:47:20 (pooling, China clusters, Jensen/Colette, tech as culture). Skip ads 00:01:24-00:04:26 and 00:53:22-end (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief 20VC: Harry Stebbings with Anjney "Anj" Midha, one of Anthropic's earliest angel investors, recorded the day after Anthropic's IPO. Anj's case: frontier AI is an energy business ("buying megawatts and turning them into tokens"), the US has over 100 gigawatts of stranded power, and reinforcement learning can run on modular 5–10 MW pods plugged into it. Why on-demand compute at $12 an hour can beat a $3–4 lease once you price "goodput" (completed work). Then the rant: "glorified bankers" on Sand Hill Road, marks that "are not real," tranched rounds as a "house of cards" ("fire the bankers, bring in the scientists"). Plus: specialized chips 1000x more efficient for one stable model, Codex ultra-fast mode and monitoring agents from his phone, why enterprises will run local models (Mistral, Black Forest Labs, Red Hat for AI), Chinese labs locking up US clusters, his defense of Nvidia CFO Colette Kress, Elon as "a glorified compute reseller," and why inference is "a feature, not a standalone service." He does not answer the title's "Is Anthropic the real winner?" Listen from 5:00 to 18:00 and from 20:40 to 32:00.
+
+Listen verdict: LISTEN 00:05:05-00:18:05 (energy business, Periodic superconductor, China 500 GW, 100 GW stranded power, RL on 5-10 MW pods, $12/hr vs $3-4 lease, Borg, goodput) and 00:20:40-00:27:10 (glorified bankers, marks not real, Harry's 'do they get a pass?', tranches + OpenRouter, fire the bankers). Good 00:27:10-00:35:55 (specialized chips, Codex ultra-fast, agents on the phone, local/sovereign models, Mistral/BFL/Cloud Act) and 00:47:20-00:53:15 (neoclouds + Elon, inference is a feature, Arena vs junk-food data, own your understanding). Skim 00:35:55-00:47:20 (pooling, China clusters, Jensen/Colette, tech as culture). Skip ads 00:01:24-00:04:26 and 00:53:22-end (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-anjney-midha.mp3" length="18483500" type="audio/mpeg"/>
+<itunes:duration>19:15</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Lenny's Podcast — Sherif Mansour (Atlassian): Great PMs Fill Context / Artist, Scientist, GM / Direction Over Throughput / Hire Juniors / Bolt AI On (Conversation)</title>
 <itunes:title>Lenny's Podcast — Sherif Mansour (Atlassian): Great PMs Fill Context / Artist, Scientist, GM / Direction Over Throughput / Hire Juniors / Bolt AI On (Conversation)</itunes:title>
