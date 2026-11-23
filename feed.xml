@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 23 Nov 2026 19:13:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 19:13:49 GMT</lastBuildDate>
 <pubDate>Mon, 23 Nov 2026 19:07:26 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -881,50 +881,6 @@ Sticky insights:
 - Alex's Chain Theory derives the fine-structure constant from an 18-word axiom (falsifiable); OpenAI's three results and 'slop drop 2.0 / meat puppets'; Peter: 'the last human discoveries — so you better make one'</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-306.mp3" length="33221036" type="audio/mpeg"/>
 <itunes:duration>34:36</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</title>
-<itunes:title>How I AI — Claire Vo's Personal-Agent Benchmark: Grok Bot vs Dot vs Muse vs Claude Duet on Nine Real Tasks (Conversational)</itunes:title>
-<guid isPermaLink="false">how-i-ai-assistant-showdown</guid>
-<pubDate>Wed, 28 Oct 2026 15:28:36 GMT</pubDate>
-<description>Atlas Podme Briefing — How I AI with Claire Vo: the first How I AI personal-agent benchmark.
-
-Grok Bot, Dot, Muse and Claude Duet across nine real tasks: a Slack reply, a short-form video from raw Dropbox footage, a Sentry bug fix, a Figma thumbnail, inbox triage, a family newspaper, physics homework for a fourth grader, shoe shopping and a ChatPRD launch video. How she set it up (each agent's own top tasks, computer-use operators, a tool-parity check), who won each task, the Claude-tallied final scores (Grok Bot 93%, Claude Duet 79%), and her takeaways: Grok Bot for work, Muse for life, access and speed matter, and coding still belongs to the underlying tools.
-
-Conversational Andrew and Ava. Skip the WorkOS and Firecrawl ads.
-
-Source: How I AI, "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?" (Oct 28, 2026)
-
-Listen verdict: SKIM. Worth hearing: Figma thumbnail → inbox to-dos → family newspaper 17:30–23:30 (Grok documents, 'my chief of staff is in Grok Bot', Muse's newspaper); final scores + takeaways 30:01–34:39. Optional: setup + agent tool-parity tip 02:14–07:20; Sentry bug fix 14:56–16:47; launch video 26:46–30:01. Skip WorkOS 01:04–02:13, Firecrawl 16:47–17:30, outro 34:39–end.
-
-Sticky insights:
-- Equalize access before you compare agents — several 'losses' (Muse 7/9) were missing connectors, not missing intelligence; she had Codex verify tool/skill parity
-- Format beats finding: all four found her to-dos; Grok won by handing back a checkable Grok document ('my chief of staff is in Grok Bot')
-- Grok Bot for work breadth (Figma, inbox, shopping — 93%), Muse for life and creative (video, family newspaper, instant homework help)
-- Coding is still OpenAI vs Anthropic — but she'd use Codex/Claude directly, not their personal agents; Grok 'fixed' a bug by loosening validation
-- Safety style is product: Claude Duet asked permission 4x (others once) and was slowest; she likes Muse's permission sidebar</description>
-<itunes:summary>Atlas Podme Briefing — How I AI with Claire Vo: the first How I AI personal-agent benchmark.
-
-Grok Bot, Dot, Muse and Claude Duet across nine real tasks: a Slack reply, a short-form video from raw Dropbox footage, a Sentry bug fix, a Figma thumbnail, inbox triage, a family newspaper, physics homework for a fourth grader, shoe shopping and a ChatPRD launch video. How she set it up (each agent's own top tasks, computer-use operators, a tool-parity check), who won each task, the Claude-tallied final scores (Grok Bot 93%, Claude Duet 79%), and her takeaways: Grok Bot for work, Muse for life, access and speed matter, and coding still belongs to the underlying tools.
-
-Conversational Andrew and Ava. Skip the WorkOS and Firecrawl ads.
-
-Source: How I AI, "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?" (Oct 28, 2026)
-
-Listen verdict: SKIM. Worth hearing: Figma thumbnail → inbox to-dos → family newspaper 17:30–23:30 (Grok documents, 'my chief of staff is in Grok Bot', Muse's newspaper); final scores + takeaways 30:01–34:39. Optional: setup + agent tool-parity tip 02:14–07:20; Sentry bug fix 14:56–16:47; launch video 26:46–30:01. Skip WorkOS 01:04–02:13, Firecrawl 16:47–17:30, outro 34:39–end.
-
-Sticky insights:
-- Equalize access before you compare agents — several 'losses' (Muse 7/9) were missing connectors, not missing intelligence; she had Codex verify tool/skill parity
-- Format beats finding: all four found her to-dos; Grok won by handing back a checkable Grok document ('my chief of staff is in Grok Bot')
-- Grok Bot for work breadth (Figma, inbox, shopping — 93%), Muse for life and creative (video, family newspaper, instant homework help)
-- Coding is still OpenAI vs Anthropic — but she'd use Codex/Claude directly, not their personal agents; Grok 'fixed' a bug by loosening validation
-- Safety style is product: Claude Duet asked permission 4x (others once) and was slowest; she likes Muse's permission sidebar</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-assistant-showdown.mp3" length="9408812" type="audio/mpeg"/>
-<itunes:duration>9:48</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
