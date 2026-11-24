@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Mon, 23 Nov 2026 19:13:49 GMT</lastBuildDate>
-<pubDate>Mon, 23 Nov 2026 19:07:26 GMT</pubDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:27:07 GMT</lastBuildDate>
+<pubDate>Tue, 24 Nov 2026 22:21:41 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots EP #315 — Jensen Huang Is Back: Stealth Nationalization / OpenAI's Speed-Limit Chart / Data Centers Stay Home / Math Is Cooked / GTA 6 and the AI Mirror Test (Conversational)</title>
+<itunes:title>Moonshots EP #315 — Jensen Huang Is Back: Stealth Nationalization / OpenAI's Speed-Limit Chart / Data Centers Stay Home / Math Is Cooked / GTA 6 and the AI Mirror Test (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-315</guid>
+<pubDate>Tue, 24 Nov 2026 22:21:41 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots EP #315, recorded the day Jensen Huang got his job back at Nvidia: the trillion-dollar morning, why Dave Blundin says the story won't go away with a Democrat-controlled Congress, Salim Ismail's guess about contracts and a succession plan, and Alex Wissner-Gross on the "stealth nationalization" of Nvidia and the two factions he thinks pushed Jensen out. Then OpenAI's perplexity chart and its proposed AI speed limit (bragging chart or safety cartel?), Trump's push to keep data centers in the US and the 19.9-megawatt loophole, "math is cooked" (the generalized Riemann hypothesis in Lean and the P vs NP rumor), GTA 6's $3.79 billion day, and an AI that recognizes itself in a mirror. Listen from 7:50 to 13:50, 24:00 to 34:00, and 41:45 to 51:40.
+
+Listen verdict: LISTEN 00:07:50-00:13:53 (stealth nationalization, AG reporting, Intel precedent, two factions), 00:24:03-00:33:54 (perplexity plateau = bragging chart, safety-cartel/antitrust steelman), 00:41:45-00:51:38 (math is cooked, P vs NP rumor). Good 00:00:00-00:07:45, 00:34:24-00:41:45, 01:05:58-01:13:27. Skim 00:13:55-00:20:07 and GTA 6 00:52:47-01:03:54. Skip ads 33:54-34:21, 51:43-52:44, 1:03:55-1:05:56, 1:17:15-end (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Moonshots EP #315, recorded the day Jensen Huang got his job back at Nvidia: the trillion-dollar morning, why Dave Blundin says the story won't go away with a Democrat-controlled Congress, Salim Ismail's guess about contracts and a succession plan, and Alex Wissner-Gross on the "stealth nationalization" of Nvidia and the two factions he thinks pushed Jensen out. Then OpenAI's perplexity chart and its proposed AI speed limit (bragging chart or safety cartel?), Trump's push to keep data centers in the US and the 19.9-megawatt loophole, "math is cooked" (the generalized Riemann hypothesis in Lean and the P vs NP rumor), GTA 6's $3.79 billion day, and an AI that recognizes itself in a mirror. Listen from 7:50 to 13:50, 24:00 to 34:00, and 41:45 to 51:40.
+
+Listen verdict: LISTEN 00:07:50-00:13:53 (stealth nationalization, AG reporting, Intel precedent, two factions), 00:24:03-00:33:54 (perplexity plateau = bragging chart, safety-cartel/antitrust steelman), 00:41:45-00:51:38 (math is cooked, P vs NP rumor). Good 00:00:00-00:07:45, 00:34:24-00:41:45, 01:05:58-01:13:27. Skim 00:13:55-00:20:07 and GTA 6 00:52:47-01:03:54. Skip ads 33:54-34:21, 51:43-52:44, 1:03:55-1:05:56, 1:17:15-end (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-315.mp3" length="25179308" type="audio/mpeg"/>
+<itunes:duration>26:14</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — The Shocking Return of Jensen Huang: Trump in the Board Meeting / Too Big to Fail / Handshake Deals and the Bank of Jensen / Best Case for US AI, Bad News for China AI / The Story Isn't Over (Conversational)</title>
 <itunes:title>Big Technology — The Shocking Return of Jensen Huang: Trump in the Board Meeting / Too Big to Fail / Handshake Deals and the Bank of Jensen / Best Case for US AI, Bad News for China AI / The Story Isn't Over (Conversational)</itunes:title>
