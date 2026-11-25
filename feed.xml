@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Tue, 24 Nov 2026 22:27:37 GMT</lastBuildDate>
-<pubDate>Tue, 24 Nov 2026 22:21:41 GMT</pubDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:15:50 GMT</lastBuildDate>
+<pubDate>Wed, 25 Nov 2026 16:13:45 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>How I AI — Claire Vo's 25-Task Benchmark: Gemini 4 Neon Wins / Coding Is a Tie / Fable 5.2's Narrow Lane / Opus 5.5 Loses Blind, Wins on Feel / The Claire Annoyance Bench (Conversational)</title>
+<itunes:title>How I AI — Claire Vo's 25-Task Benchmark: Gemini 4 Neon Wins / Coding Is a Tie / Fable 5.2's Narrow Lane / Opus 5.5 Loses Blind, Wins on Feel / The Claire Annoyance Bench (Conversational)</itunes:title>
+<guid isPermaLink="false">how-i-ai-gemini-4-neon-benchmark</guid>
+<pubDate>Wed, 25 Nov 2026 16:13:45 GMT</pubDate>
+<description>Andrew and Ava brief How I AI: Claire Vo's solo model showdown, six frontier models (GPT-6.2 Astra and Sol, Claude Fable 5.2 and Opus 5.5, Gemini 4 Neon and Carbon) run blind through her 25-task benchmark. Gemini 4 Neon wins on quality and cost, and it isn't close. Plus why coding no longer separates the models ("pick the cheapest model that does a good job"), where Fable 5.2 shines and where to never use it, the animated storybook test, the Grok Bot that prints her family newspaper, why a slow model hurts even when it's great, and the Claire Annoyance Bench: mining your own agent sessions to see which model annoys you most (Sol: 12.8 of every 100 messages; Opus 5.5: "a dang delight"). Listen from 2:07 to 10:00 and 25:23 to 29:58.
+
+Listen verdict: LISTEN 00:02:07-00:03:39 (punchline), 00:06:28-00:10:00 (leaderboard, Fable cost, Opus paradox, Neon cost), 00:25:23-00:27:26 (slow vs fast, benchmark vs actual use) and 00:27:26-00:29:58 (Annoyance Bench). Good 00:10:00-00:13:39 (coding even; writing/creative/video/apps) and 00:19:10-00:23:35 (animated storybook). Skim 00:13:39-00:19:10 (visual comparisons) and 00:23:35-00:25:23 (prototypes). Skip ads ~00:01:05-00:02:07 and ~00:15:28-00:16:31 (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief How I AI: Claire Vo's solo model showdown, six frontier models (GPT-6.2 Astra and Sol, Claude Fable 5.2 and Opus 5.5, Gemini 4 Neon and Carbon) run blind through her 25-task benchmark. Gemini 4 Neon wins on quality and cost, and it isn't close. Plus why coding no longer separates the models ("pick the cheapest model that does a good job"), where Fable 5.2 shines and where to never use it, the animated storybook test, the Grok Bot that prints her family newspaper, why a slow model hurts even when it's great, and the Claire Annoyance Bench: mining your own agent sessions to see which model annoys you most (Sol: 12.8 of every 100 messages; Opus 5.5: "a dang delight"). Listen from 2:07 to 10:00 and 25:23 to 29:58.
+
+Listen verdict: LISTEN 00:02:07-00:03:39 (punchline), 00:06:28-00:10:00 (leaderboard, Fable cost, Opus paradox, Neon cost), 00:25:23-00:27:26 (slow vs fast, benchmark vs actual use) and 00:27:26-00:29:58 (Annoyance Bench). Good 00:10:00-00:13:39 (coding even; writing/creative/video/apps) and 00:19:10-00:23:35 (animated storybook). Skim 00:13:39-00:19:10 (visual comparisons) and 00:23:35-00:25:23 (prototypes). Skip ads ~00:01:05-00:02:07 and ~00:15:28-00:16:31 (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/how-i-ai-gemini-4-neon-benchmark.mp3" length="14604332" type="audio/mpeg"/>
+<itunes:duration>15:13</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots EP #315 — Jensen Huang Is Back: Stealth Nationalization / OpenAI's Speed-Limit Chart / Data Centers Stay Home / Math Is Cooked / GTA 6 and the AI Mirror Test (Conversational)</title>
 <itunes:title>Moonshots EP #315 — Jensen Huang Is Back: Stealth Nationalization / OpenAI's Speed-Limit Chart / Data Centers Stay Home / Math Is Cooked / GTA 6 and the AI Mirror Test (Conversational)</itunes:title>
