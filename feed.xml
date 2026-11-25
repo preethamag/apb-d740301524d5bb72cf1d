@@ -7,7 +7,7 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 25 Nov 2026 16:15:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:16:14 GMT</lastBuildDate>
 <pubDate>Wed, 25 Nov 2026 16:13:45 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
@@ -855,24 +855,6 @@ Listen verdict: SKIM (~61 min with ads; ~56 min of content). LISTEN FULLY: Anthr
 Listen verdict: SKIM (~61 min with ads; ~56 min of content). LISTEN FULLY: Anthropic S-1 unit economics, discounted compute, who gets rich, risk factors `00:36:07`–`00:50:44`; the LLM price war `00:50:44`–`00:55:23`. LISTEN (personal relevance): Bee Frontier / Muse buddy / hidden mics / Echo Show `00:24:55`–`00:30:56`. Skim: earnings + AI mode + Reddit/Huffman `00:01:24`–`00:13:58`; innovator's dilemma + Howe ad chart + open vs closed ads `00:13:58`–`00:16:22`, `00:17:45`–`00:18:42`; different-business + Amazon `00:19:12`–`00:23:23`; market YTD + Cheesecake Factory `00:30:56`–`00:33:36`. Skip: golden-goose banter `00:16:22`–`00:17:45`, `00:18:42`–`00:19:12`; costumes/marathon `00:23:23`–`00:24:55`; Nathan Fielder movie + close `00:55:23`–`00:59:50`; ads `00:00:17`–`00:01:24`, `00:33:36`–`00:36:07`, `00:59:50`–end.</itunes:summary>
 <enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-ugly-week.mp3" length="18003500" type="audio/mpeg"/>
 <itunes:duration>18:45</itunes:duration>
-<itunes:author>Atlas Gowda</itunes:author>
-<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>20VC Trio EP.80 — Anthropic S-1 / Microsoft Buyouts / Meta $95B / Instinct at $30B / 20% of the Fund Into OpenAI (Conversational)</title>
-<itunes:title>20VC Trio EP.80 — Anthropic S-1 / Microsoft Buyouts / Meta $95B / Instinct at $30B / 20% of the Fund Into OpenAI (Conversational)</itunes:title>
-<guid isPermaLink="false">20vc-trio-80</guid>
-<pubDate>Thu, 29 Oct 2026 15:34:30 GMT</pubDate>
-<description>Andrew and Ava brief 20VC Trio EP.80 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): Anthropic's S-1 ($16.3B first-half revenue, profitable, 80% of revenue from models under six months old) and Rory's "equitizing" answer to tapped-out debt markets; Microsoft's buyout offer to 27% of staff and the coming depreciation bill for AI; Meta's $95B equity raise; DeepSeek's $15B round and the Cohere–Qwen data scare that has Jason calling Chinese open-weight models "pretty much over in the US"; decade-old PHP flaws; a mock investment committee on Instinct at a rumored $30B (Harry yes, Jason vetoes with his 100-day rule, Rory weighs uncapped upside); Jason's "20% of the fund into OpenAI at $1.25 trillion"; Palmer Luckey's $1.5B war-dog startup; and Zuckerberg's fight with his board over leaving California. Listen from 37:00 to 44:00 for Instinct and 45:30 to 49:30 for the OpenAI pitch.
-
-Listen verdict: SKIM (~60 min with ads; ~53.5 min of content). LISTEN FULLY: Instinct $30B mock IC + "how much money is there for the Instincts of the world" `00:37:02`–`00:44:01`; Jason's 20%-of-the-fund-into-OpenAI pitch, Rory's "not crazy", the hedge-fund line and the black pebble `00:45:35`–`00:49:38`. Skim: Anthropic S-1 + equitizing debate `00:04:01`–`00:12:08`; OpenAI own goals `00:13:25`–`00:14:49`; Microsoft buyouts + depreciation + Cloudflare `00:14:50`–`00:20:42`; Chinese open weights / Cohere–Qwen / Cursor / OpenRouter `00:22:59`–`00:34:42`. Optional: Meta + chips `00:20:43`–`00:22:58`; PHP flaws `00:34:43`–`00:37:01`; exec-bet rounds `00:44:01`–`00:45:34`; Warhounds `00:49:38`–`00:52:49`; LPs + weird market `00:52:50`–`00:54:37`; Zuck vs California `00:54:38`–`00:56:53`. Skip ads `00:01:21`–`00:03:57` and `00:57:25`–end.</description>
-<itunes:summary>Andrew and Ava brief 20VC Trio EP.80 (Harry Stebbings, Jason Lemkin, Rory O'Driscoll): Anthropic's S-1 ($16.3B first-half revenue, profitable, 80% of revenue from models under six months old) and Rory's "equitizing" answer to tapped-out debt markets; Microsoft's buyout offer to 27% of staff and the coming depreciation bill for AI; Meta's $95B equity raise; DeepSeek's $15B round and the Cohere–Qwen data scare that has Jason calling Chinese open-weight models "pretty much over in the US"; decade-old PHP flaws; a mock investment committee on Instinct at a rumored $30B (Harry yes, Jason vetoes with his 100-day rule, Rory weighs uncapped upside); Jason's "20% of the fund into OpenAI at $1.25 trillion"; Palmer Luckey's $1.5B war-dog startup; and Zuckerberg's fight with his board over leaving California. Listen from 37:00 to 44:00 for Instinct and 45:30 to 49:30 for the OpenAI pitch.
-
-Listen verdict: SKIM (~60 min with ads; ~53.5 min of content). LISTEN FULLY: Instinct $30B mock IC + "how much money is there for the Instincts of the world" `00:37:02`–`00:44:01`; Jason's 20%-of-the-fund-into-OpenAI pitch, Rory's "not crazy", the hedge-fund line and the black pebble `00:45:35`–`00:49:38`. Skim: Anthropic S-1 + equitizing debate `00:04:01`–`00:12:08`; OpenAI own goals `00:13:25`–`00:14:49`; Microsoft buyouts + depreciation + Cloudflare `00:14:50`–`00:20:42`; Chinese open weights / Cohere–Qwen / Cursor / OpenRouter `00:22:59`–`00:34:42`. Optional: Meta + chips `00:20:43`–`00:22:58`; PHP flaws `00:34:43`–`00:37:01`; exec-bet rounds `00:44:01`–`00:45:34`; Warhounds `00:49:38`–`00:52:49`; LPs + weird market `00:52:50`–`00:54:37`; Zuck vs California `00:54:38`–`00:56:53`. Skip ads `00:01:21`–`00:03:57` and `00:57:25`–end.</itunes:summary>
-<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-80.mp3" length="18720812" type="audio/mpeg"/>
-<itunes:duration>19:30</itunes:duration>
 <itunes:author>Atlas Gowda</itunes:author>
 <itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
 <itunes:explicit>false</itunes:explicit>
