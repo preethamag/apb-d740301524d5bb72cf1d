@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 26 Nov 2026 01:07:29 GMT</lastBuildDate>
-<pubDate>Thu, 26 Nov 2026 01:05:25 GMT</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 16:24:34 GMT</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 16:16:52 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,38 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>20VC Trio EP.84 — Jensen's $1T Return / Anthropic's Record IPO With Insider Matt Murphy / "Vibe Coding Is Dead" vs Horizontal Agents (Muse vs HubSpot) / Cognition at $75B / Why Agents Are Stubborn / Mailchimp's 2021 Math (Conversational)</title>
+<itunes:title>20VC Trio EP.84 — Jensen's $1T Return / Anthropic's Record IPO With Insider Matt Murphy / "Vibe Coding Is Dead" vs Horizontal Agents (Muse vs HubSpot) / Cognition at $75B / Why Agents Are Stubborn / Mailchimp's 2021 Math (Conversational)</itunes:title>
+<guid isPermaLink="false">20vc-trio-84</guid>
+<pubDate>Thu, 26 Nov 2026 16:16:52 GMT</pubDate>
+<description>Andrew and Ava brief 20VC Trio EP.84. Rory O'Driscoll is away, so Harry Stebbings and Jason Lemkin are joined by Matt Murphy of Menlo Ventures, an early Anthropic investor. Jensen Huang returns to Nvidia and the stock adds about $1 trillion, plus why the panel thinks his outside dealmaking gets reined in. Anthropic's $83 IPO, the largest ever, from inside the room: Google took 15 years to go from $10 billion to $100 billion, and Anthropic did it in one. Jason's warning that AI-driven hacking makes 2027 brutal for SaaS and vibe-coded apps ("vibe coding died about 90 days ago"), and why horizontal agents like Muse beat HubSpot for new small businesses. Cognition at $75 billion and the "number six player" bubble test. An investment committee on Databricks, Sierra and Ramp, and why "agents are stubborn". Deals: Palo Alto buys Applied Compute for $4.5 billion, Mailchimp sells for $3.68 billion after costing Intuit $12 billion, Bill.com goes to private equity, and CrowdStrike buys Zscaler. Also Claude and the Riemann hypothesis, OpenRouter and Chinese models, and what 6,000 Anthropic employees at $100 billion in revenue does to startup pay. Listen from 21:16 to 30:04, and from 37:02 to 40:54.
+
+Listen verdict: SKIM-PLUS (~70 min with ads; ~63 min content). LISTEN `00:21:16`-`00:30:04` (AI cyberattacks, 'vibe coding died about 90 days ago', horizontal agents, Muse vs HubSpot) and `00:37:02`-`00:40:54` (Databricks as the place agents run; 'agents are stubborn'). Good: `00:30:04`-`00:34:30` (Cognition $75B; number-six-player bubble test), `00:44:37`-`00:50:28` (Mailchimp, 2021 2x question, Bill.com), `01:05:32`-`01:07:05` (startup pay vs 6,000 people at $100B), `00:13:48`-`00:17:33` (IPO day; Google 15 years vs Anthropic one). Skim: Jensen reactions `00:04:01`-`00:13:48`; stock worries `00:17:33`-`00:21:16`; CrowdStrike-Zscaler, Riemann, Chinese models `00:50:28`-`01:01:04`. Skip ads `00:01:17`-`00:03:57`, `01:07:12`-end.
+
+Sticky insights:
+- Jason: 2027 will be 'the death of many SaaS players and vibe coding' because AI-driven hacking means you can't trust small apps; apps can self-maintain but 'cannot self secure'.
+- Jason: 'horizontal agents are what's gonna win next year' - a new small business has no system of record, so HubSpot's net new customers fell from ~10K to under 5K while Muse does the job in an hour.
+- 'Agents are stubborn': they leave instantly on price hikes, outages or breaches, and stay when it's cheap and it works - Jason's case for Databricks and Bill.com.
+- Matt Murphy: Google took 15 years to go from $10B to $100B; Anthropic did it in one - which makes Anthropic a 'troubling comp' for Cognition at $75B.
+- 6,000 Anthropic employees at $100B revenue means it can pay any cash comp; a startup that raised $5M after YC can't pay $600K engineers.</description>
+<itunes:summary>Andrew and Ava brief 20VC Trio EP.84. Rory O'Driscoll is away, so Harry Stebbings and Jason Lemkin are joined by Matt Murphy of Menlo Ventures, an early Anthropic investor. Jensen Huang returns to Nvidia and the stock adds about $1 trillion, plus why the panel thinks his outside dealmaking gets reined in. Anthropic's $83 IPO, the largest ever, from inside the room: Google took 15 years to go from $10 billion to $100 billion, and Anthropic did it in one. Jason's warning that AI-driven hacking makes 2027 brutal for SaaS and vibe-coded apps ("vibe coding died about 90 days ago"), and why horizontal agents like Muse beat HubSpot for new small businesses. Cognition at $75 billion and the "number six player" bubble test. An investment committee on Databricks, Sierra and Ramp, and why "agents are stubborn". Deals: Palo Alto buys Applied Compute for $4.5 billion, Mailchimp sells for $3.68 billion after costing Intuit $12 billion, Bill.com goes to private equity, and CrowdStrike buys Zscaler. Also Claude and the Riemann hypothesis, OpenRouter and Chinese models, and what 6,000 Anthropic employees at $100 billion in revenue does to startup pay. Listen from 21:16 to 30:04, and from 37:02 to 40:54.
+
+Listen verdict: SKIM-PLUS (~70 min with ads; ~63 min content). LISTEN `00:21:16`-`00:30:04` (AI cyberattacks, 'vibe coding died about 90 days ago', horizontal agents, Muse vs HubSpot) and `00:37:02`-`00:40:54` (Databricks as the place agents run; 'agents are stubborn'). Good: `00:30:04`-`00:34:30` (Cognition $75B; number-six-player bubble test), `00:44:37`-`00:50:28` (Mailchimp, 2021 2x question, Bill.com), `01:05:32`-`01:07:05` (startup pay vs 6,000 people at $100B), `00:13:48`-`00:17:33` (IPO day; Google 15 years vs Anthropic one). Skim: Jensen reactions `00:04:01`-`00:13:48`; stock worries `00:17:33`-`00:21:16`; CrowdStrike-Zscaler, Riemann, Chinese models `00:50:28`-`01:01:04`. Skip ads `00:01:17`-`00:03:57`, `01:07:12`-end.
+
+Sticky insights:
+- Jason: 2027 will be 'the death of many SaaS players and vibe coding' because AI-driven hacking means you can't trust small apps; apps can self-maintain but 'cannot self secure'.
+- Jason: 'horizontal agents are what's gonna win next year' - a new small business has no system of record, so HubSpot's net new customers fell from ~10K to under 5K while Muse does the job in an hour.
+- 'Agents are stubborn': they leave instantly on price hikes, outages or breaches, and stay when it's cheap and it works - Jason's case for Databricks and Bill.com.
+- Matt Murphy: Google took 15 years to go from $10B to $100B; Anthropic did it in one - which makes Anthropic a 'troubling comp' for Cognition at $75B.
+- 6,000 Anthropic employees at $100B revenue means it can pay any cash comp; a startup that raised $5M after YC can't pay $600K engineers.</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/20vc-trio-84.mp3" length="17265068" type="audio/mpeg"/>
+<itunes:duration>17:59</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Big Technology — Is AI Racing Toward Disaster? With Tristan Harris: Am I Off the Hook? / Untrusted AI Watching AI / The Because-of-China Problem / Who Do You Trust With This Power / A 3–12 Month Warning (Conversational)</title>
 <itunes:title>Big Technology — Is AI Racing Toward Disaster? With Tristan Harris: Am I Off the Hook? / Untrusted AI Watching AI / The Because-of-China Problem / Who Do You Trust With This Power / A 3–12 Month Warning (Conversational)</itunes:title>
