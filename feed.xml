@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 26 Nov 2026 16:25:01 GMT</lastBuildDate>
-<pubDate>Thu, 26 Nov 2026 16:16:52 GMT</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 22:16:18 GMT</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 22:14:11 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Moonshots EP #316 — Thanksgiving Special: The Stolen Fetal Pig, Nearly Fired Before Amazon, a Tweet That Led to Singularity University &amp; 150 No's Before the XPRIZE (Conversational)</title>
+<itunes:title>Moonshots EP #316 — Thanksgiving Special: The Stolen Fetal Pig, Nearly Fired Before Amazon, a Tweet That Led to Singularity University &amp; 150 No's Before the XPRIZE (Conversational)</itunes:title>
+<guid isPermaLink="false">moonshots-316</guid>
+<pubDate>Thu, 26 Nov 2026 22:14:11 GMT</pubDate>
+<description>Andrew and Ava brief Moonshots EP #316, the Thanksgiving gratitude special with Peter Diamandis, Dave Blundin, Salim Ismail and Alex Wissner-Gross. No news this week: each host answers Peter's questions about setbacks, rejections and the people they never properly thanked. Peter's stolen fetal pig and the professor who forgave him, Dave nearly fired at DataSage while Walmart's lawsuit froze an Amazon deal, Salim's PubSub implosion and the Chris Messina tweet that led to Singularity University, the Harvard dean who let Peter graduate if he promised never to practice medicine, Salim's dad heckling his talk, Dave's foreign-born and grit numbers, Alex's rejection that sent him into nanotech, Dave's mom's seed money, and the 150 rejections before Anousheh Ansari funded the XPRIZE. Listen from 3:50 to 8:45, 10:40 to 16:50, and 43:30 to 48:05.
+
+Listen verdict: LISTEN 00:03:51-00:08:44 (Peter's stolen fetal pig and Frank Price's forgiveness), 00:10:42-00:13:18 (Dave nearly fired at DataSage while Walmart's lawsuit froze the Amazon deal), 00:13:20-00:16:52 (Salim: PubSub implodes, Yahoo incubator collapses, the Chris Messina tweet), 00:43:32-00:48:06 (XPRIZE: 150+ rejections, then Anousheh Ansari). Good 00:23:04-00:28:06 (Harvard dean's deal), 00:28:28-00:34:31 (Salim's dad, Dave's foreign-born/grit numbers, Google adversity survey, pilgrims joke), 00:36:39-00:41:57 (Alex rejected from RSI, pivots to nanotech). Skim 00:08:48-00:10:17 and 00:20:17-00:22:00 (Alex's LEV and past-light-cone riffs), 00:48:06-00:51:14 close. Skip ads 10:17-10:42, 22:00-23:04, 34:31-36:39, 51:15-end; cold-open montage 0:00-1:12 (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Moonshots EP #316, the Thanksgiving gratitude special with Peter Diamandis, Dave Blundin, Salim Ismail and Alex Wissner-Gross. No news this week: each host answers Peter's questions about setbacks, rejections and the people they never properly thanked. Peter's stolen fetal pig and the professor who forgave him, Dave nearly fired at DataSage while Walmart's lawsuit froze an Amazon deal, Salim's PubSub implosion and the Chris Messina tweet that led to Singularity University, the Harvard dean who let Peter graduate if he promised never to practice medicine, Salim's dad heckling his talk, Dave's foreign-born and grit numbers, Alex's rejection that sent him into nanotech, Dave's mom's seed money, and the 150 rejections before Anousheh Ansari funded the XPRIZE. Listen from 3:50 to 8:45, 10:40 to 16:50, and 43:30 to 48:05.
+
+Listen verdict: LISTEN 00:03:51-00:08:44 (Peter's stolen fetal pig and Frank Price's forgiveness), 00:10:42-00:13:18 (Dave nearly fired at DataSage while Walmart's lawsuit froze the Amazon deal), 00:13:20-00:16:52 (Salim: PubSub implodes, Yahoo incubator collapses, the Chris Messina tweet), 00:43:32-00:48:06 (XPRIZE: 150+ rejections, then Anousheh Ansari). Good 00:23:04-00:28:06 (Harvard dean's deal), 00:28:28-00:34:31 (Salim's dad, Dave's foreign-born/grit numbers, Google adversity survey, pilgrims joke), 00:36:39-00:41:57 (Alex rejected from RSI, pivots to nanotech). Skim 00:08:48-00:10:17 and 00:20:17-00:22:00 (Alex's LEV and past-light-cone riffs), 00:48:06-00:51:14 close. Skip ads 10:17-10:42, 22:00-23:04, 34:31-36:39, 51:15-end; cold-open montage 0:00-1:12 (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/moonshots-316.mp3" length="17814572" type="audio/mpeg"/>
+<itunes:duration>18:33</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>20VC Trio EP.84 — Jensen's $1T Return / Anthropic's Record IPO With Insider Matt Murphy / "Vibe Coding Is Dead" vs Horizontal Agents (Muse vs HubSpot) / Cognition at $75B / Why Agents Are Stubborn / Mailchimp's 2021 Math (Conversational)</title>
 <itunes:title>20VC Trio EP.84 — Jensen's $1T Return / Anthropic's Record IPO With Insider Matt Murphy / "Vibe Coding Is Dead" vs Horizontal Agents (Muse vs HubSpot) / Cognition at $75B / Why Agents Are Stubborn / Mailchimp's 2021 Math (Conversational)</itunes:title>
