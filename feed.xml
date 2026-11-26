@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Wed, 25 Nov 2026 16:16:14 GMT</lastBuildDate>
-<pubDate>Wed, 25 Nov 2026 16:13:45 GMT</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 01:07:05 GMT</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 01:05:25 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,24 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Is AI Racing Toward Disaster? With Tristan Harris: Am I Off the Hook? / Untrusted AI Watching AI / The Because-of-China Problem / Who Do You Trust With This Power / A 3–12 Month Warning (Conversational)</title>
+<itunes:title>Big Technology — Is AI Racing Toward Disaster? With Tristan Harris: Am I Off the Hook? / Untrusted AI Watching AI / The Because-of-China Problem / Who Do You Trust With This Power / A 3–12 Month Warning (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-tristan-harris</guid>
+<pubDate>Thu, 26 Nov 2026 01:05:25 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology: Alex Kantrowitz with Tristan Harris (Center for Humane Technology, The Social Dilemma) on whether AI is racing toward disaster. Recorded October 14, so his proposed Trump–Xi meeting at APEC (Nov 17–18) has since passed. Why publishing the risks isn't the same as managing them ("am I off the hook?"), the Hugging Face incident by the numbers ($500,000 a day to review 50 petabytes) and untrusted AI watching AI, the OpenAI memo saying "we don't check under the hood anymore", and how distillation let China draft behind US labs. Alex pushes back: guardrails have mostly held (Anthropic's Mythos stayed private) and China is strong on its own merits. Then transhumanist incentives, the case for banning open-source models with dangerous bio capability, David Sacks' "why don't they just stop?", a Fed-style compute dial, and Tristan's claim that lab insiders expect recursive self-improvement in 3–12 months. Listen from 11:30 to 29:45 and from 1:00:10 to the end.
+
+Listen verdict: LISTEN 00:11:34-00:17:47 (PDF line, Hugging Face numbers, untrusted AI watching AI, China distillation, 1,300 signers, naming and the third chapter), 00:20:25-00:22:52 (Daniel Selsam memo, 'don't check under the hood', poisoning, keyword collusion), 00:25:52-00:29:44 (Alex's guardrails pushback, GLM 5.3, French supermarket and Korean bank hacks) and 01:00:10-01:06:50 (3-12 month RSI, red line, APEC proposal, climate/nuclear winter, neuralese, Indus Waters). Good 00:05:02-00:10:05 and 00:46:38-00:53:45 (open-source bio ban, who to trust, David Sacks, compute allocation). Skim 00:31:05-00:42:48 (uploading, Munger, Ring of Power, Reykjavik) and 00:53:46-01:00:10 (government). Skip ads 00:00:00-00:02:22 (teaser + ads), 00:42:58-00:46:37, 01:07:17-end (box-transcript times).</description>
+<itunes:summary>Andrew and Ava brief Big Technology: Alex Kantrowitz with Tristan Harris (Center for Humane Technology, The Social Dilemma) on whether AI is racing toward disaster. Recorded October 14, so his proposed Trump–Xi meeting at APEC (Nov 17–18) has since passed. Why publishing the risks isn't the same as managing them ("am I off the hook?"), the Hugging Face incident by the numbers ($500,000 a day to review 50 petabytes) and untrusted AI watching AI, the OpenAI memo saying "we don't check under the hood anymore", and how distillation let China draft behind US labs. Alex pushes back: guardrails have mostly held (Anthropic's Mythos stayed private) and China is strong on its own merits. Then transhumanist incentives, the case for banning open-source models with dangerous bio capability, David Sacks' "why don't they just stop?", a Fed-style compute dial, and Tristan's claim that lab insiders expect recursive self-improvement in 3–12 months. Listen from 11:30 to 29:45 and from 1:00:10 to the end.
+
+Listen verdict: LISTEN 00:11:34-00:17:47 (PDF line, Hugging Face numbers, untrusted AI watching AI, China distillation, 1,300 signers, naming and the third chapter), 00:20:25-00:22:52 (Daniel Selsam memo, 'don't check under the hood', poisoning, keyword collusion), 00:25:52-00:29:44 (Alex's guardrails pushback, GLM 5.3, French supermarket and Korean bank hacks) and 01:00:10-01:06:50 (3-12 month RSI, red line, APEC proposal, climate/nuclear winter, neuralese, Indus Waters). Good 00:05:02-00:10:05 and 00:46:38-00:53:45 (open-source bio ban, who to trust, David Sacks, compute allocation). Skim 00:31:05-00:42:48 (uploading, Munger, Ring of Power, Reykjavik) and 00:53:46-01:00:10 (government). Skip ads 00:00:00-00:02:22 (teaser + ads), 00:42:58-00:46:37, 01:07:17-end (box-transcript times).</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-tristan-harris.mp3" length="18858668" type="audio/mpeg"/>
+<itunes:duration>19:39</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>How I AI — Claire Vo's 25-Task Benchmark: Gemini 4 Neon Wins / Coding Is a Tie / Fable 5.2's Narrow Lane / Opus 5.5 Loses Blind, Wins on Feel / The Claire Annoyance Bench (Conversational)</title>
 <itunes:title>How I AI — Claire Vo's 25-Task Benchmark: Gemini 4 Neon Wins / Coding Is a Tie / Fable 5.2's Narrow Lane / Opus 5.5 Loses Blind, Wins on Feel / The Claire Annoyance Bench (Conversational)</itunes:title>
