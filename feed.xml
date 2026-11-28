@@ -7,8 +7,8 @@
 <description>Private conversational briefings of the podcasts Preetham follows (Moonshots, 20VC, Big Technology, How I AI, Lenny's Podcast). Personal feed -- not a public show.</description>
 <language>en-us</language>
 <copyright>Private feed for Preetham Gowda</copyright>
-<lastBuildDate>Thu, 26 Nov 2026 22:16:18 GMT</lastBuildDate>
-<pubDate>Thu, 26 Nov 2026 22:14:11 GMT</pubDate>
+<lastBuildDate>Sat, 28 Nov 2026 01:14:29 GMT</lastBuildDate>
+<pubDate>Sat, 28 Nov 2026 01:11:57 GMT</pubDate>
 <image><url>https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg</url><title>Atlas Podme Briefings</title><link>https://preethamag.github.io/apb-d740301524d5bb72cf1d/</link></image>
 <itunes:title>Atlas Podme Briefings</itunes:title>
 <itunes:author>Atlas Gowda</itunes:author>
@@ -22,6 +22,36 @@
 <googleplay:block>yes</googleplay:block>
 <podcast:locked>yes</podcast:locked>
 <podcast:guid>b044ab43-6e17-5859-8432-0c8418dce19c</podcast:guid>
+<item>
+<title>Big Technology — Nvidia's Undoing?, China's AI Decline, Alexandr Wang's Superintelligence Warning, with Brian McCullough: Blackwells in Shanghai / Was Asia Propping Up Scarcity? / No Succession Plan as Leverage / China's Labs Slip / The Frontier for Who? (Conversational)</title>
+<itunes:title>Big Technology — Nvidia's Undoing?, China's AI Decline, Alexandr Wang's Superintelligence Warning, with Brian McCullough: Blackwells in Shanghai / Was Asia Propping Up Scarcity? / No Succession Plan as Leverage / China's Labs Slip / The Frontier for Who? (Conversational)</itunes:title>
+<guid isPermaLink="false">big-technology-nvidia-undoing</guid>
+<pubDate>Sat, 28 Nov 2026 01:11:57 GMT</pubDate>
+<description>Andrew and Ava brief Big Technology's Friday edition, recorded on Black Friday: Alex Kantrowitz with Brian McCullough of the Tech Brew Ride Home, the first Friday show since Jensen Huang returned to Nvidia. Bloomberg's report that Blackwell chips turned up in a Shanghai data center linked to Alice Wang (and were used as collateral), Brian's "maybe 20% into it", and the great-man split between Wall Street and Silicon Valley. Then the business question nobody is asking: Nvidia halts server shipments to Malaysia, Singapore, Thailand and Indonesia ($104 billion booked through Singapore in 2025), and whether Asia was propping up GPU scarcity. Also the Bank of Jensen and circular deals (Alphabet's $127 billion of "other income"), Jensen's "no succession plan" as leverage, AI as a weapon (Black October, the Air Force cloud breach), the export-rule change that leaves Chinese labs like Z.ai and Moonshot slipping, Alexandr Wang's "Superintelligence is arriving", and Brian's four scenarios for the next 6 to 18 months, including labs keeping their best models for themselves. Listen from 12:45 to 21:30, 24:00 to 29:30, and 46:45 to 57:30.
+
+Listen verdict: LISTEN 00:12:44-00:21:30 (FT halt to four countries, $104B Singapore, the scarcity question, 15-40%, Brian's pushback, 'what we've been told about the market isn't true'), 00:24:04-00:29:29 (succession plan as leverage, Colette Kress 'picky and choosy', 60 direct reports, hit-by-a-bus) and 00:46:44-00:57:30 (Brian's four scenarios, LeCun vs the walls, Riemann vs PowerPoint, 'the frontier for who'). Good 00:01:19-00:07:05 (Bloomberg collateral story, '20% into it'), 00:21:36-00:24:04 (Bank of Jensen, Alphabet's $127B), 00:30:17-00:39:06 (export controls, AI as a weapon, Air Force breach, WSJ quarter-of-compute loophole, Z.ai/Moonshot slip). Skim 00:07:05-00:12:44 (great-man debate, board pretzel), 00:39:06-00:41:38 (two races), 00:44:34-00:46:44 (Wang essay setup). Skip ads 00:00:00-00:01:18 (teaser + ads), 00:41:54-00:44:33, 00:58:10-end (box-transcript times).
+
+Sticky insights:
+- Alex: if Asia demand (estimates 15% to 40%) evaporates, can Nvidia still manufacture scarcity? Brian: if you had to sell into China, 'what we've been told about the market isn't true.'
+- Brian: no succession plan is leverage ('if I'm back, I'm staying back'); Alex: Jensen's 'got the economy where it hurts', 60 direct reports, and that's absurd.
+- WSJ: closing the remote-access loophole cut Chinese labs off from as much as a quarter of their compute; Reuters: Z.ai's GLM 5.5 slipped, Moonshot sees release gaps doubling.
+- Brian's fourth scenario: labs keep their best models internal and launch businesses themselves; Alex: 'pacing the frontier — the frontier for who?'</description>
+<itunes:summary>Andrew and Ava brief Big Technology's Friday edition, recorded on Black Friday: Alex Kantrowitz with Brian McCullough of the Tech Brew Ride Home, the first Friday show since Jensen Huang returned to Nvidia. Bloomberg's report that Blackwell chips turned up in a Shanghai data center linked to Alice Wang (and were used as collateral), Brian's "maybe 20% into it", and the great-man split between Wall Street and Silicon Valley. Then the business question nobody is asking: Nvidia halts server shipments to Malaysia, Singapore, Thailand and Indonesia ($104 billion booked through Singapore in 2025), and whether Asia was propping up GPU scarcity. Also the Bank of Jensen and circular deals (Alphabet's $127 billion of "other income"), Jensen's "no succession plan" as leverage, AI as a weapon (Black October, the Air Force cloud breach), the export-rule change that leaves Chinese labs like Z.ai and Moonshot slipping, Alexandr Wang's "Superintelligence is arriving", and Brian's four scenarios for the next 6 to 18 months, including labs keeping their best models for themselves. Listen from 12:45 to 21:30, 24:00 to 29:30, and 46:45 to 57:30.
+
+Listen verdict: LISTEN 00:12:44-00:21:30 (FT halt to four countries, $104B Singapore, the scarcity question, 15-40%, Brian's pushback, 'what we've been told about the market isn't true'), 00:24:04-00:29:29 (succession plan as leverage, Colette Kress 'picky and choosy', 60 direct reports, hit-by-a-bus) and 00:46:44-00:57:30 (Brian's four scenarios, LeCun vs the walls, Riemann vs PowerPoint, 'the frontier for who'). Good 00:01:19-00:07:05 (Bloomberg collateral story, '20% into it'), 00:21:36-00:24:04 (Bank of Jensen, Alphabet's $127B), 00:30:17-00:39:06 (export controls, AI as a weapon, Air Force breach, WSJ quarter-of-compute loophole, Z.ai/Moonshot slip). Skim 00:07:05-00:12:44 (great-man debate, board pretzel), 00:39:06-00:41:38 (two races), 00:44:34-00:46:44 (Wang essay setup). Skip ads 00:00:00-00:01:18 (teaser + ads), 00:41:54-00:44:33, 00:58:10-end (box-transcript times).
+
+Sticky insights:
+- Alex: if Asia demand (estimates 15% to 40%) evaporates, can Nvidia still manufacture scarcity? Brian: if you had to sell into China, 'what we've been told about the market isn't true.'
+- Brian: no succession plan is leverage ('if I'm back, I'm staying back'); Alex: Jensen's 'got the economy where it hurts', 60 direct reports, and that's absurd.
+- WSJ: closing the remote-access loophole cut Chinese labs off from as much as a quarter of their compute; Reuters: Z.ai's GLM 5.5 slipped, Moonshot sees release gaps doubling.
+- Brian's fourth scenario: labs keep their best models internal and launch businesses themselves; Alex: 'pacing the frontier — the frontier for who?'</itunes:summary>
+<enclosure url="https://preethamag.github.io/apb-d740301524d5bb72cf1d/audio/big-technology-nvidia-undoing.mp3" length="17381036" type="audio/mpeg"/>
+<itunes:duration>18:06</itunes:duration>
+<itunes:author>Atlas Gowda</itunes:author>
+<itunes:image href="https://preethamag.github.io/apb-d740301524d5bb72cf1d/cover-v2.jpg"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Moonshots EP #316 — Thanksgiving Special: The Stolen Fetal Pig, Nearly Fired Before Amazon, a Tweet That Led to Singularity University &amp; 150 No's Before the XPRIZE (Conversational)</title>
 <itunes:title>Moonshots EP #316 — Thanksgiving Special: The Stolen Fetal Pig, Nearly Fired Before Amazon, a Tweet That Led to Singularity University &amp; 150 No's Before the XPRIZE (Conversational)</itunes:title>
